@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/eclipse/Baseball Project/jars/opencsv-4.2.jar" sourcepath="C:/Users/Kevin/OneDrive/eclipse/Baseball Project/jars/opencsv-4.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/OneDrive/eclipse/Baseball%20Project/jars/opencsv-4.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/eclipse/Baseball Project/jars/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3.jar" sourcepath="C:/Users/Kevin/OneDrive/eclipse/Baseball Project/jars/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/OneDrive/eclipse/Baseball%20Project/jars/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/eclipse/Baseball Project/jars/commons-collections4-4.1-bin/commons-collections4-4.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/OneDrive/eclipse/Baseball%20Project/jars/commons-collections4-4.1-bin/commons-collections4-4.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/eclipse/Baseball Project/jars/commons-lang3-3.7-bin/commons-lang3-3.7.jar" sourcepath="C:/Users/Kevin/OneDrive/eclipse/Baseball Project/jars/commons-lang3-3.7-bin/commons-lang3-3.7-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/OneDrive/eclipse/Baseball%20Project/jars/commons-lang3-3.7-bin/commons-lang3-3.7-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/eclipse/Baseball Project/jars/commons-text-1.4-bin/commons-text-1.4.jar" sourcepath="C:/Users/Kevin/OneDrive/eclipse/Baseball Project/jars/commons-text-1.4-bin/commons-text-1.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/OneDrive/eclipse/Baseball%20Project/jars/commons-text-1.4-bin/commons-text-1.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/eclipse/Baseball Project/jars/Jsoup/jsoup-1.11.3.jar" sourcepath="C:/Users/Kevin/OneDrive/eclipse/Baseball Project/jars/Jsoup/jsoup-1.11.3-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/OneDrive/eclipse/Baseball%20Project/jars/Jsoup/jsoup-1.11.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
