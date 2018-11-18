@@ -186,6 +186,8 @@ public class NCAABoxScoreScraper {
       List<String[]> gameBoxScoreInfo = new ArrayList<>();
       String[] gameInfo = it.next();
       if (completedBoxScores.add(Integer.parseInt(gameInfo[SCHEDULE_GAME_ID]))) {
+        List<String> teams = new ArrayList<>();
+        List<String> scores = new ArrayList<>();
         numBoxScores++;
         String url = NCAAUtils.BASE_URL + "/game/box_score/" + gameInfo[SCHEDULE_GAME_ID]
             + "?year_stat_category_id=11953";
@@ -226,6 +228,7 @@ public class NCAABoxScoreScraper {
 
           String numInnings = String.valueOf(inningsHeader.size() - 3);
           String teamName = team.text();
+          teams.add(teamName);
           row[BOX_SCORE_INFO_GAME_ID] = gameId;
           row[BOX_SCORE_INFO_DATE] = date;
           row[BOX_SCORE_INFO_LOCATION] = location;
@@ -235,6 +238,9 @@ public class NCAABoxScoreScraper {
 
           for (int j = 0; j < inningsHeader.size(); j++) {
             row[j + GAME_INFO_HEADER.length] = inningsHeader.get(j).text();
+            if (j == inningsHeader.size() - 3) {
+              scores.add(inningsHeader.get(j).text());
+            }
           }
           gameBoxScoreInfo.add(row);
         }
@@ -248,6 +254,8 @@ public class NCAABoxScoreScraper {
         System.out.print(numBoxScores + ": " + gameInfo[SCHEDULE_GAME_ID] + ": ");
         System.out.println(gameDetails.text());
         System.out.print(numBoxScores + ": " + gameInfo[SCHEDULE_GAME_ID] + ": ");
+        System.out
+            .println(teams.get(0) + " " + scores.get(0) + "-" + scores.get(1) + " " + teams.get(1));
       }
     }
     System.out.println("Done! " + numBoxScores + " box scores analyzed.");
