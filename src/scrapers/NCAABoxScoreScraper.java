@@ -64,7 +64,7 @@ public class NCAABoxScoreScraper {
         + team.toLowerCase().replaceAll(" ", "_") + "_" + year + "_D" + division + "/"
         + team.toLowerCase().replaceAll(" ", "_") + "_schedule_" + year + "_D" + division + ".csv";
     String writeFileName = team.toLowerCase().replaceAll(" ", "_") + "_box_score_info_" + year
-        + "_D" + division + ".csv";
+        + "_D" + division;
 
     String fileName = NCAAUtils.createDirectoryAndCSVFile(directoryName, writeFileName);
 
@@ -82,17 +82,17 @@ public class NCAABoxScoreScraper {
       case Hitting:
         header = HITTING_HEADER;
         writeFileName =
-            directoryName + "/ncaa_hitting_box_scores_" + year + "_D" + division + ".csv";
+            "ncaa_hitting_box_scores_" + year + "_D" + division;
         break;
       case Pitching:
         header = PITCHING_HEADER;
         writeFileName =
-            directoryName + "/ncaa_pitching_box_scores_" + year + "_D" + division + ".csv";
+            "ncaa_pitching_box_scores_" + year + "_D" + division;
         break;
       case Fielding:
         header = FIELDING_HEADER;
         writeFileName =
-            directoryName + "/ncaa_fielding_box_scores_" + year + "_D" + division + ".csv";
+            "ncaa_fielding_box_scores_" + year + "_D" + division;
         break;
     }
 
@@ -116,17 +116,17 @@ public class NCAABoxScoreScraper {
       case Hitting:
         header = HITTING_HEADER;
         writeFileName = directoryName + "/" + team.toLowerCase().replaceAll(" ", "_")
-            + "_hitting_box_scores_" + year + "_D" + division + ".csv";
+            + "_hitting_box_scores_" + year + "_D" + division;
         break;
       case Pitching:
         header = PITCHING_HEADER;
         writeFileName = directoryName + "/" + team.toLowerCase().replaceAll(" ", "_")
-            + "_pitching_box_scores_" + year + "_D" + division + ".csv";
+            + "_pitching_box_scores_" + year + "_D" + division;
         break;
       case Fielding:
         header = FIELDING_HEADER;
         writeFileName = directoryName + "/" + team.toLowerCase().replaceAll(" ", "_")
-            + "_fielding_box_scores_" + year + "_D" + division + ".csv";
+            + "_fielding_box_scores_" + year + "_D" + division;
         break;
     }
 
