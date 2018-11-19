@@ -2,35 +2,11 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/Kevin/git/NCAA-Baseball-Scraper/External Classes/Jars/commons-beanutils-1.9.3.jar" sourcepath="C:/Users/Kevin/git/NCAA-Baseball-Scraper/External Classes/Sources/commons-beanutils-1.9.3-sources.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/git/NCAA-Baseball-Scraper/External%20Classes/Javadocs/commons-beanutils-1.9.3-javadoc.jar!/"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Kevin/git/NCAA-Baseball-Scraper/External Classes/Jars/commons-collections4-4.1.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/git/NCAA-Baseball-Scraper/External%20Classes/Javadocs/commons-collections4-4.1-javadoc.jar!/"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Kevin/git/NCAA-Baseball-Scraper/External Classes/Jars/commons-lang3-3.7.jar" sourcepath="C:/Users/Kevin/git/NCAA-Baseball-Scraper/External Classes/Sources/commons-lang3-3.7-sources.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/git/NCAA-Baseball-Scraper/External%20Classes/Javadocs/commons-lang3-3.7-javadoc.jar!/"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Kevin/git/NCAA-Baseball-Scraper/External Classes/Jars/commons-text-1.4.jar" sourcepath="C:/Users/Kevin/git/NCAA-Baseball-Scraper/External Classes/Sources/commons-text-1.4-sources.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/git/NCAA-Baseball-Scraper/External%20Classes/Javadocs/commons-text-1.4-javadoc.jar!/"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Kevin/git/NCAA-Baseball-Scraper/External Classes/Jars/jsoup-1.11.3.jar" sourcepath="C:/Users/Kevin/git/NCAA-Baseball-Scraper/External Classes/Sources/jsoup-1.11.3-sources.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/git/NCAA-Baseball-Scraper/External%20Classes/Javadocs/jsoup-1.11.3-javadoc.jar!/"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Kevin/git/NCAA-Baseball-Scraper/External Classes/Jars/opencsv-4.2.jar" sourcepath="C:/Users/Kevin/git/NCAA-Baseball-Scraper/External Classes/Sources/opencsv-4.2-sources.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/C:/Users/Kevin/git/NCAA-Baseball-Scraper/External%20Classes/Javadocs/opencsv-4.2-javadoc.jar!/"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Terri/git/NCAA-Baseball-Scraper/External Classes/Jars/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Terri/git/NCAA-Baseball-Scraper/External Classes/Jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Terri/git/NCAA-Baseball-Scraper/External Classes/Jars/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Terri/git/NCAA-Baseball-Scraper/External Classes/Jars/commons-text-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Terri/git/NCAA-Baseball-Scraper/External Classes/Jars/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Terri/git/NCAA-Baseball-Scraper/External Classes/Jars/opencsv-4.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

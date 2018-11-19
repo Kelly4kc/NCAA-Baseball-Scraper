@@ -14,15 +14,15 @@ public class NCAAScrapeRunner {
      * NCAAConferenceScraper.scrapeConferences(year, 1);
      * NCAATeamScraper.scrapeTeamsByConference(year, 1); }
      */
-    for (int year = 2012; year < 2018; year++) {
+   // for (int year = 2012; year < 2018; year++) {
      // NCAAScheduleScraper.scrapeSchedule(year, 1);
-    }
+    //}
     //NCAABoxScoreScraper.scrapeGameInfo(2018, 1);
-    //for (Type t : Type.values()) {
-     // NCAABoxScoreScraper.scrapeBoxScores(2018, 1, t);
+   // for (Type t : Type.values()) {
+    //  NCAABoxScoreScraper.scrapeBoxScores(2018, 1, t);
     //}
     
-    NCAAPlayByPlayScraper.scrapePlayByPlay(2018, 1);
+    //NCAAPlayByPlayScraper.scrapePlayByPlay(2018, 1);
     
     long endTime = System.currentTimeMillis();
     System.out.println("Total Time: " + (endTime - startTime) / 1000.0);
