@@ -18,6 +18,106 @@ import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 
 public class NCAAUtils {
+
+  private static final String[] HITTING_BOX_HEADER_2012 =
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "AB", "R", "H", "2B",
+          "3B", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS", "Picked"};
+  private static final String[] HITTING_BOX_HEADER_2013 =
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "AB", "H", "TB", "R",
+          "2B", "3B", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS", "Picked"};
+  private static final String[] HITTING_BOX_HEADER_2014 =
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "AB", "R", "H",
+          "2B", "3B", "TB", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS", "Picked"};
+  private static final String[] HITTING_BOX_HEADER_2015 =
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "R", "AB", "H",
+          "2B", "3B", "TB", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS", "Picked"};
+  private static final String[] HITTING_BOX_HEADER_2016 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "G", "R", "AB", "H", "2B", "3B", "TB", "HR", "RBI",
+      "BB", "HBP", "SF", "SH", "K", "DP", "CS", "Picked", "SB", "RBI2out"};
+  private static final String[] HITTING_BOX_HEADER_2017 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "G", "R", "AB", "H", "2B", "3B", "TB", "HR", "RBI",
+      "BB", "HBP", "SF", "SH", "K", "DP", "CS", "Picked", "SB", "RBI2out"};
+  private static final String[] HITTING_BOX_HEADER_2018 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "G", "R", "AB", "H", "2B", "3B", "TB", "HR", "RBI",
+      "BB", "HBP", "SF", "SH", "K", "DP", "CS", "Picked", "SB", "RBI2out"};
+  private static final String[] PITCHING_BOX_HEADER_2012 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "App", "GS", "IP", "H", "R", "ER", "BB", "SO", "SHO",
+      "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run", "Inh Run Score",
+      "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+  private static final String[] PITCHING_BOX_HEADER_2013 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "App", "GS", "IP", "H", "R", "ER", "BB", "SO", "SHO",
+      "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run", "Inh Run Score",
+      "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+  private static final String[] PITCHING_BOX_HEADER_2014 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "App", "GS", "IP", "H", "R", "ER", "BB", "SO", "SHO",
+      "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run", "Inh Run Score",
+      "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+  private static final String[] PITCHING_BOX_HEADER_2015 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "G", "App", "GS", "IP", "H", "R", "ER", "BB", "SO",
+      "SHO", "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run",
+      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+  private static final String[] PITCHING_BOX_HEADER_2016 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "G", "App", "GS", "IP", "CG", "H", "R", "ER", "BB",
+      "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "Bk", "HR-A", "WP", "HB", "IBB", "Inh Run",
+      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+  private static final String[] PITCHING_BOX_HEADER_2017 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "G", "App", "GS", "IP", "CG", "H", "R", "ER", "BB",
+      "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "Bk", "HR-A", "WP", "HB", "IBB", "Inh Run",
+      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+  private static final String[] PITCHING_BOX_HEADER_2018 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "G", "App", "GS", "IP", "CG", "H", "R", "ER", "BB",
+      "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "Bk", "HR-A", "WP", "HB", "IBB", "Inh Run",
+      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+  private static final String[] FIELDING_BOX_HEADER_2012 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "PO", "A", "E", "CI", "PB", "SBA", "CSB", "IDP", "TP"};
+  private static final String[] FIELDING_BOX_HEADER_2013 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Pos", "Games", "PO", "A", "E", "CI", "PB", "SBA", "CSB", "IDP", "TP"};
+  private static final String[] FIELDING_BOX_HEADER_2014 =
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "PO", "A", "E",
+          "CI", "PB", "SBA", "CSB", "IDP", "TP"};
+  private static final String[] FIELDING_BOX_HEADER_2015 =
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "PO", "A", "E",
+          "CI", "PB", "SBA", "CSB", "IDP", "TP"};
+  private static final String[] FIELDING_BOX_HEADER_2016 =
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "PO", "A", "E",
+          "CI", "PB", "SBA", "CSB", "IDP", "TP"};
+  private static final String[] FIELDING_BOX_HEADER_2017 =
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "G", "PO", "TC",
+          "A", "E", "CI", "PB", "SBA", "CSB", "IDP", "TP"};
+  private static final String[] FIELDING_BOX_HEADER_2018 =
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "PO", "TC", "A",
+          "E", "CI", "PB", "SBA", "CSB", "IDP", "TP"};
+
+  public static final HashMap<Type, HashMap<Integer, String[]>> HEADERS = new HashMap<>();
+  private static final HashMap<Integer, String[]> HITTING_BOX_HEADERS = new HashMap<>();
+  private static final HashMap<Integer, String[]> PITCHING_BOX_HEADERS = new HashMap<>();
+  private static final HashMap<Integer, String[]> FIELDING_BOX_HEADERS = new HashMap<>();
+  static {
+    HITTING_BOX_HEADERS.put(2012, HITTING_BOX_HEADER_2012);
+    HITTING_BOX_HEADERS.put(2013, HITTING_BOX_HEADER_2013);
+    HITTING_BOX_HEADERS.put(2014, HITTING_BOX_HEADER_2014);
+    HITTING_BOX_HEADERS.put(2015, HITTING_BOX_HEADER_2015);
+    HITTING_BOX_HEADERS.put(2016, HITTING_BOX_HEADER_2016);
+    HITTING_BOX_HEADERS.put(2017, HITTING_BOX_HEADER_2017);
+    HITTING_BOX_HEADERS.put(2018, HITTING_BOX_HEADER_2018);
+    PITCHING_BOX_HEADERS.put(2012, PITCHING_BOX_HEADER_2012);
+    PITCHING_BOX_HEADERS.put(2013, PITCHING_BOX_HEADER_2013);
+    PITCHING_BOX_HEADERS.put(2014, PITCHING_BOX_HEADER_2014);
+    PITCHING_BOX_HEADERS.put(2015, PITCHING_BOX_HEADER_2015);
+    PITCHING_BOX_HEADERS.put(2016, PITCHING_BOX_HEADER_2016);
+    PITCHING_BOX_HEADERS.put(2017, PITCHING_BOX_HEADER_2017);
+    PITCHING_BOX_HEADERS.put(2018, PITCHING_BOX_HEADER_2018);
+    FIELDING_BOX_HEADERS.put(2012, FIELDING_BOX_HEADER_2012);
+    FIELDING_BOX_HEADERS.put(2013, FIELDING_BOX_HEADER_2013);
+    FIELDING_BOX_HEADERS.put(2014, FIELDING_BOX_HEADER_2014);
+    FIELDING_BOX_HEADERS.put(2015, FIELDING_BOX_HEADER_2015);
+    FIELDING_BOX_HEADERS.put(2016, FIELDING_BOX_HEADER_2016);
+    FIELDING_BOX_HEADERS.put(2017, FIELDING_BOX_HEADER_2017);
+    FIELDING_BOX_HEADERS.put(2018, FIELDING_BOX_HEADER_2018);
+    HEADERS.put(Type.Hitting, HITTING_BOX_HEADERS);
+    HEADERS.put(Type.Pitching, PITCHING_BOX_HEADERS);
+    HEADERS.put(Type.Fielding, FIELDING_BOX_HEADERS);
+  }
   public static final String BASE_URL = "http://stats.ncaa.org";
 
   public static final int HITTING = 0;
@@ -187,16 +287,9 @@ public class NCAAUtils {
     return directoryName + "/" + fileName + ".csv";
   }
 
-  public static CSVWriter CSVWriter(String fileName) {
-    CSVWriter writer = null;
-    try {
-      writer = new CSVWriter(new FileWriter(fileName));
-    } catch (IOException e) {
-      System.out.println("Failed to create CSVWriter, check file name/existence.");
-      System.out.println(fileName);
-      System.exit(0);
-    }
-    System.out.println("Exporting data into: " + fileName);
-    return writer;
+  public static double inningsAdder(double currentInnings, double inningsToAdd) {
+    int integerSum = ((int) currentInnings) + ((int) inningsToAdd);
+    int decimalSum = (int) (((currentInnings * 10) % 10) + ((inningsToAdd * 10) % 10));
+    return integerSum + (decimalSum / 3) + ((decimalSum % 3) / 10.0);
   }
 }
