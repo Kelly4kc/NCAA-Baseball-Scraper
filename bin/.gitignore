@@ -1,3 +1,6 @@
 /objects/
 /utils/
 /NCAAStatsTotalsFromBoxScores.class
+/box_score_objects/
+/play_by_play_objects/
+/NCAAPlayByPlayGamesFromPlayByPlay.class

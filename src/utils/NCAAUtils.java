@@ -20,73 +20,91 @@ import com.opencsv.CSVWriter;
 public class NCAAUtils {
 
   private static final String[] HITTING_BOX_HEADER_2012 =
-      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "AB", "R", "H", "2B",
-          "3B", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS", "Picked"};
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Lineup Position", "Games", "AB", "R",
+          "H", "2B", "3B", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS", "Picked",
+          "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] HITTING_BOX_HEADER_2013 =
-      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "AB", "H", "TB", "R",
-          "2B", "3B", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS", "Picked"};
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Lineup Position", "Games", "AB", "H",
+          "TB", "R", "2B", "3B", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS",
+          "Picked", "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] HITTING_BOX_HEADER_2014 =
-      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "AB", "R", "H",
-          "2B", "3B", "TB", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS", "Picked"};
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Lineup Position", "Games", "G", "AB",
+          "R", "H", "2B", "3B", "TB", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS",
+          "Picked", "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] HITTING_BOX_HEADER_2015 =
-      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "R", "AB", "H",
-          "2B", "3B", "TB", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS", "Picked"};
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Lineup Position", "Games", "G", "R",
+          "AB", "H", "2B", "3B", "TB", "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "SB", "CS",
+          "Picked", "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] HITTING_BOX_HEADER_2016 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "G", "R", "AB", "H", "2B", "3B", "TB", "HR", "RBI",
-      "BB", "HBP", "SF", "SH", "K", "DP", "CS", "Picked", "SB", "RBI2out"};
+      "Player ID", "Player", "Lineup Position", "Games", "G", "R", "AB", "H", "2B", "3B", "TB",
+      "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "CS", "Picked", "SB", "RBI2out", "P", "C",
+      "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] HITTING_BOX_HEADER_2017 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "G", "R", "AB", "H", "2B", "3B", "TB", "HR", "RBI",
-      "BB", "HBP", "SF", "SH", "K", "DP", "CS", "Picked", "SB", "RBI2out"};
+      "Player ID", "Player", "Lineup Position", "Games", "G", "R", "AB", "H", "2B", "3B", "TB",
+      "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "CS", "Picked", "SB", "RBI2out", "P", "C",
+      "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] HITTING_BOX_HEADER_2018 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "G", "R", "AB", "H", "2B", "3B", "TB", "HR", "RBI",
-      "BB", "HBP", "SF", "SH", "K", "DP", "CS", "Picked", "SB", "RBI2out"};
+      "Player ID", "Player", "Lineup Position", "Games", "G", "R", "AB", "H", "2B", "3B", "TB",
+      "HR", "RBI", "BB", "HBP", "SF", "SH", "K", "DP", "CS", "Picked", "SB", "RBI2out", "P", "C",
+      "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] PITCHING_BOX_HEADER_2012 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "App", "GS", "IP", "H", "R", "ER", "BB", "SO", "SHO",
-      "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run", "Inh Run Score",
-      "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+      "Player ID", "Player", "Lineup Position", "Games", "App", "GS", "IP", "H", "R", "ER", "BB",
+      "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run",
+      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL",
+      "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] PITCHING_BOX_HEADER_2013 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "App", "GS", "IP", "H", "R", "ER", "BB", "SO", "SHO",
-      "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run", "Inh Run Score",
-      "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+      "Player ID", "Player", "Lineup Position", "Games", "App", "GS", "IP", "H", "R", "ER", "BB",
+      "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run",
+      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL",
+      "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] PITCHING_BOX_HEADER_2014 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "App", "GS", "IP", "H", "R", "ER", "BB", "SO", "SHO",
-      "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run", "Inh Run Score",
-      "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+      "Player ID", "Player", "Lineup Position", "Games", "App", "GS", "IP", "H", "R", "ER", "BB",
+      "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run",
+      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL",
+      "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] PITCHING_BOX_HEADER_2015 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "G", "App", "GS", "IP", "H", "R", "ER", "BB", "SO",
-      "SHO", "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run",
-      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+      "Player ID", "Player", "Lineup Position", "Games", "G", "App", "GS", "IP", "H", "R", "ER",
+      "BB", "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "HR-A", "WP", "Bk", "HB", "IBB", "Inh Run",
+      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL",
+      "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] PITCHING_BOX_HEADER_2016 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "G", "App", "GS", "IP", "CG", "H", "R", "ER", "BB",
-      "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "Bk", "HR-A", "WP", "HB", "IBB", "Inh Run",
-      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+      "Player ID", "Player", "Lineup Position", "Games", "G", "App", "GS", "IP", "CG", "H", "R",
+      "ER", "BB", "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "Bk", "HR-A", "WP", "HB", "IBB",
+      "Inh Run", "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV",
+      "OrdAppeared", "KL", "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] PITCHING_BOX_HEADER_2017 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "G", "App", "GS", "IP", "CG", "H", "R", "ER", "BB",
-      "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "Bk", "HR-A", "WP", "HB", "IBB", "Inh Run",
-      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+      "Player ID", "Player", "Lineup Position", "Games", "G", "App", "GS", "IP", "CG", "H", "R",
+      "ER", "BB", "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "Bk", "HR-A", "WP", "HB", "IBB",
+      "Inh Run", "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV",
+      "OrdAppeared", "KL", "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] PITCHING_BOX_HEADER_2018 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "G", "App", "GS", "IP", "CG", "H", "R", "ER", "BB",
-      "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "Bk", "HR-A", "WP", "HB", "IBB", "Inh Run",
-      "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
+      "Player ID", "Player", "Lineup Position", "Games", "G", "App", "GS", "IP", "CG", "H", "R",
+      "ER", "BB", "SO", "SHO", "BF", "P-OAB", "2B-A", "3B-A", "Bk", "HR-A", "WP", "HB", "IBB",
+      "Inh Run", "Inh Run Score", "SHA", "SFA", "Pitches", "GO", "FO", "W", "L", "SV",
+      "OrdAppeared", "KL", "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] FIELDING_BOX_HEADER_2012 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "PO", "A", "E", "CI", "PB", "SBA", "CSB", "IDP", "TP"};
+      "Player ID", "Player", "Lineup Position", "Games", "PO", "A", "E", "CI", "PB", "SBA", "CSB",
+      "IDP", "TP", "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] FIELDING_BOX_HEADER_2013 = new String[] {"Game ID", "Team",
-      "Player ID", "Player", "Pos", "Games", "PO", "A", "E", "CI", "PB", "SBA", "CSB", "IDP", "TP"};
-  private static final String[] FIELDING_BOX_HEADER_2014 =
-      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "PO", "A", "E",
-          "CI", "PB", "SBA", "CSB", "IDP", "TP"};
-  private static final String[] FIELDING_BOX_HEADER_2015 =
-      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "PO", "A", "E",
-          "CI", "PB", "SBA", "CSB", "IDP", "TP"};
-  private static final String[] FIELDING_BOX_HEADER_2016 =
-      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "PO", "A", "E",
-          "CI", "PB", "SBA", "CSB", "IDP", "TP"};
+      "Player ID", "Player", "Lineup Position", "Games", "PO", "A", "E", "CI", "PB", "SBA", "CSB",
+      "IDP", "TP", "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
+  private static final String[] FIELDING_BOX_HEADER_2014 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Lineup Position", "Games", "G", "PO", "A", "E", "CI", "PB", "SBA",
+      "CSB", "IDP", "TP", "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
+  private static final String[] FIELDING_BOX_HEADER_2015 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Lineup Position", "Games", "G", "PO", "A", "E", "CI", "PB", "SBA",
+      "CSB", "IDP", "TP", "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
+  private static final String[] FIELDING_BOX_HEADER_2016 = new String[] {"Game ID", "Team",
+      "Player ID", "Player", "Lineup Position", "Games", "G", "PO", "A", "E", "CI", "PB", "SBA",
+      "CSB", "IDP", "TP", "P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] FIELDING_BOX_HEADER_2017 =
-      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "G", "PO", "TC",
-          "A", "E", "CI", "PB", "SBA", "CSB", "IDP", "TP"};
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Lineup Position", "Games", "G", "G",
+          "PO", "TC", "A", "E", "CI", "PB", "SBA", "CSB", "IDP", "TP", "P", "C", "1B", "2B", "3B",
+          "SS", "LF", "CF", "RF", "DH", "PH", "PR"};
   private static final String[] FIELDING_BOX_HEADER_2018 =
-      new String[] {"Game ID", "Team", "Player ID", "Player", "Pos", "Games", "G", "PO", "TC", "A",
-          "E", "CI", "PB", "SBA", "CSB", "IDP", "TP"};
+      new String[] {"Game ID", "Team", "Player ID", "Player", "Lineup Position", "Games", "G", "PO",
+          "TC", "A", "E", "CI", "PB", "SBA", "CSB", "IDP", "TP", "P", "C", "1B", "2B", "3B", "SS",
+          "LF", "CF", "RF", "DH", "PH", "PR"};
 
   public static final HashMap<Type, HashMap<Integer, String[]>> HEADERS = new HashMap<>();
   private static final HashMap<Integer, String[]> HITTING_BOX_HEADERS = new HashMap<>();
