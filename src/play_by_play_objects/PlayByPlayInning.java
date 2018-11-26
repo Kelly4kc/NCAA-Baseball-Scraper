@@ -115,4 +115,8 @@ public class PlayByPlayInning {
   public int getHomeLeftOnBase() {
     return homeLeftOnBase;
   }
+
+  public ArrayList<PlayByPlayLine> getLines() {
+    return lines;
+  }
 }

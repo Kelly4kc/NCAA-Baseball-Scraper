@@ -8,6 +8,7 @@ import com.opencsv.CSVWriter;
 import box_score_objects.BoxScoreLine;
 import box_score_objects.Team;
 import box_score_objects.TeamBoxScore;
+import utils.NCAAHeaders;
 import utils.NCAAUtils;
 import utils.Type;
 import utils.Venue;
@@ -15,7 +16,7 @@ import utils.Venue;
 public class NCAAStatsTotalsFromBoxScores {
   public static void main(String[] args) {
     long startTime = System.currentTimeMillis();
-    int year = 2018;
+    int year = 2012;
     for (Venue v : Venue.values()) {
       for (Type t : Type.values()) {
         String readFileName = "ncaa_" + year + "_D1/ncaa_box_scores/ncaa_"
@@ -38,9 +39,9 @@ public class NCAAStatsTotalsFromBoxScores {
             NCAAUtils.createDirectoryAndCSVFile(teamsDirectoryName, teamsFileName);
 
         CSVWriter playersWriter =
-            NCAAUtils.CSVWriter(playersWriterName, NCAAUtils.HEADERS.get(t).get(year));
+            NCAAUtils.CSVWriter(playersWriterName, NCAAHeaders.STATS_HEADERS.get(t).get(year));
         CSVWriter teamsWriter =
-            NCAAUtils.CSVWriter(teamsWriterName, NCAAUtils.HEADERS.get(t).get(year));
+            NCAAUtils.CSVWriter(teamsWriterName, NCAAHeaders.STATS_HEADERS.get(t).get(year));
 
         Set<String> teamSet = teams.keySet();
         for (String team : teamSet) {

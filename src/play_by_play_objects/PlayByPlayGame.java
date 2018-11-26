@@ -58,4 +58,12 @@ public class PlayByPlayGame {
       System.out.println("Failed to write to file");
     }
   }
+
+  public Integer getGameId() {
+    return gameId;
+  }
+
+  public ArrayList<PlayByPlayInning> getInnings() {
+    return innings;
+  }
 }

@@ -20,6 +20,8 @@ public class NCAAScrapeRunner {
       }
       // NCAAPlayByPlayScraper.scrapePlayByPlay(year, 1);
     }
+    NCAAScheduleScraper.scrapeTeamSchedule(2018, 1, "James Madison");
+    NCAAPlayByPlayScraper.scrapeTeamPlayByPlay(2018, 1, "James Madison");
     long endTime = System.currentTimeMillis();
     System.out.println("Total Time: " + (endTime - startTime) / 1000.0);
   }

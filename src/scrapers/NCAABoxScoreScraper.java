@@ -16,6 +16,7 @@ import org.jsoup.select.Elements;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 
+import utils.NCAAHeaders;
 import utils.NCAAUtils;
 import utils.Type;
 
@@ -33,15 +34,6 @@ public class NCAABoxScoreScraper {
   private static final int SCHEDULE_GAME_ID = 21;
   private static final String[] GAME_INFO_HEADER =
       new String[] {"Game ID", "Date", "Location", "Attendance", "Number of Innings", "Team",};
-  private static final String[] HITTING_HEADER = new String[] {"Game ID", "Team Name", "Player ID",
-      "Player Name", "Position", "G", "R", "AB", "H", "2B", "3B", "TB", "HR", "RBI", "BB", "HBP",
-      "SF", "SH", "K", "DP", "CS", "Picked Off", "SB", "2 Out RBI"};
-  private static final String[] PITCHING_HEADER = new String[] {"Game ID", "Team Name", "Player ID",
-      "Player Name", "Position", "G", "App", "GS", "IP", "CG", "H", "R", "ER", "BB", "SO", "SHO",
-      "BF", "P-OAB", "2B-A", "3B-A", "Bk", "HR-A", "WP", "HB", "IBB", "IR", "IRS", "SHA", "SFA",
-      "Pitches", "GO", "FO", "W", "L", "SV", "OrdAppeared", "KL"};
-  private static final String[] FIELDING_HEADER = new String[] {"Game ID", "Team Name", "Player ID",
-      "Player Name", "Position", "G", "PO", "TC", "A", "E", "CI", "PB", "SBA", "CSB", "IDP", "TP"};
 
   public static void scrapeGameInfo(int year, int division) {
     String directoryName = "ncaa_" + year + "_D" + division + "/ncaa_box_scores";
@@ -63,8 +55,8 @@ public class NCAABoxScoreScraper {
     String readFileName = "ncaa_" + year + "_D" + division + "/"
         + team.toLowerCase().replaceAll(" ", "_") + "_" + year + "_D" + division + "/"
         + team.toLowerCase().replaceAll(" ", "_") + "_schedule_" + year + "_D" + division + ".csv";
-    String writeFileName = team.toLowerCase().replaceAll(" ", "_") + "_box_score_info_" + year
-        + "_D" + division;
+    String writeFileName =
+        team.toLowerCase().replaceAll(" ", "_") + "_box_score_info_" + year + "_D" + division;
 
     String fileName = NCAAUtils.createDirectoryAndCSVFile(directoryName, writeFileName);
 
@@ -74,27 +66,11 @@ public class NCAABoxScoreScraper {
   public static void scrapeBoxScores(int year, int division, Type type) {
     String directoryName = "ncaa_" + year + "_D" + division + "/ncaa_box_scores";
     new File(directoryName).mkdirs();
-    String[] header = null;
+    String[] header = NCAAHeaders.BOX_HEADERS.get(type).get(year);
     String readFileName =
         "ncaa_" + year + "_D" + division + "/ncaa_schedule_" + year + "_D" + division + ".csv";
-    String writeFileName = null;
-    switch (type) {
-      case Hitting:
-        header = HITTING_HEADER;
-        writeFileName =
-            "ncaa_hitting_box_scores_" + year + "_D" + division;
-        break;
-      case Pitching:
-        header = PITCHING_HEADER;
-        writeFileName =
-            "ncaa_pitching_box_scores_" + year + "_D" + division;
-        break;
-      case Fielding:
-        header = FIELDING_HEADER;
-        writeFileName =
-            "ncaa_fielding_box_scores_" + year + "_D" + division;
-        break;
-    }
+    String writeFileName =
+        "ncaa_" + type.toString().toLowerCase() + "_box_scores_" + year + "_D" + division;
 
     String fileName = NCAAUtils.createDirectoryAndCSVFile(directoryName, writeFileName);
 
@@ -106,29 +82,12 @@ public class NCAABoxScoreScraper {
         + team.toLowerCase().replaceAll(" ", "_") + "_" + year + "_D" + division + "/"
         + team.toLowerCase().replaceAll(" ", "_") + "_box_scores";
     new File(directoryName).mkdirs();
-    String[] header = null;
+    String[] header = NCAAHeaders.BOX_HEADERS.get(type).get(year);
     String readFileName = "ncaa_" + year + "_D" + division + "/"
         + team.toLowerCase().replaceAll(" ", "_") + "_" + year + "_D" + division + "/"
         + team.toLowerCase().replaceAll(" ", "_") + "_schedule_" + year + "_D" + division + ".csv";
-    String writeFileName = null;
-
-    switch (type) {
-      case Hitting:
-        header = HITTING_HEADER;
-        writeFileName = directoryName + "/" + team.toLowerCase().replaceAll(" ", "_")
-            + "_hitting_box_scores_" + year + "_D" + division;
-        break;
-      case Pitching:
-        header = PITCHING_HEADER;
-        writeFileName = directoryName + "/" + team.toLowerCase().replaceAll(" ", "_")
-            + "_pitching_box_scores_" + year + "_D" + division;
-        break;
-      case Fielding:
-        header = FIELDING_HEADER;
-        writeFileName = directoryName + "/" + team.toLowerCase().replaceAll(" ", "_")
-            + "_fielding_box_scores_" + year + "_D" + division;
-        break;
-    }
+    String writeFileName = directoryName + "/" + team.toLowerCase().replaceAll(" ", "_") + "_"
+        + type.toString().toLowerCase() + "_box_scores_" + year + "_D" + division;
 
     String fileName = NCAAUtils.createDirectoryAndCSVFile(directoryName, writeFileName);
 

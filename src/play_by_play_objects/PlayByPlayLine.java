@@ -27,4 +27,8 @@ public class PlayByPlayLine {
     return new String[] {String.valueOf(gameId), String.valueOf(inning), awayTeam, homeTeam, team,
         String.valueOf(eventId), event, score};
   }
+
+  public String getEvent() {
+    return event;
+  }
 }

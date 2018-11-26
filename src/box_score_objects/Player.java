@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
 
+import utils.NCAAHeaders;
 import utils.NCAAUtils;
 import utils.Position;
 import utils.Type;
@@ -52,7 +53,7 @@ public class Player {
 
   public void add(BoxScoreLine line) {
     Venue v = line.getVenue();
-    
+
     games.get(v).add(line);
     addLineToTotals(line, v);
     positions.get(v).put(line.getPosition());
@@ -88,12 +89,13 @@ public class Player {
         totalsArray = new double[line.getLine().length];
         totals.put(v, totalsArray);
       }
-      if ((i + 6 < NCAAUtils.HEADERS.get(t).get(year).length)
-          && NCAAUtils.HEADERS.get(t).get(year)[i + 6].equals("IP")) {
+      String stat = line.getLine()[i].replaceAll("(\\*|\\-)*", "");
+      if ((i + 6 < NCAAHeaders.BOX_HEADERS.get(t).get(year).length)
+          && NCAAHeaders.BOX_HEADERS.get(t).get(year)[i + 6].equals("IP")) {
         totalsArray[i] =
-            NCAAUtils.inningsAdder(totalsArray[i], Double.parseDouble(line.getLine()[i]));
+            NCAAUtils.inningsAdder(totalsArray[i], Double.parseDouble(stat));
       } else {
-        totalsArray[i] = totalsArray[i] + Double.parseDouble(line.getLine()[i]);
+        totalsArray[i] = totalsArray[i] + Double.parseDouble(stat);
       }
     }
   }

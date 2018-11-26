@@ -8,6 +8,7 @@ import java.util.Iterator;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 
+import utils.NCAAHeaders;
 import utils.NCAAUtils;
 import utils.Type;
 
@@ -31,7 +32,7 @@ public class TeamBoxScore implements Comparable<Integer> {
     this.gameId = gameId;
     this.teamName = teamName;
     this.home = home;
-    header = NCAAUtils.HEADERS.get(t).get(year);
+    header = NCAAHeaders.BOX_HEADERS.get(t).get(year);
     if (header == null) {
       throw new IllegalArgumentException("Year must be between 2012 and 2018");
     }
@@ -51,6 +52,9 @@ public class TeamBoxScore implements Comparable<Integer> {
     return teamName;
   }
 
+  public Integer getGameId() {
+    return gameId;
+  }
 
   public void setTeamName(String teamName) {
     this.teamName = teamName;
