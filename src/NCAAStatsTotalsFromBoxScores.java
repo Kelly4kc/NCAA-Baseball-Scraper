@@ -16,22 +16,51 @@ import utils.Venue;
 public class NCAAStatsTotalsFromBoxScores {
   public static void main(String[] args) {
     long startTime = System.currentTimeMillis();
-    int year = 2012;
+    boolean isTeam = true;
+    String teamName = "james_madison";
+    int year = 2018;
     for (Venue v : Venue.values()) {
       for (Type t : Type.values()) {
-        String readFileName = "ncaa_" + year + "_D1/ncaa_box_scores/ncaa_"
-            + t.toString().toLowerCase() + "_box_scores_" + year + "_D1.csv";
-        HashMap<String, Team> teams = getTeamBoxScoresFromFile(year, readFileName, t);
+        String readFileName;
+        String playersDirectoryName;
+        String teamsDirectoryName;
+        String playersFileName;
+        String teamsFileName;
+        HashMap<String, Team> teams;
 
-        String playersDirectoryName =
-            "ncaa_" + year + "_D1/ncaa_stats/players/" + t.toString().toLowerCase();
-        String teamsDirectoryName =
-            "ncaa_" + year + "_D1/ncaa_stats/teams/" + t.toString().toLowerCase();
+        if (isTeam) {
+          readFileName =
+              "ncaa_" + year + "_D1/" + teamName + "_" + year + "_D1/" + teamName + "_box_scores/"
+                  + teamName + "_" + t.toString().toLowerCase() + "_box_scores_" + year + "_D1.csv";
+          teams = getTeamBoxScoresFromFile(year, readFileName, t);
 
-        String playersFileName = "ncaa_player_stats_" + v.toString().toLowerCase() + "_"
-            + t.toString().toLowerCase() + "_" + year + "_" + "D1";
-        String teamsFileName = "ncaa_team_stats_" + v.toString().toLowerCase() + "_"
-            + t.toString().toLowerCase() + "_" + year + "_" + "D1";
+          playersDirectoryName = "ncaa_" + year + "_D1/" + teamName + "_" + year + "_D1/" + teamName
+              + "_" + "stats/players/" + t.toString().toLowerCase();
+          teamsDirectoryName = "ncaa_" + year + "_D1/" + teamName + "_" + year + "_D1/" + teamName
+              + "_" + "stats/teams/" + t.toString().toLowerCase();
+
+          playersFileName = teamName + "_" + "player_stats_"
+              + v.toString().toLowerCase() + "_" + t.toString().toLowerCase() + "_" + year + "_"
+              + "D1";
+          teamsFileName =
+              teamName + "_" + "team_stats_" + v.toString().toLowerCase()
+                  + "_" + t.toString().toLowerCase() + "_" + year + "_" + "D1";
+        } else {
+          readFileName = "ncaa_" + year + "_D1/ncaa_box_scores/ncaa_" + t.toString().toLowerCase()
+              + "_box_scores_" + year + "_D1.csv";
+          teams = getTeamBoxScoresFromFile(year, readFileName, t);
+
+          playersDirectoryName =
+              "ncaa_" + year + "_D1/ncaa_stats/players/" + t.toString().toLowerCase();
+          teamsDirectoryName =
+              "ncaa_" + year + "_D1/ncaa_stats/teams/" + t.toString().toLowerCase();
+
+          playersFileName = "ncaa_player_stats_" + v.toString().toLowerCase() + "_"
+              + t.toString().toLowerCase() + "_" + year + "_" + "D1";
+          teamsFileName = "ncaa_team_stats_" + v.toString().toLowerCase() + "_"
+              + t.toString().toLowerCase() + "_" + year + "_" + "D1";
+        }
+
 
         String playersWriterName =
             NCAAUtils.createDirectoryAndCSVFile(playersDirectoryName, playersFileName);
@@ -54,7 +83,7 @@ public class NCAAStatsTotalsFromBoxScores {
     long endTime = System.currentTimeMillis();
     System.out.println("Total Time: " + (endTime - startTime) / 1000.0);
   }
-  
+
   public static HashMap<String, Team> getTeamBoxScoresFromFile(int year, String fileName, Type t) {
     CSVReader reader = NCAAUtils.CSVReader(fileName);
     Iterator<String[]> it = reader.iterator();
@@ -87,7 +116,7 @@ public class NCAAStatsTotalsFromBoxScores {
 
       awayBoxScore.setOpponentTeamName(homeBoxScore.getTeamName());
       homeBoxScore.setOpponentTeamName(awayBoxScore.getTeamName());
-      
+
       awayBoxScore.setOpponentTotals(homeTotals);
       homeBoxScore.setOpponentTotals(awayTotals);
 

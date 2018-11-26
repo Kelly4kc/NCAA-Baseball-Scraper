@@ -19,17 +19,36 @@ public class NCAAEvents {
   public static void main(String[] args) {
     long startTime = System.currentTimeMillis();
     int year = 2018;
-    String boxScoreFileName =
-        "ncaa_" + year + "_D1/ncaa_box_scores/ncaa_fielding_box_scores_" + year + "_D1.csv";;
-    String pbpFileName =
-        "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_play_by_play_" + year + "_D1.csv";
-    String writeFileName =
-        "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_blank_play_by_play_" + year + "_D1.csv";
-    String writeFileName2 =
-        "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_split_blank_play_by_play_" + year + "_D1.csv";
-    String writeFileName3 = "ncaa_" + year
-        + "_D1/ncaa_play_by_play/ncaa_split_no_name_play_by_play_" + year + "_D1.csv";
+    boolean isTeam = true;
+    String teamName = "james_madison";
+    String boxScoreFileName;
+    String pbpFileName;
+    String writeFileName;
+    String writeFileName2;
+    String writeFileName3;
+    if (isTeam) {
+      boxScoreFileName = "ncaa_" + year + "_D1/" + teamName + "_" + year + "_D1/" + teamName
+          + "_box_scores/" + teamName + "_fielding_box_scores_" + year + "_D1.csv";
+      pbpFileName = "ncaa_" + year + "_D1/" + teamName + "_" + year + "_D1/" + teamName
+          + "_play_by_play/" + teamName + "_play_by_play_" + year + "_D1.csv";
+      writeFileName = "ncaa_" + year + "_D1/" + teamName + "_" + year + "_D1/" + teamName
+          + "_play_by_play/" + teamName + "_blank_play_by_play_" + year + "_D1.csv";
+      writeFileName2 = "ncaa_" + year + "_D1/" + teamName + "_" + year + "_D1/" + teamName
+          + "_play_by_play/" + teamName + "_split_blank_play_by_play_" + year + "_D1.csv";
+      writeFileName3 = "ncaa_" + year + "_D1/" + teamName + "_" + year + "_D1/" + teamName
+          + "_play_by_play/" + teamName + "_split_no_name_play_by_play_" + year + "_D1.csv";
 
+    } else {
+      boxScoreFileName =
+          "ncaa_" + year + "_D1/ncaa_box_scores/ncaa_fielding_box_scores_" + year + "_D1.csv";;
+      pbpFileName = "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_play_by_play_" + year + "_D1.csv";
+      writeFileName =
+          "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_blank_play_by_play_" + year + "_D1.csv";
+      writeFileName2 = "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_split_blank_play_by_play_"
+          + year + "_D1.csv";
+      writeFileName3 = "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_split_no_name_play_by_play_"
+          + year + "_D1.csv";
+    }
     CSVWriter writer = NCAAUtils.CSVWriter(writeFileName, new String[] {"Event", "Frequency"});
     CSVWriter writer2 = NCAAUtils.CSVWriter(writeFileName2, new String[] {"Event", "Frequency"});
     CSVWriter writer3 = NCAAUtils.CSVWriter(writeFileName3, new String[] {"Event", "Frequency"});
@@ -86,19 +105,19 @@ public class NCAAEvents {
             String temp2 = event.substring(event.indexOf("E") + 2);
             String number = event.substring(event.indexOf("E") + 1, event.indexOf("E") + 2);
             if (number.matches("\\d")) {
-               temp += "[positionNumber]" + temp2;
-               event = temp;
+              temp += "[positionNumber]" + temp2;
+              event = temp;
             }
           }
           if (event.contains("#")) {
             while (event.contains("#")) {
-            String temp = event.substring(0, event.indexOf("#")) + "[number]";
-            String numString = event.substring(event.indexOf("#") + 1);
-            String number = numString.substring(0, numString.indexOf(" "));
-            event = temp + numString.replace(number, "");
+              String temp = event.substring(0, event.indexOf("#")) + "[number]";
+              String numString = event.substring(event.indexOf("#") + 1);
+              String number = numString.substring(0, numString.indexOf(" "));
+              event = temp + numString.replace(number, "");
             }
           }
-          
+
           for (FieldLocation fieldLocation : FieldLocation.values()) {
             String fieldLocationString = " " + fieldLocation.toString().toLowerCase();
             if (event.contains(fieldLocationString + " ")) {

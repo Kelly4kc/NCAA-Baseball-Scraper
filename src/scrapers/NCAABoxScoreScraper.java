@@ -86,7 +86,7 @@ public class NCAABoxScoreScraper {
     String readFileName = "ncaa_" + year + "_D" + division + "/"
         + team.toLowerCase().replaceAll(" ", "_") + "_" + year + "_D" + division + "/"
         + team.toLowerCase().replaceAll(" ", "_") + "_schedule_" + year + "_D" + division + ".csv";
-    String writeFileName = directoryName + "/" + team.toLowerCase().replaceAll(" ", "_") + "_"
+    String writeFileName = team.toLowerCase().replaceAll(" ", "_") + "_"
         + type.toString().toLowerCase() + "_box_scores_" + year + "_D" + division;
 
     String fileName = NCAAUtils.createDirectoryAndCSVFile(directoryName, writeFileName);

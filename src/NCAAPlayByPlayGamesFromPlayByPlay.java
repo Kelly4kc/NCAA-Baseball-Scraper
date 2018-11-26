@@ -13,12 +13,22 @@ public class NCAAPlayByPlayGamesFromPlayByPlay {
   public static void main(String[] args) {
     long startTime = System.currentTimeMillis();
     int year = 2018;
-    String readFileName =
-        "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_play_by_play_" + year + "_D1.csv";
-    String writeFileName = "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_pbp_" + year + "_D1.csv";
+    boolean isTeam = true;
+    String teamName = "james_madison";
+    String readFileName;
+    String writeFileName;
+    if (isTeam) {
+      readFileName = "ncaa_" + year + "_D1/" + teamName + "_" + year + "_D1/" + teamName + "_play_by_play/" + teamName
+          + "_play_by_play_" + year + "_D1.csv";
+      writeFileName = "ncaa_" + year + "_D1/" + teamName + "_" + year + "_D1/" + teamName + "_play_by_play/" + teamName
+          + "_pbp_" + year + "_D1.csv";
+    } else {
+      readFileName = "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_play_by_play_" + year + "_D1.csv";
+      writeFileName = "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_pbp_" + year + "_D1.csv";
+    }
+    ArrayList<PlayByPlayGame> allGames = getPlayByPlayFromFile(year, readFileName);
     CSVWriter writer = NCAAUtils.CSVWriter(writeFileName, new String[] {"Game ID", "Inning",
         "Away Team", "Home Team", "Team", "Event ID", "Event", "Score"});
-    ArrayList<PlayByPlayGame> allGames = getPlayByPlayFromFile(year, readFileName);
     for (PlayByPlayGame game : allGames) {
       game.writeGame(writer);
     }

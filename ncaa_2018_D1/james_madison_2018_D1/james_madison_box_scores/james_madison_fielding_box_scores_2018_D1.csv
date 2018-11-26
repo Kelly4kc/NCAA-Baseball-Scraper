@@ -1,0 +1,1710 @@
+Game ID,Team,Player ID,Player,Lineup Position,G,PO,TC,A,E,CI,PB,SBA,CSB,IDP,TP
+4496528,James Madison,1870455,"Semones, Fox",2B,1,3,8,4,1,0,0,0,0,0,0
+4496528,James Madison,1870413,"Griffin, Davonn",LF,1,0,0,0,0,0,0,0,0,0,0
+4496528,James Madison,1870454,"Brown, Harry",LF,1,1,1,0,0,0,0,0,0,0,0
+4496528,James Madison,1643276,"Sisk, Adam",RF,1,0,0,0,0,0,0,0,0,0,0
+4496528,James Madison,1870415,"Dipasupil, Matt",PH,1,0,0,0,0,0,0,0,0,0,0
+4496528,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4496528,James Madison,1772230,"Tondi, Zach",C,1,11,14,3,0,0,0,1,1,0,0
+4496528,James Madison,1772214,"Dofflemyer, Tanner",PR1B,1,2,2,0,0,0,0,0,0,0,0
+4496528,James Madison,1997572,"Morgan, Michael",1B,1,6,7,1,0,0,0,0,0,0,0
+4496528,James Madison,1643272,"McKay, Bradley",3B,1,0,2,1,1,0,0,0,0,0,0
+4496528,James Madison,1997556,"Jones, Josh",SS,1,2,5,2,1,0,0,0,0,0,0
+4496528,James Madison,1643277,"Sciorra, Michael",CF,1,1,1,0,0,0,0,0,0,0,0
+4496528,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,1,0,0,0
+4496528,James Madison,1870460,"Kelly, Kevin",P,1,0,1,1,0,0,0,0,0,0,0
+4496528,James Madison,1643273,"Harlow, Colton",P,1,1,1,0,0,0,0,0,1,0,0
+4496528,James Madison,,Totals,0,1,27,42,12,3,0,0,1,1,0,0
+4496528,High Point,1649018,"Zente, Austen",CF,1,2,2,0,0,0,0,0,0,0,0
+4496528,High Point,1649015,"Lee, Hunter",2B,1,3,5,2,0,0,0,0,0,1,0
+4496528,High Point,1871442,"Schunk, Blake",3B,1,0,1,1,0,0,0,0,0,0,0
+4496528,High Point,1649014,"Jackson, Carson",RF,1,0,0,0,0,0,0,0,0,0,0
+4496528,High Point,1976693,"Holt, Travis",1B,1,6,7,0,1,0,0,0,0,2,0
+4496528,High Point,1976695,"Wells, Tanner",LF,1,3,3,0,0,0,0,0,0,0,0
+4496528,High Point,1871443,"Sergent, Jordan",PH,1,0,0,0,0,0,0,0,0,0,0
+4496528,High Point,1759795,"Woodard, JJ",C,1,2,4,2,0,0,0,0,1,0,0
+4496528,High Point,1649008,"Brown, Spencer",C,1,9,9,0,0,0,0,0,0,0,0
+4496528,High Point,1759786,"Dunbar, Conner",SS,1,2,4,2,0,0,0,0,0,2,0
+4496528,High Point,1871428,"Johnson, Joe",PHDH,1,0,0,0,0,0,0,0,0,0,0
+4496528,High Point,1759788,"Gottfried, Andrew",DH,1,0,0,0,0,0,0,0,0,0,0
+4496528,High Point,1871433,"Murrah, Rion",P,1,0,0,0,0,0,0,0,0,0,0
+4496528,High Point,1759790,"Hodges, Matt",P,1,0,0,0,0,0,0,0,1,0,0
+4496528,High Point,1871429,"Letchworth, Garrett",P,1,0,1,1,0,0,0,0,0,1,0
+4496528,High Point,1759791,"Jeffers, Cooper",P,1,0,0,0,0,0,0,0,0,0,0
+4496528,High Point,1871424,"Daczkowski, Drew",P,1,0,0,0,0,0,0,0,0,0,0
+4496528,High Point,,Totals,0,1,27,36,8,1,0,0,0,1,2,0
+4499325,James Madison,1870455,"Semones, Fox",2B,1,2,6,2,2,0,0,0,0,0,0
+4499325,James Madison,1870413,"Griffin, Davonn",PHLF,1,0,0,0,0,0,0,0,0,0,0
+4499325,James Madison,1870454,"Brown, Harry",LF,1,1,1,0,0,0,0,0,0,0,0
+4499325,James Madison,1643276,"Sisk, Adam",RF,1,3,3,0,0,0,0,0,0,0,0
+4499325,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4499325,James Madison,1997555,"Jackson, Dallas",PR,1,0,0,0,0,0,0,0,0,0,0
+4499325,James Madison,1870450,"Hayes, Kyle",C,1,1,1,0,0,0,0,0,0,0,0
+4499325,James Madison,1772230,"Tondi, Zach",C,1,7,7,0,0,0,0,1,0,0,0
+4499325,James Madison,1772214,"Dofflemyer, Tanner",1B,1,1,1,0,0,0,0,0,0,0,0
+4499325,James Madison,1997572,"Morgan, Michael",1B,1,6,7,1,0,0,0,0,0,2,0
+4499325,James Madison,1643272,"McKay, Bradley",3B,1,2,4,1,1,0,0,0,0,1,0
+4499325,James Madison,1997556,"Jones, Josh",SS,1,1,3,2,0,0,0,0,0,1,0
+4499325,James Madison,1643277,"Sciorra, Michael",CF,1,3,3,0,0,0,0,0,0,0,0
+4499325,James Madison,1997574,"Richards, Garrett",P,1,0,0,0,0,0,0,0,0,0,0
+4499325,James Madison,1870452,"Bechtold, Michael",P,1,0,0,0,0,0,0,0,0,0,0
+4499325,James Madison,1772229,"Marsili, Matt",P,1,0,1,1,0,0,0,0,0,0,0
+4499325,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,1,0,0,0
+4499325,James Madison,,Totals,0,1,27,37,7,3,0,0,1,0,2,0
+4499325,High Point,1649018,"Zente, Austen",CF,1,2,2,0,0,0,0,0,0,0,0
+4499325,High Point,1759786,"Dunbar, Conner",SS,1,0,1,1,0,0,0,0,0,0,0
+4499325,High Point,1976693,"Holt, Travis",3B,1,0,0,0,0,0,0,0,0,0,0
+4499325,High Point,1649015,"Lee, Hunter",2B,1,1,1,0,0,0,0,0,0,0,0
+4499325,High Point,1871428,"Johnson, Joe",RF,1,0,0,0,0,0,0,0,0,0,0
+4499325,High Point,1976695,"Wells, Tanner",LF,1,3,3,0,0,0,0,0,0,0,0
+4499325,High Point,1759795,"Woodard, JJ",1B,1,1,1,0,0,0,0,0,0,0,0
+4499325,High Point,1976706,"Kates, Jacob",1B,1,7,8,0,1,0,0,0,0,0,0
+4499325,High Point,1649008,"Brown, Spencer",C,1,13,16,3,0,0,0,2,1,0,0
+4499325,High Point,1976698,"Winger, Jacob",PRDH,1,0,0,0,0,0,0,0,0,0,0
+4499325,High Point,1976701,"Millwee, Daniel",PH,1,0,0,0,0,0,0,0,0,0,0
+4499325,High Point,1976681,"Dipino, Paul",PR,1,0,0,0,0,0,0,0,0,0,0
+4499325,High Point,1871441,"Scavone, Gabe",DH,1,0,0,0,0,0,0,0,0,0,0
+4499325,High Point,1871429,"Letchworth, Garrett",P,1,0,0,0,0,0,0,0,1,0,0
+4499325,High Point,1666786,"Vizcaino, Jonny",P,1,0,0,0,0,0,0,2,0,0,0
+4499325,High Point,1871430,"Lyttle, Grey",P,1,0,2,2,0,0,0,0,0,0,0
+4499325,High Point,1759788,"Gottfried, Andrew",P,1,0,1,1,0,0,0,0,0,0,0
+4499325,High Point,,Totals,0,1,27,35,7,1,0,0,2,1,0,0
+4505587,James Madison,1870455,"Semones, Fox",2B,1,2,4,2,0,0,0,0,0,0,0
+4505587,James Madison,1643276,"Sisk, Adam",RF,1,2,2,0,0,0,0,0,0,0,0
+4505587,James Madison,1870413,"Griffin, Davonn",PRLF,1,0,0,0,0,0,0,0,0,0,0
+4505587,James Madison,1870454,"Brown, Harry",LF,1,2,2,0,0,0,0,0,0,0,0
+4505587,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4505587,James Madison,1772214,"Dofflemyer, Tanner",PH1B,1,2,3,1,0,0,0,0,0,0,0
+4505587,James Madison,1997572,"Morgan, Michael",1B,1,7,8,0,1,0,0,0,0,0,0
+4505587,James Madison,1643277,"Sciorra, Michael",CF,1,1,1,0,0,0,0,0,0,0,0
+4505587,James Madison,1997556,"Jones, Josh",SS,1,0,3,3,0,0,0,0,0,0,0
+4505587,James Madison,1643272,"McKay, Bradley",3B,1,0,1,1,0,0,0,0,0,0,0
+4505587,James Madison,1870450,"Hayes, Kyle",C,1,9,11,1,1,0,1,3,0,0,0
+4505587,James Madison,1997560,"Stewart, Nick",P,1,0,0,0,0,0,0,2,0,0,0
+4505587,James Madison,1758478,"Perkins, Shelton",P,1,1,1,0,0,0,0,1,0,0,0
+4505587,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4505587,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,0,0,0,0
+4505587,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4505587,James Madison,1772212,"Bourne, Christian",P,1,1,1,0,0,0,0,0,0,0,0
+4505587,James Madison,,Totals,0,1,27,37,8,2,0,1,3,0,0,0
+4505587,High Point,1649018,"Zente, Austen",CF,1,2,2,0,0,0,0,0,0,0,0
+4505587,High Point,1759786,"Dunbar, Conner",SS,1,1,4,3,0,0,0,0,0,1,0
+4505587,High Point,1976693,"Holt, Travis",1B,1,8,8,0,0,0,0,0,0,2,0
+4505587,High Point,1976701,"Millwee, Daniel",PH,1,0,0,0,0,0,0,0,0,0,0
+4505587,High Point,1976695,"Wells, Tanner",LF,1,1,1,0,0,0,0,0,0,0,0
+4505587,High Point,1871428,"Johnson, Joe",LF,1,2,2,0,0,0,0,0,0,0,0
+4505587,High Point,1649014,"Jackson, Carson",RF,1,3,3,0,0,0,0,0,0,0,0
+4505587,High Point,1649015,"Lee, Hunter",2B,1,3,6,3,0,0,0,0,0,2,0
+4505587,High Point,1871442,"Schunk, Blake",3B,1,0,2,2,0,0,0,0,0,1,0
+4505587,High Point,1871443,"Sergent, Jordan",PDH,1,0,1,1,0,0,0,0,0,0,0
+4505587,High Point,1976698,"Winger, Jacob",PR,1,0,0,0,0,0,0,0,0,0,0
+4505587,High Point,1649008,"Brown, Spencer",C,1,2,2,0,0,0,0,0,0,0,0
+4505587,High Point,1976703,"Smith, Harrison",P,1,0,0,0,0,0,0,1,0,0,0
+4505587,High Point,1759791,"Jeffers, Cooper",P,1,0,0,0,0,0,0,0,0,0,0
+4505587,High Point,1871433,"Murrah, Rion",P,1,0,1,1,0,0,0,0,0,0,0
+4505587,High Point,1759795,"Woodard, JJ",C,1,5,5,0,0,0,0,1,0,0,0
+4505587,High Point,,Totals,0,1,27,37,10,0,0,0,1,0,2,0
+4501278,James Madison,1870455,"Semones, Fox",2B,1,0,5,5,0,0,0,0,0,0,0
+4501278,James Madison,1643276,"Sisk, Adam",RF,1,0,0,0,0,0,0,0,0,0,0
+4501278,James Madison,1870413,"Griffin, Davonn",LF,1,0,0,0,0,0,0,0,0,0,0
+4501278,James Madison,1870454,"Brown, Harry",LF,1,3,3,0,0,0,0,0,0,0,0
+4501278,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4501278,James Madison,1997555,"Jackson, Dallas",PR,1,0,0,0,0,0,0,0,0,0,0
+4501278,James Madison,1772230,"Tondi, Zach",C,1,11,12,0,1,0,0,2,0,0,0
+4501278,James Madison,1997572,"Morgan, Michael",1B,1,6,6,0,0,0,0,0,0,0,0
+4501278,James Madison,1643277,"Sciorra, Michael",CF,1,4,4,0,0,0,0,0,0,0,0
+4501278,James Madison,1870451,"Coale, Ryan",PH,1,0,0,0,0,0,0,0,0,0,0
+4501278,James Madison,1643272,"McKay, Bradley",3B,1,0,0,0,0,0,0,0,0,0,0
+4501278,James Madison,1997570,"Johnson, Hunter",3B,1,0,0,0,0,0,0,0,0,0,0
+4501278,James Madison,1997556,"Jones, Josh",SS,1,0,0,0,0,0,0,0,0,0,0
+4501278,James Madison,1997557,"Jones, Grayson",P,1,0,0,0,0,0,0,1,0,0,0
+4501278,James Madison,1997574,"Richards, Garrett",P,1,0,0,0,0,0,0,0,0,0,0
+4501278,James Madison,1997559,"Showalter, Justin",P,1,0,0,0,0,0,0,0,0,0,0
+4501278,James Madison,1643274,"McCoy, Tucker",P,1,0,0,0,0,0,0,0,0,0,0
+4501278,James Madison,1870460,"Kelly, Kevin",P,1,0,0,0,0,0,0,1,0,0,0
+4501278,James Madison,,Totals,0,1,24,30,5,1,0,0,2,0,0,0
+4501278,Liberty,1752971,"Artis, D.J.",CF,1,1,1,0,0,0,0,0,0,0,0
+4501278,Liberty,1877756,"McDyre, Trey",3B2B,1,2,3,1,0,0,0,0,0,0,0
+4501278,Liberty,1877776,"Embry, Jonathan",C,1,13,15,2,0,0,0,1,0,2,0
+4501278,Liberty,1529674,"Allen, Dylan",1B,1,8,8,0,0,0,0,0,0,0,0
+4501278,Liberty,1995271,"Todd, Tre",LF,1,2,3,1,0,0,0,0,0,0,0
+4501278,Liberty,1887209,"Reese, E.P.",PH,1,0,0,0,0,0,0,0,0,0,0
+4501278,Liberty,1529693,"Yacyk, Andrew",DH,1,0,0,0,0,0,0,0,0,0,0
+4501278,Liberty,1995270,"Rohrer, Brandon",RF,1,0,0,0,0,0,0,0,0,0,0
+4501278,Liberty,1877772,"Locklear, Cam",SS,1,0,3,3,0,0,0,0,0,0,0
+4501278,Liberty,1877773,"Highfill, Ben",3B,1,0,1,1,0,0,0,0,0,0,0
+4501278,Liberty,1995289,"Wagner, Will",2B,1,1,2,1,0,0,0,0,0,0,0
+4501278,Liberty,1995287,"Brockman, Zach",P,1,0,1,1,0,0,0,0,0,0,0
+4501278,Liberty,1877757,"Clinton, Zach",P,1,0,0,0,0,0,0,0,0,0,0
+4501278,Liberty,1877775,"Tarantola, Vinnie",P,1,0,0,0,0,0,0,0,0,0,0
+4501278,Liberty,1995274,"Good, Ben",P,1,0,0,0,0,0,0,0,0,0,0
+4501278,Liberty,1995278,"Stamper, Brady",P,1,0,0,0,0,0,0,1,0,0,0
+4501278,Liberty,,Totals,0,1,27,37,10,0,0,0,1,0,2,0
+4545416,Albany (NY),1771122,"Lagravinese, Patrick",LF,1,0,0,0,0,0,0,0,0,0,0
+4545416,Albany (NY),1640186,"Hayden, Kenny",PR,1,0,0,0,0,0,0,0,0,0,0
+4545416,Albany (NY),1977546,"Malm, Brad",3B,1,1,1,0,0,0,0,0,0,0,0
+4545416,Albany (NY),1878158,"Thul, Alex",3B,1,1,3,2,0,0,0,0,0,0,0
+4545416,Albany (NY),1771125,"Powers, Connor",CF,1,3,3,0,0,0,0,0,0,0,0
+4545416,Albany (NY),1878153,"Kondo, Nick",PR2B,1,1,3,2,0,0,0,0,0,1,0
+4545416,Albany (NY),1771119,"Donati, Kevin",2B,1,0,1,1,0,0,0,0,0,1,0
+4545416,Albany (NY),1878151,"Collins, Travis",SS,1,4,11,6,1,0,0,0,0,2,0
+4545416,Albany (NY),1878159,"Wangenstein, Marc",RF,1,2,2,0,0,0,0,0,0,0,0
+4545416,Albany (NY),1977534,"Turco, Chris",DH,1,0,0,0,0,0,0,0,0,0,0
+4545416,Albany (NY),1771117,"Codispoti, Matt",C,1,9,10,1,0,0,1,1,1,0,0
+4545416,Albany (NY),1977529,"Hernandez, Ryan",1B,1,11,14,2,1,0,0,0,0,2,0
+4545416,Albany (NY),1529850,"Genovese, J.T.",P,1,1,1,0,0,0,0,0,0,0,0
+4545416,Albany (NY),1878157,"Smith, Brendan",P,1,0,0,0,0,0,0,0,0,0,0
+4545416,Albany (NY),1771130,"Torres, Hunter",P,1,0,0,0,0,0,0,0,0,0,0
+4545416,Albany (NY),1771127,"Savino, Dominic",P,1,0,2,2,0,0,0,1,1,0,0
+4545416,Albany (NY),,Totals,0,1,33,51,16,2,0,1,1,1,2,0
+4545416,James Madison,1870455,"Semones, Fox",2BLF,1,2,5,1,2,0,0,0,0,1,0
+4545416,James Madison,1997572,"Morgan, Michael",1B,1,8,10,2,0,0,0,0,0,0,0
+4545416,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4545416,James Madison,1772230,"Tondi, Zach",C,1,14,14,0,0,0,0,3,0,0,0
+4545416,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4545416,James Madison,1870413,"Griffin, Davonn",PRLF,1,0,0,0,0,0,0,0,0,0,0
+4545416,James Madison,1870415,"Dipasupil, Matt",PH2B,1,0,0,0,0,0,0,0,0,0,0
+4545416,James Madison,1870454,"Brown, Harry",LF,1,0,0,0,0,0,0,0,0,0,0
+4545416,James Madison,1643277,"Sciorra, Michael",CF,1,4,4,0,0,0,0,0,0,0,0
+4545416,James Madison,1643272,"McKay, Bradley",3B,1,0,5,4,1,0,0,0,0,0,0
+4545416,James Madison,1870451,"Coale, Ryan",PH,1,0,0,0,0,0,0,0,0,0,0
+4545416,James Madison,1772214,"Dofflemyer, Tanner",SS,1,1,1,0,0,0,0,0,0,0,0
+4545416,James Madison,1997556,"Jones, Josh",SS,1,2,4,2,0,0,0,0,0,1,0
+4545416,James Madison,1758478,"Perkins, Shelton",P,1,0,0,0,0,0,0,0,0,0,0
+4545416,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,0,0,0,0
+4545416,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4545416,James Madison,1772229,"Marsili, Matt",P,1,0,0,0,0,0,0,1,0,0,0
+4545416,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,2,0,0,0
+4545416,James Madison,1643273,"Harlow, Colton",P,1,1,2,1,0,0,0,0,1,0,0
+4545416,James Madison,,Totals,0,1,33,46,10,3,0,0,3,1,1,0
+4505473,Albany (NY),1771122,"Lagravinese, Patrick",LF,1,1,1,0,0,0,0,0,0,0,0
+4505473,Albany (NY),1977546,"Malm, Brad",3B2B,1,0,4,4,0,0,0,0,0,0,0
+4505473,Albany (NY),1771125,"Powers, Connor",CF,1,1,1,0,0,0,0,0,0,0,0
+4505473,Albany (NY),1878159,"Wangenstein, Marc",RF,1,0,0,0,0,0,0,0,0,0,0
+4505473,Albany (NY),1878151,"Collins, Travis",SS,1,2,4,2,0,0,0,0,0,0,0
+4505473,Albany (NY),1771117,"Codispoti, Matt",C,1,10,13,3,0,0,1,2,2,0,0
+4505473,Albany (NY),1977534,"Turco, Chris",DH,1,0,0,0,0,0,0,0,0,0,0
+4505473,Albany (NY),1977529,"Hernandez, Ryan",1B,1,10,10,0,0,0,0,0,0,0,0
+4505473,Albany (NY),1878158,"Thul, Alex",PH3B,1,0,1,1,0,0,0,0,0,0,0
+4505473,Albany (NY),1878153,"Kondo, Nick",2B,1,0,1,1,0,0,0,0,0,0,0
+4505473,Albany (NY),1977536,"Yankowski, Dan",P,1,0,0,0,0,0,0,0,1,0,0
+4505473,Albany (NY),1977552,"Takacs, Connor",P,1,0,0,0,0,0,0,1,1,0,0
+4505473,Albany (NY),1771128,"Spedafino, Angelo",P,1,0,1,1,0,0,0,1,0,0,0
+4505473,Albany (NY),,Totals,0,1,24,36,12,0,0,1,2,2,0,0
+4505473,James Madison,1643277,"Sciorra, Michael",CF,1,1,1,0,0,0,0,0,0,0,0
+4505473,James Madison,1997572,"Morgan, Michael",1B,1,7,9,2,0,0,0,0,0,0,0
+4505473,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4505473,James Madison,1772230,"Tondi, Zach",DH,1,0,0,0,0,0,0,0,0,0,0
+4505473,James Madison,1643272,"McKay, Bradley",3B,1,0,2,1,1,0,0,0,0,0,0
+4505473,James Madison,1870413,"Griffin, Davonn",PRLF,1,1,1,0,0,0,0,0,0,0,0
+4505473,James Madison,1870454,"Brown, Harry",LF,1,1,1,0,0,0,0,0,0,0,0
+4505473,James Madison,1870455,"Semones, Fox",2B,1,2,3,1,0,0,0,0,0,0,0
+4505473,James Madison,1997556,"Jones, Josh",SS,1,1,2,1,0,0,0,0,0,0,0
+4505473,James Madison,1870450,"Hayes, Kyle",C,1,11,14,3,0,0,0,0,2,0,0
+4505473,James Madison,1997574,"Richards, Garrett",P,1,1,1,0,0,0,0,0,1,0,0
+4505473,James Madison,1997553,"Goggin, Dan",P,1,1,3,2,0,0,0,0,1,0,0
+4505473,James Madison,,Totals,0,1,27,38,10,1,0,0,0,2,0,0
+4507974,Albany (NY),1771122,"Lagravinese, Patrick",LFP,1,2,3,0,1,0,0,1,0,0,0
+4507974,Albany (NY),1977546,"Malm, Brad",3B2B,1,1,2,1,0,0,0,0,0,0,0
+4507974,Albany (NY),1771125,"Powers, Connor",CF,1,3,3,0,0,0,0,0,0,0,0
+4507974,Albany (NY),1878159,"Wangenstein, Marc",RF,1,2,2,0,0,0,0,0,0,0,0
+4507974,Albany (NY),1878151,"Collins, Travis",SS,1,0,0,0,0,0,0,0,0,0,0
+4507974,Albany (NY),1771117,"Codispoti, Matt",DH,1,0,0,0,0,0,0,0,0,0,0
+4507974,Albany (NY),1977529,"Hernandez, Ryan",1B,1,7,7,0,0,0,0,0,0,0,0
+4507974,Albany (NY),1977527,"Gurnack, Josh",C,1,7,8,1,0,0,1,4,0,0,0
+4507974,Albany (NY),1977534,"Turco, Chris",PH,1,0,0,0,0,0,0,0,0,0,0
+4507974,Albany (NY),1878158,"Thul, Alex",3B,1,0,0,0,0,0,0,0,0,0,0
+4507974,Albany (NY),1878153,"Kondo, Nick",2B,1,2,5,3,0,0,0,0,0,0,0
+4507974,Albany (NY),1977502,"Bird, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4507974,Albany (NY),1878156,"Morrisroe, Connor",P,1,0,1,1,0,0,0,3,0,0,0
+4507974,Albany (NY),1771130,"Torres, Hunter",P,1,0,1,1,0,0,0,0,0,0,0
+4507974,Albany (NY),1640186,"Hayden, Kenny",LF,1,0,0,0,0,0,0,0,0,0,0
+4507974,Albany (NY),1878150,"Clayton, John",P,1,0,2,2,0,0,0,0,0,0,0
+4507974,Albany (NY),,Totals,0,1,24,34,9,1,0,1,4,0,0,0
+4507974,James Madison,1643277,"Sciorra, Michael",CF,1,2,2,0,0,0,0,0,0,0,0
+4507974,James Madison,1997572,"Morgan, Michael",1B,1,13,15,2,0,0,0,0,0,0,0
+4507974,James Madison,1997555,"Jackson, Dallas",PR,1,0,0,0,0,0,0,0,0,0,0
+4507974,James Madison,1870450,"Hayes, Kyle",C,1,1,1,0,0,0,0,0,0,0,0
+4507974,James Madison,1772230,"Tondi, Zach",C,1,5,5,0,0,0,0,0,0,0,0
+4507974,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4507974,James Madison,1870413,"Griffin, Davonn",LF,1,0,0,0,0,0,0,0,0,0,0
+4507974,James Madison,1870454,"Brown, Harry",LF,1,1,1,0,0,0,0,0,0,0,0
+4507974,James Madison,1870455,"Semones, Fox",2B,1,0,4,4,0,0,0,0,0,0,0
+4507974,James Madison,1772214,"Dofflemyer, Tanner",PH,1,0,0,0,0,0,0,0,0,0,0
+4507974,James Madison,1870451,"Coale, Ryan",DH,1,0,0,0,0,0,0,0,0,0,0
+4507974,James Madison,1997556,"Jones, Josh",SS,1,2,8,5,1,0,0,0,0,0,0
+4507974,James Madison,1643272,"McKay, Bradley",3B,1,0,0,0,0,0,0,0,0,0,0
+4507974,James Madison,1997570,"Johnson, Hunter",3B,1,0,0,0,0,0,0,0,0,0,0
+4507974,James Madison,1870452,"Bechtold, Michael",P,1,1,1,0,0,0,0,0,0,0,0
+4507974,James Madison,1997557,"Jones, Grayson",P,1,0,0,0,0,0,0,0,0,0,0
+4507974,James Madison,1643274,"McCoy, Tucker",P,1,0,0,0,0,0,0,0,0,0,0
+4507974,James Madison,1870460,"Kelly, Kevin",P,1,0,0,0,0,0,0,0,0,0,0
+4507974,James Madison,1997560,"Stewart, Nick",P,1,1,1,0,0,0,0,0,0,0,0
+4507974,James Madison,,Totals,0,1,27,39,11,1,0,0,0,0,0,0
+4509750,James Madison,1643277,"Sciorra, Michael",CF,1,1,1,0,0,0,0,0,0,0,0
+4509750,James Madison,1870413,"Griffin, Davonn",LF,1,1,1,0,0,0,0,0,0,0,0
+4509750,James Madison,1870454,"Brown, Harry",LF,1,1,2,0,1,0,0,0,0,0,0
+4509750,James Madison,1643276,"Sisk, Adam",RF,1,3,4,1,0,0,0,0,0,0,0
+4509750,James Madison,1772230,"Tondi, Zach",DHC,1,1,1,0,0,0,0,0,0,0,0
+4509750,James Madison,1870455,"Semones, Fox",2B,1,1,3,2,0,0,0,0,0,1,0
+4509750,James Madison,1997556,"Jones, Josh",SS,1,1,5,4,0,0,0,0,0,1,0
+4509750,James Madison,1772214,"Dofflemyer, Tanner",1B,1,12,14,2,0,0,0,0,0,2,0
+4509750,James Madison,1643272,"McKay, Bradley",3B,1,1,3,2,0,0,0,0,0,0,0
+4509750,James Madison,1870451,"Coale, Ryan",PH,1,0,0,0,0,0,0,0,0,0,0
+4509750,James Madison,1997570,"Johnson, Hunter",PH,1,0,0,0,0,0,0,0,0,0,0
+4509750,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4509750,James Madison,1870465,"Colon, Matt",P,1,1,1,0,0,0,0,0,0,0,0
+4509750,James Madison,1870450,"Hayes, Kyle",C,1,3,3,0,0,0,1,0,0,0,0
+4509750,James Madison,1997574,"Richards, Garrett",P,1,0,0,0,0,0,0,0,0,0,0
+4509750,James Madison,1758478,"Perkins, Shelton",P,1,0,1,1,0,0,0,0,0,0,0
+4509750,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,0,0,0,0
+4509750,James Madison,1772229,"Marsili, Matt",P,1,1,1,0,0,0,0,0,0,0,0
+4509750,James Madison,1772212,"Bourne, Christian",P,1,0,0,0,0,0,0,0,0,0,0
+4509750,James Madison,,Totals,0,1,27,40,12,1,0,1,0,0,2,0
+4509750,Richmond,1645900,"Lee, D.J.",LF,1,1,2,0,1,0,0,0,0,0,0
+4509750,Richmond,1863965,"Capra, Vinny",SS,1,3,8,4,1,0,0,0,0,0,0
+4509750,Richmond,1645895,"Brumbaugh, Daniel",2B,1,2,4,2,0,0,0,0,0,0,0
+4509750,Richmond,1645893,"Adams, Kyle",1B,1,9,10,1,0,0,0,0,0,0,0
+4509750,Richmond,1863964,"Miller, Tim",DH,1,0,0,0,0,0,0,0,0,0,0
+4509750,Richmond,1977517,"Bruhl, Sage",RF,1,1,1,0,0,0,0,0,0,0,0
+4509750,Richmond,1863971,"Cook, Justin",3B,1,2,6,3,1,0,0,0,0,0,0
+4509750,Richmond,1645899,"Johnson, Brandon",C,1,7,9,2,0,0,0,1,1,0,0
+4509750,Richmond,1977525,"Forte, Anthony",CF,1,2,2,0,0,0,0,0,0,0,0
+4509750,Richmond,1977459,"Balducci, Antonio",P,1,0,0,0,0,0,0,0,1,0,0
+4509750,Richmond,1977493,"Lowe, Collin",P,1,0,0,0,0,0,0,0,0,0,0
+4509750,Richmond,1863970,"Hulbert, James",P,1,0,0,0,0,0,0,1,0,0,0
+4509750,Richmond,1774367,"Light, Dalton",P,1,0,1,1,0,0,0,0,0,0,0
+4509750,Richmond,1977500,"DeLarso, Jarrad",P,1,0,2,2,0,0,0,0,1,0,0
+4509750,Richmond,1863962,"Schipper, Lowell",P,1,0,0,0,0,0,0,0,0,0,0
+4509750,Richmond,,Totals,0,1,27,45,15,3,0,0,1,2,0,0
+4513054,Fordham,1987814,"Snelling, Colton",LFRF,1,0,0,0,0,0,0,0,0,0,0
+4513054,Fordham,1870177,"Godrick, Billy",LF,1,0,0,0,0,0,0,0,0,0,0
+4513054,Fordham,1870172,"Baker, Jake",CF,1,2,3,0,1,0,0,0,0,0,0
+4513054,Fordham,1987827,"Spampinato, David",PH,1,0,0,0,0,0,0,0,0,0,0
+4513054,Fordham,1870168,"Melendez, Alvin",RF,1,4,4,0,0,0,0,0,0,0,0
+4513054,Fordham,1870170,"Tarabek, Matt",SS,1,3,6,2,1,0,0,0,0,1,0
+4513054,Fordham,1870174,"Doria, Domenico",PHC,1,4,4,0,0,0,0,0,0,0,0
+4513054,Fordham,1759705,"Bardwell, Justin",C,1,6,8,2,0,0,0,1,1,0,0
+4513054,Fordham,1977574,"MacKenzie, Jake",2BLF,1,0,1,1,0,0,0,0,0,0,0
+4513054,Fordham,1759710,"Goulard, Brian",1B3B,1,6,6,0,0,0,0,0,0,1,0
+4513054,Fordham,1977573,"Brown, Casey",PH1B,1,1,1,0,0,0,0,0,0,0,0
+4513054,Fordham,1977586,"Labella, Nick",DH,1,0,0,0,0,0,0,0,0,0,0
+4513054,Fordham,1870171,"Machado, Justin",PH3B,1,1,2,1,0,0,0,0,0,0,0
+4513054,Fordham,1987826,"Vazquez, C.J.",3B,1,0,0,0,0,0,0,0,0,0,0
+4513054,Fordham,1987803,"Quintal, Joseph",P,1,0,0,0,0,0,0,0,0,0,0
+4513054,Fordham,1766072,"Zimmerman, Anthony",P,1,0,0,0,0,0,0,0,0,0,0
+4513054,Fordham,1870180,"Bisogno, Marc",P,1,0,0,0,0,0,0,0,0,0,0
+4513054,Fordham,1759711,"Knehr, Reiss",P,1,0,1,1,0,0,0,1,1,0,0
+4513054,Fordham,,Totals,0,1,27,36,7,2,0,0,1,1,1,0
+4513054,James Madison,1870413,"Griffin, Davonn",CF,1,2,2,0,0,0,0,0,0,0,0
+4513054,James Madison,1643277,"Sciorra, Michael",CF,1,2,2,0,0,0,0,0,0,0,0
+4513054,James Madison,1870454,"Brown, Harry",LF1B,1,1,1,0,0,0,0,0,0,0,0
+4513054,James Madison,1997573,"Piccolino II, Anthony",PHRF,1,0,0,0,0,0,0,0,0,0,0
+4513054,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4513054,James Madison,1997555,"Jackson, Dallas",PR,1,0,0,0,0,0,0,0,0,0,0
+4513054,James Madison,1772230,"Tondi, Zach",DH,1,0,0,0,0,0,0,0,0,0,0
+4513054,James Madison,1870415,"Dipasupil, Matt",PH2B,1,0,2,2,0,0,0,0,0,0,0
+4513054,James Madison,1870455,"Semones, Fox",2B,1,4,6,2,0,0,0,0,0,0,0
+4513054,James Madison,1997570,"Johnson, Hunter",PH3B,1,0,0,0,0,0,0,0,0,0,0
+4513054,James Madison,1870451,"Coale, Ryan",LF,1,1,1,0,0,0,0,0,0,0,0
+4513054,James Madison,1997556,"Jones, Josh",SS,1,0,2,1,1,0,0,0,0,0,0
+4513054,James Madison,1643272,"McKay, Bradley",3BSS,1,0,0,0,0,0,0,0,0,0,0
+4513054,James Madison,1772214,"Dofflemyer, Tanner",1B3B,1,7,9,1,1,0,0,0,0,0,0
+4513054,James Madison,1870450,"Hayes, Kyle",C,1,9,10,1,0,0,1,2,0,0,0
+4513054,James Madison,1870460,"Kelly, Kevin",P,1,0,0,0,0,0,0,0,0,0,0
+4513054,James Madison,1758478,"Perkins, Shelton",P,1,0,0,0,0,0,0,1,0,0,0
+4513054,James Madison,1997557,"Jones, Grayson",P,1,0,0,0,0,0,0,0,0,0,0
+4513054,James Madison,1997568,"Campbell, Evan",P,1,0,1,1,0,0,0,0,0,0,0
+4513054,James Madison,1997553,"Goggin, Dan",P,1,0,4,3,1,0,0,1,0,0,0
+4513054,James Madison,,Totals,0,1,27,41,11,3,0,1,2,0,0,0
+4513060,Fordham,1870177,"Godrick, Billy",LFCF,1,1,1,0,0,0,0,0,0,0,0
+4513060,Fordham,1977574,"MacKenzie, Jake",2B,1,4,8,4,0,0,0,0,0,1,0
+4513060,Fordham,1870168,"Melendez, Alvin",RFP,1,1,2,0,1,0,0,0,0,0,0
+4513060,Fordham,1870170,"Tarabek, Matt",SS,1,1,5,3,1,0,0,0,0,0,0
+4513060,Fordham,1759705,"Bardwell, Justin",C,1,7,8,1,0,0,0,0,0,0,0
+4513060,Fordham,1987814,"Snelling, Colton",LF,1,0,0,0,0,0,0,0,0,0,0
+4513060,Fordham,1977586,"Labella, Nick",DH,1,0,0,0,0,0,0,0,0,0,0
+4513060,Fordham,1759710,"Goulard, Brian",1B,1,10,11,1,0,0,0,0,0,1,0
+4513060,Fordham,1987826,"Vazquez, C.J.",3B,1,1,3,2,0,0,0,0,0,0,0
+4513060,Fordham,1870172,"Baker, Jake",CFRF,1,1,1,0,0,0,0,0,0,0,0
+4513060,Fordham,1759709,"DiMeglio, Anthony",P,1,0,0,0,0,0,0,0,0,0,0
+4513060,Fordham,1870169,"Martin, Kyle",P,1,0,0,0,0,0,0,0,0,0,0
+4513060,Fordham,1640523,"Greenberg, Ben",P,1,1,1,0,0,0,0,0,0,0,0
+4513060,Fordham,,Totals,0,1,27,40,11,2,0,0,0,0,1,0
+4513060,James Madison,1643277,"Sciorra, Michael",CF,1,1,1,0,0,0,0,0,0,0,0
+4513060,James Madison,1870413,"Griffin, Davonn",PRLF,1,0,0,0,0,0,0,0,0,0,0
+4513060,James Madison,1870454,"Brown, Harry",LF,1,0,0,0,0,0,0,0,0,0,0
+4513060,James Madison,1643276,"Sisk, Adam",RF,1,4,4,0,0,0,0,0,0,0,0
+4513060,James Madison,1772230,"Tondi, Zach",C,1,5,7,2,0,0,1,3,1,0,0
+4513060,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4513060,James Madison,1772214,"Dofflemyer, Tanner",1B,1,3,4,1,0,0,0,0,0,0,0
+4513060,James Madison,1997572,"Morgan, Michael",1B,1,6,7,1,0,0,0,0,0,0,0
+4513060,James Madison,1870451,"Coale, Ryan",PH,1,0,0,0,0,0,0,0,0,0,0
+4513060,James Madison,1870415,"Dipasupil, Matt",2B,1,1,2,1,0,0,0,0,0,0,0
+4513060,James Madison,1870455,"Semones, Fox",2B,1,0,3,2,1,0,0,0,0,0,0
+4513060,James Madison,1997570,"Johnson, Hunter",PH3B,1,0,0,0,0,0,0,0,0,0,0
+4513060,James Madison,1643272,"McKay, Bradley",3B,1,0,1,0,1,0,0,0,0,0,0
+4513060,James Madison,1997556,"Jones, Josh",SS,1,6,8,2,0,0,0,0,0,1,0
+4513060,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,1,1,0,0
+4513060,James Madison,1997559,"Showalter, Justin",P,1,0,0,0,0,0,0,0,0,0,0
+4513060,James Madison,1870457,"Vassar, Cam",P,1,1,2,1,0,0,0,0,0,0,0
+4513060,James Madison,1772229,"Marsili, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4513060,James Madison,1643273,"Harlow, Colton",P,1,0,4,4,0,0,0,2,0,0,0
+4513060,James Madison,,Totals,0,1,27,43,14,2,0,1,3,1,1,0
+4514145,Fordham,1870177,"Godrick, Billy",LF,1,1,1,0,0,0,0,0,0,0,0
+4514145,Fordham,1870168,"Melendez, Alvin",RF,1,2,3,1,0,0,0,0,0,0,0
+4514145,Fordham,1870170,"Tarabek, Matt",SS,1,1,1,0,0,0,0,0,0,0,0
+4514145,Fordham,1759705,"Bardwell, Justin",C,1,8,11,2,1,0,0,0,1,0,0
+4514145,Fordham,1977586,"Labella, Nick",DH,1,0,0,0,0,0,0,0,0,0,0
+4514145,Fordham,1977574,"MacKenzie, Jake",2B,1,1,3,2,0,0,0,0,0,0,0
+4514145,Fordham,1759710,"Goulard, Brian",1B,1,9,10,0,1,0,0,0,0,0,0
+4514145,Fordham,1987826,"Vazquez, C.J.",3B,1,0,4,4,0,0,0,0,0,0,0
+4514145,Fordham,1870172,"Baker, Jake",CF,1,2,2,0,0,0,0,0,0,0,0
+4514145,Fordham,1870179,"Weissert, Brian",P,1,0,0,0,0,0,0,0,1,0,0
+4514145,Fordham,1977580,"Mikulski, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4514145,Fordham,1870169,"Martin, Kyle",P,1,0,0,0,0,0,0,0,0,0,0
+4514145,Fordham,1759709,"DiMeglio, Anthony",P,1,0,1,1,0,0,0,0,0,0,0
+4514145,Fordham,1759707,"Cowell, Mike",P,1,0,0,0,0,0,0,0,0,0,0
+4514145,Fordham,,Totals,0,1,24,36,10,2,0,0,0,1,0,0
+4514145,James Madison,1643277,"Sciorra, Michael",CF,1,3,3,0,0,0,0,0,0,0,0
+4514145,James Madison,1870413,"Griffin, Davonn",PRLF,1,0,0,0,0,0,0,0,0,0,0
+4514145,James Madison,1870454,"Brown, Harry",LF,1,0,0,0,0,0,0,0,0,0,0
+4514145,James Madison,1643276,"Sisk, Adam",RF,1,2,2,0,0,0,0,0,0,0,0
+4514145,James Madison,1870450,"Hayes, Kyle",C,1,2,2,0,0,0,0,1,0,0,0
+4514145,James Madison,1772230,"Tondi, Zach",C,1,3,4,1,0,0,0,5,1,0,0
+4514145,James Madison,1870455,"Semones, Fox",2B3B,1,5,8,3,0,0,0,0,0,0,0
+4514145,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4514145,James Madison,1997556,"Jones, Josh",SS,1,1,4,3,0,0,0,0,0,0,0
+4514145,James Madison,1870451,"Coale, Ryan",PH,1,0,0,0,0,0,0,0,0,0,0
+4514145,James Madison,1870415,"Dipasupil, Matt",2B,1,0,1,1,0,0,0,0,0,0,0
+4514145,James Madison,1643272,"McKay, Bradley",3B,1,1,5,3,1,0,0,0,0,0,0
+4514145,James Madison,1772214,"Dofflemyer, Tanner",1B,1,10,11,0,1,0,0,0,0,0,0
+4514145,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,1,0,0,0
+4514145,James Madison,1870452,"Bechtold, Michael",P,1,0,0,0,0,0,0,0,0,0,0
+4514145,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4514145,James Madison,1870465,"Colon, Matt",P,1,0,1,0,1,0,0,1,0,0,0
+4514145,James Madison,1997560,"Stewart, Nick",P,1,0,0,0,0,0,0,4,1,0,0
+4514145,James Madison,,Totals,0,1,27,41,11,3,0,0,6,1,0,0
+4516779,James Madison,1870413,"Griffin, Davonn",CFLF,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1643277,"Sciorra, Michael",CF,1,3,3,0,0,0,0,0,0,0,0
+4516779,James Madison,1997555,"Jackson, Dallas",CF,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1870454,"Brown, Harry",LF,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4516779,James Madison,1870450,"Hayes, Kyle",C,1,1,1,0,0,0,0,0,0,0,0
+4516779,James Madison,1772230,"Tondi, Zach",C,1,2,2,0,0,0,0,1,0,0,0
+4516779,James Madison,1870455,"Semones, Fox",3B,1,2,5,3,0,0,0,0,0,2,0
+4516779,James Madison,1997573,"Piccolino II, Anthony",PH,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1997570,"Johnson, Hunter",PH,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1997556,"Jones, Josh",SS,1,3,7,4,0,0,0,0,0,2,0
+4516779,James Madison,1870415,"Dipasupil, Matt",2B,1,2,7,4,1,0,0,0,0,2,0
+4516779,James Madison,1870451,"Coale, Ryan",PH,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1772214,"Dofflemyer, Tanner",1B,1,10,11,1,0,0,0,0,0,4,0
+4516779,James Madison,1997574,"Richards, Garrett",P,1,0,1,1,0,0,0,0,1,0,0
+4516779,James Madison,1997559,"Showalter, Justin",P,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1870457,"Vassar, Cam",P,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1997557,"Jones, Grayson",P,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1997558,"McDonnell, Liam",P,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1643274,"McCoy, Tucker",P,1,0,0,0,0,0,0,0,0,0,0
+4516779,James Madison,1772212,"Bourne, Christian",P,1,0,0,0,0,0,0,1,0,0,0
+4516779,James Madison,,Totals,0,1,24,38,13,1,0,0,1,1,4,0
+4516779,Tennessee,1867955,"Derkay, Pete",1B,1,7,7,0,0,0,0,0,0,1,0
+4516779,Tennessee,1867956,"Gobbell, Cal",RF,1,0,0,0,0,0,0,0,0,0,0
+4516779,Tennessee,1867951,"Ammons, Justin",RF,1,3,3,0,0,0,0,0,0,0,0
+4516779,Tennessee,1867963,"Sosnowski, Alex",PHSS,1,0,0,0,0,0,0,0,0,0,0
+4516779,Tennessee,1867959,"Lipcius, Andre",SS,1,1,4,3,0,0,0,0,0,1,0
+4516779,Tennessee,1757619,"Mascia, Nico",PHC,1,2,2,0,0,0,0,0,0,0,0
+4516779,Tennessee,1649077,"Santiago, Benito",C,1,6,6,0,0,0,0,0,0,0,0
+4516779,Tennessee,1977514,"Trammell, Brandon",PHLF,1,3,3,0,0,0,0,0,0,0,0
+4516779,Tennessee,1867952,"Charleston, Jay",LF,1,0,0,0,0,0,0,0,0,0,0
+4516779,Tennessee,1977512,"Stapp, Wyatt",3B,1,1,2,1,0,0,0,0,0,0,0
+4516779,Tennessee,1977510,"Russell, Evan",PH,1,0,0,0,0,0,0,0,0,0,0
+4516779,Tennessee,1977491,"Daniels, Zach",DH,1,0,0,0,0,0,0,0,0,0,0
+4516779,Tennessee,1867953,"Chinea, Brandon",2B,1,1,5,4,0,0,0,0,0,1,0
+4516779,Tennessee,1649063,"Leftridge, Brodie",CF,1,3,3,0,0,0,0,0,0,0,0
+4516779,Tennessee,1867954,"Darling, Connor",P,1,0,0,0,0,0,0,0,0,0,0
+4516779,Tennessee,1977509,"Plummer, Joshua",P,1,0,0,0,0,0,0,0,0,0,0
+4516779,Tennessee,1867967,"Walsh, Redmond",P,1,0,0,0,0,0,0,0,0,0,0
+4516779,Tennessee,1977492,"Hunley, Sean",P,1,0,0,0,0,0,0,0,0,0,0
+4516779,Tennessee,,Totals,0,1,27,35,8,0,0,0,0,0,1,0
+4518383,James Madison,1997555,"Jackson, Dallas",PHCF,1,0,0,0,0,0,0,0,0,0,0
+4518383,James Madison,1643277,"Sciorra, Michael",CF,1,1,1,0,0,0,0,0,0,0,0
+4518383,James Madison,1870413,"Griffin, Davonn",LF,1,2,2,0,0,0,0,0,0,0,0
+4518383,James Madison,1870454,"Brown, Harry",LF,1,1,1,0,0,0,0,0,0,0,0
+4518383,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4518383,James Madison,1870450,"Hayes, Kyle",PHC,1,2,3,1,0,0,0,0,0,0,0
+4518383,James Madison,1772230,"Tondi, Zach",C,1,7,7,0,0,0,0,0,0,0,0
+4518383,James Madison,1870455,"Semones, Fox",3B,1,1,3,1,1,0,0,0,0,0,0
+4518383,James Madison,1643272,"McKay, Bradley",PH,1,0,0,0,0,0,0,0,0,0,0
+4518383,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4518383,James Madison,1997556,"Jones, Josh",SS,1,2,3,1,0,0,0,0,0,0,0
+4518383,James Madison,1870415,"Dipasupil, Matt",2B,1,0,4,4,0,0,0,0,0,0,0
+4518383,James Madison,1772214,"Dofflemyer, Tanner",1B,1,10,11,1,0,0,0,0,0,0,0
+4518383,James Madison,1772229,"Marsili, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4518383,James Madison,1870460,"Kelly, Kevin",P,1,0,2,2,0,0,0,0,0,0,0
+4518383,James Madison,,Totals,0,1,27,38,10,1,0,0,0,0,0,0
+4518383,Tennessee,1867960,"Lipcius, Luc",1B,1,1,1,0,0,0,0,0,0,0,0
+4518383,Tennessee,1867955,"Derkay, Pete",1B,1,9,10,1,0,0,0,0,0,1,0
+4518383,Tennessee,1867951,"Ammons, Justin",RF,1,1,1,0,0,0,0,0,0,0,0
+4518383,Tennessee,1867963,"Sosnowski, Alex",PHSS,1,0,0,0,0,0,0,0,0,0,0
+4518383,Tennessee,1867959,"Lipcius, Andre",SS,1,1,4,2,1,0,0,0,0,0,0
+4518383,Tennessee,1757619,"Mascia, Nico",C,1,3,3,0,0,0,0,0,0,0,0
+4518383,Tennessee,1649077,"Santiago, Benito",C,1,4,4,0,0,0,0,3,0,0,0
+4518383,Tennessee,1977510,"Russell, Evan",PH2B,1,0,0,0,0,0,0,0,0,0,0
+4518383,Tennessee,1867952,"Charleston, Jay",LF2B,1,2,2,0,0,0,0,0,0,0,0
+4518383,Tennessee,1649063,"Leftridge, Brodie",PHCF,1,0,0,0,0,0,0,0,0,0,0
+4518383,Tennessee,1867956,"Gobbell, Cal",PH,1,0,0,0,0,0,0,0,0,0,0
+4518383,Tennessee,1977512,"Stapp, Wyatt",3B,1,1,3,2,0,0,0,0,0,0,0
+4518383,Tennessee,1977491,"Daniels, Zach",CFLF,1,3,3,0,0,0,0,0,0,0,0
+4518383,Tennessee,1977514,"Trammell, Brandon",DH,1,0,0,0,0,0,0,0,0,0,0
+4518383,Tennessee,1867957,"Heflin, Will",PH,1,0,0,0,0,0,0,0,0,0,0
+4518383,Tennessee,1867953,"Chinea, Brandon",2B3B,1,0,0,0,0,0,0,0,0,0,0
+4518383,Tennessee,1977457,"Benoit, Donovan",P,1,1,1,0,0,0,0,2,0,0,0
+4518383,Tennessee,1649080,"Jackson, Richard",P,1,0,1,1,0,0,0,0,0,0,0
+4518383,Tennessee,1757609,"Harper-Cook, Alex",P,1,0,0,0,0,0,0,0,0,0,0
+4518383,Tennessee,1977496,"Springer, Sam",P,1,0,0,0,0,0,0,0,0,0,0
+4518383,Tennessee,1867961,"Schultz, Andrew",P,1,1,3,2,0,0,0,1,0,0,0
+4518383,Tennessee,,Totals,0,1,27,36,8,1,0,0,3,0,1,0
+4519840,St. Bonaventure,1980959,"Foden, Jake",PH,1,0,0,0,0,0,0,0,0,0,0
+4519840,St. Bonaventure,1980954,"Magnanti, Mike",2B,1,3,3,0,0,0,0,0,0,0,0
+4519840,St. Bonaventure,1888508,"Vincent, Casey",PH,1,0,0,0,0,0,0,0,0,0,0
+4519840,St. Bonaventure,1980969,"Henshaw, Brandon",SS,1,0,4,3,1,0,0,0,0,0,0
+4519840,St. Bonaventure,1888503,"MacCarrick, Ryan",LF,1,5,5,0,0,0,0,0,0,0,0
+4519840,St. Bonaventure,1769581,"Vaccaro, David",CF,1,1,1,0,0,0,0,0,0,0,0
+4519840,St. Bonaventure,1666040,"Eastman, Matt",1B,1,6,7,1,0,0,0,0,0,0,0
+4519840,St. Bonaventure,1980960,"Kelder, Tyler",DH,1,0,0,0,0,0,0,0,0,0,0
+4519840,St. Bonaventure,1769588,"Fuller, Sam",RF,1,1,1,0,0,0,0,0,0,0,0
+4519840,St. Bonaventure,1980971,"Palczewski, Jeff",3B,1,1,4,3,0,0,0,0,0,0,0
+4519840,St. Bonaventure,1888515,"Miknis, Jake",PH,1,0,0,0,0,0,0,0,0,0,0
+4519840,St. Bonaventure,1769586,"MacDonald, Ben",C,1,5,6,1,0,0,0,3,1,0,0
+4519840,St. Bonaventure,1888513,"Pulli, Brian",P,1,2,2,0,0,0,0,2,0,0,0
+4519840,St. Bonaventure,1666032,"Grant, Nate",P,1,0,1,1,0,0,0,1,1,0,0
+4519840,St. Bonaventure,,Totals,0,1,24,34,9,1,0,0,3,1,0,0
+4519840,James Madison,1643277,"Sciorra, Michael",CF,1,2,2,0,0,0,0,0,0,0,0
+4519840,James Madison,1870413,"Griffin, Davonn",LF,1,1,1,0,0,0,0,0,0,0,0
+4519840,James Madison,1870454,"Brown, Harry",LF,1,0,0,0,0,0,0,0,0,0,0
+4519840,James Madison,1643276,"Sisk, Adam",RF,1,3,3,0,0,0,0,0,0,0,0
+4519840,James Madison,1997573,"Piccolino II, Anthony",PH,1,0,0,0,0,0,0,0,0,0,0
+4519840,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4519840,James Madison,1870450,"Hayes, Kyle",C,1,2,2,0,0,0,0,0,0,0,0
+4519840,James Madison,1772230,"Tondi, Zach",C,1,2,2,0,0,0,0,1,0,0,0
+4519840,James Madison,1997570,"Johnson, Hunter",3B,1,0,0,0,0,0,0,0,0,0,0
+4519840,James Madison,1870455,"Semones, Fox",3B,1,1,4,2,1,0,0,0,0,0,0
+4519840,James Madison,1997556,"Jones, Josh",SS,1,1,4,3,0,0,0,0,0,1,0
+4519840,James Madison,1870451,"Coale, Ryan",PH,1,0,0,0,0,0,0,0,0,0,0
+4519840,James Madison,1870415,"Dipasupil, Matt",2B,1,4,11,7,0,0,0,0,0,2,0
+4519840,James Madison,1643272,"McKay, Bradley",2B,1,0,0,0,0,0,0,0,0,0,0
+4519840,James Madison,1772214,"Dofflemyer, Tanner",1B,1,10,10,0,0,0,0,0,0,2,0
+4519840,James Madison,1997568,"Campbell, Evan",P,1,0,0,0,0,0,0,0,0,0,0
+4519840,James Madison,1772212,"Bourne, Christian",P,1,0,0,0,0,0,0,0,0,0,0
+4519840,James Madison,1643273,"Harlow, Colton",P,1,1,2,1,0,0,0,1,0,1,0
+4519840,James Madison,,Totals,0,1,27,41,13,1,0,0,1,0,2,0
+4521284,St. Bonaventure,1980954,"Magnanti, Mike",2B,1,4,7,3,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1980969,"Henshaw, Brandon",SS,1,0,1,1,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1888503,"MacCarrick, Ryan",RF,1,2,2,0,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1769581,"Vaccaro, David",CF,1,2,2,0,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1980960,"Kelder, Tyler",DH,1,0,0,0,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1888508,"Vincent, Casey",1B,1,7,7,0,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1666029,"O'Connor, Ryan",PH,1,0,0,0,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1888515,"Miknis, Jake",3B,1,1,4,1,2,0,0,0,0,0,0
+4521284,St. Bonaventure,1980959,"Foden, Jake",PH,1,0,0,0,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1666036,"Schutz, Alex",LF,1,1,1,0,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1769588,"Fuller, Sam",PH,1,0,0,0,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1980997,"Stauffer, Daniel",C,1,7,9,2,0,0,0,1,2,0,0
+4521284,St. Bonaventure,1888507,"O'Brien, Murphy",P,1,0,0,0,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1888509,"Moffat, Donovan",P,1,0,0,0,0,0,0,0,0,0,0
+4521284,St. Bonaventure,1980994,"Nelson, Braydon",P,1,0,2,2,0,0,0,1,2,0,0
+4521284,St. Bonaventure,,Totals,0,1,24,35,9,2,0,0,1,2,0,0
+4521284,James Madison,1643277,"Sciorra, Michael",CF,1,2,2,0,0,0,0,0,0,0,0
+4521284,James Madison,1870413,"Griffin, Davonn",LF,1,2,2,0,0,0,0,0,0,0,0
+4521284,James Madison,1870454,"Brown, Harry",LF,1,1,1,0,0,0,0,0,0,0,0
+4521284,James Madison,1643276,"Sisk, Adam",RF,1,5,5,0,0,0,0,0,0,0,0
+4521284,James Madison,1772230,"Tondi, Zach",C,1,6,6,0,0,0,1,0,0,0,0
+4521284,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4521284,James Madison,1870455,"Semones, Fox",3B,1,0,3,2,1,0,0,0,0,0,0
+4521284,James Madison,1997556,"Jones, Josh",SS,1,1,4,2,1,0,0,0,0,0,0
+4521284,James Madison,1870415,"Dipasupil, Matt",2B,1,2,3,1,0,0,0,0,0,0,0
+4521284,James Madison,1772214,"Dofflemyer, Tanner",1B,1,8,8,0,0,0,0,0,0,0,0
+4521284,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4521284,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4521284,James Madison,1997553,"Goggin, Dan",P,1,0,2,2,0,0,0,0,0,0,0
+4521284,James Madison,,Totals,0,1,27,36,7,2,0,1,0,0,0,0
+4523832,St. Bonaventure,1980954,"Magnanti, Mike",2B,1,1,1,0,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1980969,"Henshaw, Brandon",SS,1,1,5,4,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1888503,"MacCarrick, Ryan",RF,1,2,2,0,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1769581,"Vaccaro, David",CF,1,0,0,0,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1666040,"Eastman, Matt",1B,1,2,2,0,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1980960,"Kelder, Tyler",1B,1,9,9,0,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1888515,"Miknis, Jake",PH,1,0,0,0,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1980959,"Foden, Jake",DH,1,0,0,0,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1666036,"Schutz, Alex",LF,1,0,0,0,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1769588,"Fuller, Sam",LF,1,0,0,0,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1980971,"Palczewski, Jeff",PH3B,1,0,0,0,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1769582,"Ferlenda, Alexander",3B,1,0,1,0,1,0,0,0,0,0,0
+4523832,St. Bonaventure,1769586,"MacDonald, Ben",C,1,12,15,3,0,0,0,2,0,0,0
+4523832,St. Bonaventure,1888501,"Wild, Roman",P,1,0,2,2,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1888509,"Moffat, Donovan",P,1,0,0,0,0,0,0,0,0,0,0
+4523832,St. Bonaventure,1666033,"Contento, Ben",P,1,0,1,1,0,0,0,2,0,0,0
+4523832,St. Bonaventure,,Totals,0,1,27,38,10,1,0,0,2,0,0,0
+4523832,James Madison,1643277,"Sciorra, Michael",CF,1,4,4,0,0,0,0,0,0,0,0
+4523832,James Madison,1870413,"Griffin, Davonn",LF,1,0,0,0,0,0,0,0,0,0,0
+4523832,James Madison,1870454,"Brown, Harry",LF,1,4,4,0,0,0,0,0,0,0,0
+4523832,James Madison,1643276,"Sisk, Adam",RF,1,3,3,0,0,0,0,0,0,0,0
+4523832,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4523832,James Madison,1870455,"Semones, Fox",3BSS,1,1,2,1,0,0,0,0,0,0,0
+4523832,James Madison,1870451,"Coale, Ryan",PH,1,0,0,0,0,0,0,0,0,0,0
+4523832,James Madison,1997570,"Johnson, Hunter",3B,1,0,0,0,0,0,0,0,0,0,0
+4523832,James Madison,1643272,"McKay, Bradley",SS,1,1,2,1,0,0,0,0,0,0,0
+4523832,James Madison,1772214,"Dofflemyer, Tanner",1B,1,8,8,0,0,0,0,0,0,0,0
+4523832,James Madison,1870415,"Dipasupil, Matt",2B,1,0,1,1,0,0,0,0,0,0,0
+4523832,James Madison,1772230,"Tondi, Zach",PHC,1,0,0,0,0,0,0,0,0,0,0
+4523832,James Madison,1870450,"Hayes, Kyle",C,1,6,6,0,0,0,0,1,0,0,0
+4523832,James Madison,1997574,"Richards, Garrett",P,1,0,1,1,0,0,0,0,0,0,0
+4523832,James Madison,1997560,"Stewart, Nick",P,1,0,1,1,0,0,0,1,0,0,0
+4523832,James Madison,,Totals,0,1,27,32,5,0,0,0,1,0,0,0
+4526134,James Madison,1643277,"Sciorra, Michael",CF,1,3,3,0,0,0,0,0,0,0,0
+4526134,James Madison,1870413,"Griffin, Davonn",LF,1,0,0,0,0,0,0,0,0,0,0
+4526134,James Madison,1870454,"Brown, Harry",LF,1,2,2,0,0,0,0,0,0,0,0
+4526134,James Madison,1643276,"Sisk, Adam",RF,1,0,0,0,0,0,0,0,0,0,0
+4526134,James Madison,1870450,"Hayes, Kyle",C,1,0,1,0,1,0,0,0,0,0,0
+4526134,James Madison,1772230,"Tondi, Zach",C,1,3,4,1,0,0,0,2,1,0,0
+4526134,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4526134,James Madison,1870455,"Semones, Fox",3B,1,1,4,3,0,0,0,0,0,0,0
+4526134,James Madison,1997556,"Jones, Josh",SS,1,2,3,1,0,0,0,0,0,0,0
+4526134,James Madison,1870415,"Dipasupil, Matt",2B,1,2,6,4,0,0,0,0,0,0,0
+4526134,James Madison,1643272,"McKay, Bradley",1B,1,4,4,0,0,0,0,0,0,0,0
+4526134,James Madison,1772214,"Dofflemyer, Tanner",1B,1,7,8,1,0,0,0,0,0,0,0
+4526134,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4526134,James Madison,1643274,"McCoy, Tucker",P,1,0,1,1,0,0,0,0,0,0,0
+4526134,James Madison,1772229,"Marsili, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4526134,James Madison,1643273,"Harlow, Colton",P,1,0,0,0,0,0,0,0,0,0,0
+4526134,James Madison,1870460,"Kelly, Kevin",P,1,1,4,3,0,0,0,2,1,0,0
+4526134,James Madison,,Totals,0,1,25,40,14,1,0,0,2,1,0,0
+4526134,Virginia,1983428,"Morris, Tanner",SS,1,2,5,3,0,0,0,0,0,0,0
+4526134,Virginia,1656677,"Novak, Justin",3B,1,1,2,1,0,0,0,0,0,0,0
+4526134,Virginia,1771972,"Weber, Andy",2B,1,1,1,0,0,0,0,0,0,0,0
+4526134,Virginia,1867172,"Knight, Caleb",DH,1,0,0,0,0,0,0,0,0,0,0
+4526134,Virginia,1771988,"Eikhoff, Nate",1B,1,8,8,0,0,0,0,0,0,0,0
+4526134,Virginia,1656674,"Cody, Charlie",LF,1,1,1,0,0,0,0,0,0,0,0
+4526134,Virginia,1983429,"Tappen, Alex",RF,1,2,2,0,0,0,0,0,0,0,0
+4526134,Virginia,1771993,"Comer, Cameron",C,1,11,11,0,0,0,0,0,0,0,0
+4526134,Virginia,1983425,"Papantonis, Andrew",PH,1,0,0,0,0,0,0,0,0,0,0
+4526134,Virginia,1867164,"Richardson, Cayman",CF,1,1,1,0,0,0,0,0,0,0,0
+4526134,Virginia,1983419,"Whitten, Kyle",P,1,0,0,0,0,0,0,0,0,0,0
+4526134,Virginia,1983430,"Abbott, Andrew",P,1,0,0,0,0,0,0,0,0,0,0
+4526134,Virginia,1983420,"Meyer, Mack",P,1,0,0,0,0,0,0,0,0,0,0
+4526134,Virginia,1656673,"Sousa, Bennett",P,1,0,0,0,0,0,0,0,0,0,0
+4526134,Virginia,1867163,"Nicholson, Bobby",P,1,0,2,1,1,0,0,0,0,0,0
+4526134,Virginia,,Totals,0,1,27,33,5,1,0,0,0,0,0,0
+4528247,UMass Lowell,1993508,"Martin, Vinnie",RF,1,2,2,0,0,0,0,0,0,0,0
+4528247,UMass Lowell,1768423,"Passatempo, Steve",1B,1,7,9,2,0,0,0,0,0,2,0
+4528247,UMass Lowell,1768422,"Olive, Russ",DH,1,0,0,0,0,0,0,0,0,0,0
+4528247,UMass Lowell,1887031,"Maiola, Colby",CF,1,0,0,0,0,0,0,0,0,0,0
+4528247,UMass Lowell,1887034,"Climo, Cam",LF,1,2,2,0,0,0,0,0,0,0,0
+4528247,UMass Lowell,1993507,"Castellanos, Joey",SS,1,1,4,2,1,0,0,0,0,2,0
+4528247,UMass Lowell,1768433,"Tumosa, Mark",3B,1,0,2,2,0,0,0,0,0,0,0
+4528247,UMass Lowell,1993491,"Maurice, Kyle",PH,1,0,0,0,0,0,0,0,0,0,0
+4528247,UMass Lowell,1993492,"Mejia, Jeff",PR,1,0,0,0,0,0,0,0,0,0,0
+4528247,UMass Lowell,1659304,"Barry, Nick",C,1,8,8,0,0,0,0,0,0,0,0
+4528247,UMass Lowell,1659315,"Prada, Ben",2B,1,3,6,3,0,0,0,0,0,2,0
+4528247,UMass Lowell,1887039,"Tomczyk, Luke",P,1,0,0,0,0,0,0,0,0,0,0
+4528247,UMass Lowell,1993510,"Riley, Jack",P,1,1,3,2,0,0,0,0,0,0,0
+4528247,UMass Lowell,,Totals,0,1,24,36,11,1,0,0,0,0,2,0
+4528247,James Madison,1643276,"Sisk, Adam",RF,1,4,4,0,0,0,0,0,0,0,0
+4528247,James Madison,1870413,"Griffin, Davonn",LF,1,0,0,0,0,0,0,0,0,0,0
+4528247,James Madison,1870454,"Brown, Harry",LF,1,0,0,0,0,0,0,0,0,0,0
+4528247,James Madison,1870455,"Semones, Fox",3B,1,0,1,1,0,0,0,0,0,0,0
+4528247,James Madison,1772230,"Tondi, Zach",C,1,11,11,0,0,0,0,0,0,0,0
+4528247,James Madison,1643277,"Sciorra, Michael",CF,1,2,2,0,0,0,0,0,0,0,0
+4528247,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4528247,James Madison,1997572,"Morgan, Michael",1B,1,6,7,1,0,0,0,0,0,3,0
+4528247,James Madison,1870415,"Dipasupil, Matt",2B,1,2,5,3,0,0,0,0,0,3,0
+4528247,James Madison,1772214,"Dofflemyer, Tanner",PHSS,1,0,0,0,0,0,0,0,0,0,0
+4528247,James Madison,1643272,"McKay, Bradley",SS,1,2,4,2,0,0,0,0,0,2,0
+4528247,James Madison,1643274,"McCoy, Tucker",P,1,0,1,1,0,0,0,0,0,0,0
+4528247,James Madison,1997559,"Showalter, Justin",P,1,0,0,0,0,0,0,0,0,0,0
+4528247,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,0,0,0,0
+4528247,James Madison,1643273,"Harlow, Colton",P,1,0,1,1,0,0,0,0,0,0,0
+4528247,James Madison,,Totals,0,1,27,36,9,0,0,0,0,0,3,0
+4530130,UMass Lowell,1993508,"Martin, Vinnie",RF,1,1,1,0,0,0,0,0,0,0,0
+4530130,UMass Lowell,1768423,"Passatempo, Steve",C,1,9,9,0,0,0,0,5,0,0,0
+4530130,UMass Lowell,1768422,"Olive, Russ",1B,1,8,10,1,1,0,0,0,0,0,0
+4530130,UMass Lowell,1887031,"Maiola, Colby",CF,1,3,3,0,0,0,0,0,0,0,0
+4530130,UMass Lowell,1887034,"Climo, Cam",LF,1,1,1,0,0,0,0,0,0,0,0
+4530130,UMass Lowell,1993507,"Castellanos, Joey",SS,1,0,0,0,0,0,0,0,0,0,0
+4530130,UMass Lowell,1887038,"Polichetti, John",3B,1,0,2,1,1,0,0,0,0,0,0
+4530130,UMass Lowell,1768435,"Young, Michael",DH,1,0,0,0,0,0,0,0,0,0,0
+4530130,UMass Lowell,1887040,"Leathersich, Ted",DH,1,0,0,0,0,0,0,0,0,0,0
+4530130,UMass Lowell,1659315,"Prada, Ben",2B,1,2,3,1,0,0,0,0,0,0,0
+4530130,UMass Lowell,1993489,"Funaro, Henry",P,1,1,2,1,0,0,0,2,0,0,0
+4530130,UMass Lowell,1768430,"Rand, Nick",P,1,0,1,1,0,0,0,0,0,0,0
+4530130,UMass Lowell,1659316,"Ryan, Andrew",P,1,0,2,2,0,0,0,3,0,0,0
+4530130,UMass Lowell,,Totals,0,1,25,34,7,2,0,0,5,0,0,0
+4530130,James Madison,1643276,"Sisk, Adam",RF,1,2,2,0,0,0,0,0,0,0,0
+4530130,James Madison,1870413,"Griffin, Davonn",LF,1,1,1,0,0,0,0,0,0,0,0
+4530130,James Madison,1870454,"Brown, Harry",LF,1,1,2,0,1,0,0,0,0,0,0
+4530130,James Madison,1870455,"Semones, Fox",3B,1,1,2,1,0,0,0,0,0,0,0
+4530130,James Madison,1772230,"Tondi, Zach",C,1,8,11,3,0,0,0,0,2,0,0
+4530130,James Madison,1997556,"Jones, Josh",SS,1,4,6,1,1,0,0,0,0,0,0
+4530130,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4530130,James Madison,1772214,"Dofflemyer, Tanner",PR1B,1,1,1,0,0,0,0,0,0,0,0
+4530130,James Madison,1997572,"Morgan, Michael",1B,1,8,8,0,0,0,0,0,0,0,0
+4530130,James Madison,1870415,"Dipasupil, Matt",2B,1,0,2,2,0,0,0,0,0,0,0
+4530130,James Madison,1643277,"Sciorra, Michael",CF,1,1,1,0,0,0,0,0,0,0,0
+4530130,James Madison,1870452,"Bechtold, Michael",P,1,0,0,0,0,0,0,0,0,0,0
+4530130,James Madison,1758478,"Perkins, Shelton",P,1,0,0,0,0,0,0,0,0,0,0
+4530130,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,0,2,0,0
+4530130,James Madison,,Totals,0,1,27,36,7,2,0,0,0,2,0,0
+4531137,UMass Lowell,1993508,"Martin, Vinnie",RF,1,3,3,0,0,0,0,0,0,0,0
+4531137,UMass Lowell,1768421,"Marchena, Oscar",3BSS,1,1,3,2,0,0,0,0,0,1,0
+4531137,UMass Lowell,1768422,"Olive, Russ",1B,1,7,8,1,0,0,0,0,0,1,0
+4531137,UMass Lowell,1887034,"Climo, Cam",LF,1,0,0,0,0,0,0,0,0,0,0
+4531137,UMass Lowell,1768435,"Young, Michael",CF,1,0,0,0,0,0,0,0,0,0,0
+4531137,UMass Lowell,1768433,"Tumosa, Mark",2B3B,1,3,5,2,0,0,0,0,0,0,0
+4531137,UMass Lowell,1887031,"Maiola, Colby",DH,1,0,0,0,0,0,0,0,0,0,0
+4531137,UMass Lowell,1887040,"Leathersich, Ted",DH,1,0,0,0,0,0,0,0,0,0,0
+4531137,UMass Lowell,1659315,"Prada, Ben",2B,1,1,3,2,0,0,0,0,0,1,0
+4531137,UMass Lowell,1993507,"Castellanos, Joey",SS,1,1,1,0,0,0,0,0,0,0,0
+4531137,UMass Lowell,1993491,"Maurice, Kyle",PHC,1,0,0,0,0,0,0,0,0,0,0
+4531137,UMass Lowell,1659304,"Barry, Nick",C,1,10,13,3,0,0,0,1,2,0,0
+4531137,UMass Lowell,1887035,"Metelski, Connor",P,1,0,0,0,0,0,0,0,0,0,0
+4531137,UMass Lowell,1768415,"Constant, Ricky",P,1,0,0,0,0,0,0,1,1,0,0
+4531137,UMass Lowell,1887039,"Tomczyk, Luke",P,1,1,2,1,0,0,0,0,0,0,0
+4531137,UMass Lowell,1768430,"Rand, Nick",P,1,0,1,1,0,0,0,0,0,0,0
+4531137,UMass Lowell,1768416,"Duffley, Collin",P,1,0,0,0,0,0,0,0,1,0,0
+4531137,UMass Lowell,,Totals,0,1,27,39,12,0,0,0,1,2,1,0
+4531137,James Madison,1643276,"Sisk, Adam",RF,1,2,3,1,0,0,0,0,0,0,0
+4531137,James Madison,1643277,"Sciorra, Michael",CF,1,0,0,0,0,0,0,0,0,0,0
+4531137,James Madison,1870454,"Brown, Harry",LF,1,0,1,0,1,0,0,0,0,0,0
+4531137,James Madison,1643272,"McKay, Bradley",3B,1,0,1,1,0,0,0,0,0,0,0
+4531137,James Madison,1870455,"Semones, Fox",3B,1,0,1,1,0,0,0,0,0,0,0
+4531137,James Madison,1772214,"Dofflemyer, Tanner",1B,1,0,0,0,0,0,0,0,0,0,0
+4531137,James Madison,1772230,"Tondi, Zach",C,1,13,16,2,1,0,1,1,2,0,0
+4531137,James Madison,1997556,"Jones, Josh",SS,1,3,7,4,0,0,0,0,0,0,0
+4531137,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4531137,James Madison,1870450,"Hayes, Kyle",C,1,0,1,0,1,0,0,2,0,0,0
+4531137,James Madison,1997572,"Morgan, Michael",1B,1,7,8,1,0,0,0,0,0,0,0
+4531137,James Madison,1870415,"Dipasupil, Matt",2B,1,1,1,0,0,0,0,0,0,0,0
+4531137,James Madison,1870413,"Griffin, Davonn",CFLF,1,0,0,0,0,0,0,0,0,0,0
+4531137,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,1,1,0,0
+4531137,James Madison,1772229,"Marsili, Matt",P,1,0,0,0,0,0,0,2,0,0,0
+4531137,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4531137,James Madison,1643274,"McCoy, Tucker",P,1,0,0,0,0,0,0,0,0,0,0
+4531137,James Madison,1997557,"Jones, Grayson",P,1,0,0,0,0,0,0,0,0,0,0
+4531137,James Madison,1997560,"Stewart, Nick",P,1,1,1,0,0,0,0,0,1,0,0
+4531137,James Madison,,Totals,0,1,27,40,10,3,0,1,3,2,0,0
+4534817,Elon,1864120,"Evers, Zach",CF,1,2,2,0,0,0,0,0,0,0,0
+4534817,Elon,1984379,"Oldham, Matt",C,1,13,14,1,0,0,2,2,0,0,0
+4534817,Elon,1759241,"Ogren, Ryne",SS,1,2,7,5,0,0,0,0,0,0,0
+4534817,Elon,1759231,"Devanney, Cam",2B,1,0,1,0,1,0,0,0,0,0,0
+4534817,Elon,1864117,"Blake, Shawn",1B,1,0,1,1,0,0,0,0,0,0,0
+4534817,Elon,1653181,"Venuto, James",1B,1,7,8,1,0,0,0,0,0,0,0
+4534817,Elon,1864125,"Stanley, Tyler",PR,1,0,0,0,0,0,0,0,0,0,0
+4534817,Elon,1864126,"Stonehouse, Garrett",DH,1,0,0,0,0,0,0,0,0,0,0
+4534817,Elon,1864124,"Satterfield, Joe",3B,1,0,1,1,0,0,0,0,0,0,0
+4534817,Elon,1984394,"Broughton, Josh",LF,1,1,1,0,0,0,0,0,0,0,0
+4534817,Elon,1759226,"Adcock, Ty",RF,1,2,2,0,0,0,0,0,0,0,0
+4534817,Elon,1543842,"Welhaf, Robbie",P,1,1,1,0,0,0,0,0,0,0,0
+4534817,Elon,1984380,"Wetherbee, Jared",P,1,0,0,0,0,0,0,0,0,0,0
+4534817,Elon,1864119,"Brnovich, Kyle",P,1,0,3,1,2,0,0,2,1,0,0
+4534817,Elon,,Totals,0,1,28,41,10,3,0,2,2,1,0,0
+4534817,James Madison,1643276,"Sisk, Adam",RF,1,3,3,0,0,0,0,0,0,0,0
+4534817,James Madison,1870454,"Brown, Harry",LF,1,1,1,0,0,0,0,0,0,0,0
+4534817,James Madison,1643272,"McKay, Bradley",3B,1,0,0,0,0,0,0,0,0,0,0
+4534817,James Madison,1997555,"Jackson, Dallas",PR,1,0,0,0,0,0,0,0,0,0,0
+4534817,James Madison,1870455,"Semones, Fox",3B,1,0,2,1,1,0,0,0,0,0,0
+4534817,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4534817,James Madison,1772230,"Tondi, Zach",C,1,4,5,1,0,0,1,0,0,0,0
+4534817,James Madison,1997556,"Jones, Josh",SS,1,1,6,5,0,0,0,0,0,1,0
+4534817,James Madison,1997572,"Morgan, Michael",1B,1,14,14,0,0,0,0,0,0,0,0
+4534817,James Madison,1870415,"Dipasupil, Matt",2B,1,6,7,1,0,0,0,0,0,1,0
+4534817,James Madison,1870413,"Griffin, Davonn",CF,1,1,1,0,0,0,0,0,0,0,0
+4534817,James Madison,1870452,"Bechtold, Michael",P,1,0,0,0,0,0,0,0,0,0,0
+4534817,James Madison,1870465,"Colon, Matt",P,1,0,1,1,0,0,0,0,0,0,0
+4534817,James Madison,1758478,"Perkins, Shelton",P,1,0,0,0,0,0,0,0,0,0,0
+4534817,James Madison,1643273,"Harlow, Colton",P,1,0,1,1,0,0,0,0,0,0,0
+4534817,James Madison,,Totals,0,1,30,41,10,1,0,1,0,0,1,0
+4536504,Elon,1864120,"Evers, Zach",CF,1,6,6,0,0,0,0,0,0,0,0
+4536504,Elon,1984379,"Oldham, Matt",C,1,6,7,1,0,0,1,1,0,0,0
+4536504,Elon,1759241,"Ogren, Ryne",SS,1,0,0,0,0,0,0,0,0,0,0
+4536504,Elon,1864125,"Stanley, Tyler",PR,1,0,0,0,0,0,0,0,0,0,0
+4536504,Elon,1864117,"Blake, Shawn",1B,1,3,3,0,0,0,0,0,0,0,0
+4536504,Elon,1653181,"Venuto, James",1B,1,5,5,0,0,0,0,0,0,0,0
+4536504,Elon,1759231,"Devanney, Cam",2B,1,0,3,3,0,0,0,0,0,0,0
+4536504,Elon,1864124,"Satterfield, Joe",3B,1,2,4,2,0,0,0,0,0,0,0
+4536504,Elon,1984394,"Broughton, Josh",LF,1,1,1,0,0,0,0,0,0,0,0
+4536504,Elon,1864126,"Stonehouse, Garrett",LF,1,1,1,0,0,0,0,0,0,0,0
+4536504,Elon,1864123,"Platt, Hayden",DH,1,0,0,0,0,0,0,0,0,0,0
+4536504,Elon,1759226,"Adcock, Ty",RF,1,2,3,0,1,0,0,0,0,0,0
+4536504,Elon,1984395,"Justice, Brandon",P,1,0,0,0,0,0,0,0,0,0,0
+4536504,Elon,1864121,"Kirby, George",P,1,1,2,1,0,0,0,1,0,0,0
+4536504,Elon,,Totals,0,1,27,35,7,1,0,1,1,0,0,0
+4536504,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4536504,James Madison,1870455,"Semones, Fox",3B,1,0,3,2,1,0,0,0,0,0,0
+4536504,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4536504,James Madison,1772230,"Tondi, Zach",C,1,7,8,1,0,0,0,2,1,0,0
+4536504,James Madison,1997556,"Jones, Josh",SS,1,1,7,6,0,0,0,0,0,3,0
+4536504,James Madison,1870454,"Brown, Harry",LF,1,3,3,0,0,0,0,0,0,0,0
+4536504,James Madison,1997572,"Morgan, Michael",1B,1,9,9,0,0,0,0,0,0,3,0
+4536504,James Madison,1870415,"Dipasupil, Matt",2B,1,4,8,4,0,0,0,0,0,3,0
+4536504,James Madison,1997573,"Piccolino II, Anthony",PH,1,0,0,0,0,0,0,0,0,0,0
+4536504,James Madison,1870413,"Griffin, Davonn",CF,1,2,2,0,0,0,0,0,0,0,0
+4536504,James Madison,1997574,"Richards, Garrett",P,1,0,0,0,0,0,0,1,0,0,0
+4536504,James Madison,1772212,"Bourne, Christian",P,1,0,0,0,0,0,0,0,1,0,0
+4536504,James Madison,1997559,"Showalter, Justin",P,1,0,0,0,0,0,0,0,0,0,0
+4536504,James Madison,1870460,"Kelly, Kevin",P,1,0,0,0,0,0,0,1,0,0,0
+4536504,James Madison,,Totals,0,1,27,41,13,1,0,0,2,1,3,0
+4537310,Elon,1864120,"Evers, Zach",CF,1,1,1,0,0,0,0,0,0,0,0
+4537310,Elon,1984379,"Oldham, Matt",C,1,11,12,1,0,0,0,1,0,0,0
+4537310,Elon,1759241,"Ogren, Ryne",SS,1,0,6,6,0,0,0,0,0,0,0
+4537310,Elon,1864125,"Stanley, Tyler",PR,1,0,0,0,0,0,0,0,0,0,0
+4537310,Elon,1864117,"Blake, Shawn",1B,1,0,0,0,0,0,0,0,0,0,0
+4537310,Elon,1653181,"Venuto, James",1B,1,10,11,1,0,0,0,0,0,0,0
+4537310,Elon,1759231,"Devanney, Cam",2B,1,3,3,0,0,0,0,0,0,0,0
+4537310,Elon,1864124,"Satterfield, Joe",3B,1,0,2,2,0,0,0,0,0,0,0
+4537310,Elon,1984394,"Broughton, Josh",LF,1,1,1,0,0,0,0,0,0,0,0
+4537310,Elon,1864126,"Stonehouse, Garrett",LF,1,0,0,0,0,0,0,0,0,0,0
+4537310,Elon,1759240,"O'Regan, Liam",DH,1,0,0,0,0,0,0,0,0,0,0
+4537310,Elon,1759226,"Adcock, Ty",RF,1,0,0,0,0,0,0,0,0,0,0
+4537310,Elon,1759235,"Lorenz, Owen",P,1,0,0,0,0,0,0,0,0,0,0
+4537310,Elon,1984395,"Justice, Brandon",P,1,0,0,0,0,0,0,1,0,0,0
+4537310,Elon,1759229,"Conroy, Ryan",P,1,1,3,2,0,0,0,0,0,0,0
+4537310,Elon,,Totals,0,1,27,39,12,0,0,0,1,0,0,0
+4537310,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4537310,James Madison,1997556,"Jones, Josh",SS,1,0,4,4,0,0,0,0,0,0,0
+4537310,James Madison,1772214,"Dofflemyer, Tanner",3B,1,0,1,1,0,0,0,0,0,0,0
+4537310,James Madison,1997573,"Piccolino II, Anthony",PHLF,1,0,0,0,0,0,0,0,0,0,0
+4537310,James Madison,1870455,"Semones, Fox",3B,1,1,2,1,0,0,0,0,0,0,0
+4537310,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4537310,James Madison,1870454,"Brown, Harry",LF1B,1,1,1,0,0,0,0,0,0,0,0
+4537310,James Madison,1997572,"Morgan, Michael",1B3B,1,7,7,0,0,0,0,0,0,0,0
+4537310,James Madison,1997555,"Jackson, Dallas",PR,1,0,0,0,0,0,0,0,0,0,0
+4537310,James Madison,1870450,"Hayes, Kyle",C,1,2,2,0,0,0,0,1,0,0,0
+4537310,James Madison,1772230,"Tondi, Zach",C,1,12,15,2,1,0,1,3,1,0,0
+4537310,James Madison,1643272,"McKay, Bradley",2B,1,2,2,0,0,0,0,0,0,0,0
+4537310,James Madison,1870413,"Griffin, Davonn",CF,1,1,2,0,1,0,0,0,0,0,0
+4537310,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,0,1,0,0
+4537310,James Madison,1997557,"Jones, Grayson",P,1,0,0,0,0,0,0,0,0,0,0
+4537310,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,0,0,0,0
+4537310,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,1,0,0,0
+4537310,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,1,0,0,0
+4537310,James Madison,1997560,"Stewart, Nick",P,1,0,0,0,0,0,0,2,0,0,0
+4537310,James Madison,,Totals,0,1,27,37,8,2,0,1,4,1,0,0
+4541970,Northeastern,1755472,"McConnell, Charlie",RF,1,2,2,0,0,0,0,0,0,0,0
+4541970,Northeastern,1866272,"Fair, Ian",3B,1,1,4,2,1,0,0,0,0,0,0
+4541970,Northeastern,1866276,"Holzwasser, Scott",2B,1,0,2,2,0,0,0,0,0,0,0
+4541970,Northeastern,1755505,"Farrell, Jake",1B,1,12,12,0,0,0,0,0,0,0,0
+4541970,Northeastern,1638606,"Burt, Max",SS,1,0,5,5,0,0,0,0,0,0,0
+4541970,Northeastern,1755519,"Solomon, Ryan",DH,1,0,0,0,0,0,0,0,0,0,0
+4541970,Northeastern,1755467,"Walsh, Cam",LF,1,1,1,0,0,0,0,0,0,0,0
+4541970,Northeastern,1755504,"Mazza, John",C,1,9,11,1,1,0,0,1,0,0,0
+4541970,Northeastern,1638599,"Koppens, Mason",CF,1,2,2,0,0,0,0,0,0,0,0
+4541970,Northeastern,1755484,"Misiaszek, Andrew",P,1,0,2,2,0,0,0,0,0,0,0
+4541970,Northeastern,1866275,"Winkler, Josh",P,1,0,0,0,0,0,0,0,0,0,0
+4541970,Northeastern,1638604,"Brown, Tyler",P,1,0,0,0,0,0,0,1,0,0,0
+4541970,Northeastern,,Totals,0,1,27,41,12,2,0,0,1,0,0,0
+4541970,James Madison,1997556,"Jones, Josh",SS,1,0,4,3,1,0,0,0,0,0,0
+4541970,James Madison,1870455,"Semones, Fox",3B,1,1,5,3,1,0,0,0,0,0,0
+4541970,James Madison,1643276,"Sisk, Adam",RF,1,2,2,0,0,0,0,0,0,0,0
+4541970,James Madison,1997554,"Hartigan, Conor",PH,1,0,0,0,0,0,0,0,0,0,0
+4541970,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4541970,James Madison,1997572,"Morgan, Michael",1BC,1,11,12,0,1,0,0,0,0,0,0
+4541970,James Madison,1772214,"Dofflemyer, Tanner",1B,1,1,1,0,0,0,0,0,0,0,0
+4541970,James Madison,1772230,"Tondi, Zach",C,1,8,9,1,0,0,1,2,0,0,0
+4541970,James Madison,1997573,"Piccolino II, Anthony",LF,1,1,1,0,0,0,0,0,0,0,0
+4541970,James Madison,1870413,"Griffin, Davonn",CF,1,3,3,0,0,0,0,0,0,0,0
+4541970,James Madison,1870415,"Dipasupil, Matt",2B,1,0,3,2,1,0,0,0,0,0,0
+4541970,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4541970,James Madison,1643274,"McCoy, Tucker",P,1,0,0,0,0,0,0,1,0,0,0
+4541970,James Madison,1997557,"Jones, Grayson",P,1,0,0,0,0,0,0,0,0,0,0
+4541970,James Madison,1997559,"Showalter, Justin",P,1,0,0,0,0,0,0,1,0,0,0
+4541970,James Madison,1643273,"Harlow, Colton",P,1,0,2,2,0,0,0,0,0,0,0
+4541970,James Madison,,Totals,0,1,27,42,11,4,0,1,2,0,0,0
+4547807,Northeastern,1755472,"McConnell, Charlie",RF,1,1,2,1,0,0,0,0,0,0,0
+4547807,Northeastern,1866272,"Fair, Ian",PH,1,0,0,0,0,0,0,0,0,0,0
+4547807,Northeastern,1755467,"Walsh, Cam",LF,1,0,1,1,0,0,0,0,0,0,0
+4547807,Northeastern,1866276,"Holzwasser, Scott",2B,1,2,4,1,1,0,0,0,0,0,0
+4547807,Northeastern,1755505,"Farrell, Jake",1B,1,10,10,0,0,0,0,0,0,1,0
+4547807,Northeastern,1638606,"Burt, Max",SS,1,2,6,4,0,0,0,0,0,1,0
+4547807,Northeastern,1755519,"Solomon, Ryan",3B,1,0,2,2,0,0,0,0,0,0,0
+4547807,Northeastern,1532094,"Perry, Zach",DH,1,0,0,0,0,0,0,0,0,0,0
+4547807,Northeastern,1866274,"Peterson, Kyle",PH,1,0,0,0,0,0,0,0,0,0,0
+4547807,Northeastern,1638601,"Geaslen, Michael",C,1,2,3,1,0,0,0,0,0,0,0
+4547807,Northeastern,1755504,"Mazza, John",C,1,6,7,1,0,0,0,0,0,0,0
+4547807,Northeastern,1638599,"Koppens, Mason",CF,1,1,1,0,0,0,0,0,0,0,0
+4547807,Northeastern,1866278,"Stiehl, David",P,1,0,3,3,0,0,0,0,0,1,0
+4547807,Northeastern,1991604,"Dufault, Brandon",P,1,0,1,1,0,0,0,0,0,0,0
+4547807,Northeastern,1755518,"Murphy, Kyle",P,1,0,0,0,0,0,0,0,0,0,0
+4547807,Northeastern,1638605,"Christian, Brian",P,1,0,2,2,0,0,0,0,1,0,0
+4547807,Northeastern,,Totals,0,1,24,42,17,1,0,0,0,1,1,0
+4547807,James Madison,1643276,"Sisk, Adam",RF,1,0,0,0,0,0,0,0,0,0,0
+4547807,James Madison,1870455,"Semones, Fox",3B,1,0,1,1,0,0,0,0,0,0,0
+4547807,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4547807,James Madison,1997556,"Jones, Josh",SS,1,1,5,4,0,0,0,0,0,1,0
+4547807,James Madison,1997572,"Morgan, Michael",C,1,11,11,0,0,0,0,1,0,0,0
+4547807,James Madison,1997573,"Piccolino II, Anthony",LF,1,1,1,0,0,0,0,0,0,0,0
+4547807,James Madison,1772214,"Dofflemyer, Tanner",1B,1,10,10,0,0,0,0,0,0,1,0
+4547807,James Madison,1870415,"Dipasupil, Matt",2B,1,1,4,3,0,0,0,0,0,1,0
+4547807,James Madison,1870413,"Griffin, Davonn",CF,1,3,3,0,0,0,0,0,0,0,0
+4547807,James Madison,1758478,"Perkins, Shelton",P,1,0,1,1,0,0,0,0,0,0,0
+4547807,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,0,0,0,0
+4547807,James Madison,1870460,"Kelly, Kevin",P,1,0,0,0,0,0,0,1,0,0,0
+4547807,James Madison,,Totals,0,1,27,36,9,0,0,0,1,0,1,0
+4544318,Northeastern,1755472,"McConnell, Charlie",RF,1,1,2,1,0,0,0,0,0,0,0
+4544318,Northeastern,1755467,"Walsh, Cam",LF,1,3,3,0,0,0,0,0,0,0,0
+4544318,Northeastern,1866276,"Holzwasser, Scott",2B,1,5,7,2,0,0,0,0,0,0,0
+4544318,Northeastern,1755505,"Farrell, Jake",1B,1,7,7,0,0,0,0,0,0,0,0
+4544318,Northeastern,1638606,"Burt, Max",SS,1,0,1,1,0,0,0,0,0,0,0
+4544318,Northeastern,1755519,"Solomon, Ryan",3B,1,0,3,3,0,0,0,0,0,0,0
+4544318,Northeastern,1866272,"Fair, Ian",PH,1,0,0,0,0,0,0,0,0,0,0
+4544318,Northeastern,1866274,"Peterson, Kyle",DH,1,0,0,0,0,0,0,0,0,0,0
+4544318,Northeastern,1638601,"Geaslen, Michael",C,1,5,7,2,0,0,0,0,1,0,0
+4544318,Northeastern,1638599,"Koppens, Mason",CF,1,5,5,0,0,0,0,0,0,0,0
+4544318,Northeastern,1755484,"Misiaszek, Andrew",P,1,0,1,1,0,0,0,0,1,0,0
+4544318,Northeastern,1755518,"Murphy, Kyle",P,1,0,0,0,0,0,0,0,0,0,0
+4544318,Northeastern,1866273,"Mellen, Sean",P,1,1,1,0,0,0,0,0,0,0,0
+4544318,Northeastern,,Totals,0,1,27,37,10,0,0,0,0,1,0,0
+4544318,James Madison,1643272,"McKay, Bradley",3B,1,0,3,3,0,0,0,0,0,0,0
+4544318,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4544318,James Madison,1870455,"Semones, Fox",3BLF,1,1,2,0,1,0,0,0,0,0,0
+4544318,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4544318,James Madison,1997556,"Jones, Josh",SS,1,2,4,2,0,0,0,0,0,1,0
+4544318,James Madison,1997572,"Morgan, Michael",C1B,1,6,8,2,0,0,1,1,1,1,0
+4544318,James Madison,1997573,"Piccolino II, Anthony",LFRF,1,2,2,0,0,0,0,0,0,0,0
+4544318,James Madison,1772230,"Tondi, Zach",PHC,1,4,4,0,0,0,0,1,0,0,0
+4544318,James Madison,1772214,"Dofflemyer, Tanner",1B,1,6,9,2,1,0,0,0,0,0,0
+4544318,James Madison,1870415,"Dipasupil, Matt",2B,1,1,6,4,1,0,0,0,0,1,0
+4544318,James Madison,1870413,"Griffin, Davonn",CF,1,3,3,0,0,0,0,0,0,0,0
+4544318,James Madison,1997574,"Richards, Garrett",P,1,1,4,2,1,0,0,0,2,0,0
+4544318,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,0,0,0,0
+4544318,James Madison,1772229,"Marsili, Matt",P,1,0,1,1,0,0,0,1,0,0,0
+4544318,James Madison,1997560,"Stewart, Nick",P,1,0,0,0,0,0,0,1,0,0,0
+4544318,James Madison,,Totals,0,1,27,47,16,4,0,1,2,2,1,0
+4546746,VMI,1770875,"Eaton, Nathan",3B,1,3,4,1,0,0,0,0,0,0,0
+4546746,VMI,1770882,"Pita, Matt",RF,1,2,2,0,0,0,0,0,0,0,0
+4546746,VMI,1659184,"Jaye, Jacob",SS,1,2,8,5,1,0,0,0,0,2,0
+4546746,VMI,1770876,"Huggins, Jake",1B,1,9,10,1,0,0,0,0,0,2,0
+4546746,VMI,1659185,"Dunlevy, Matt",LF,1,1,1,0,0,0,0,0,0,0,0
+4546746,VMI,1659188,"Fleischer, Collin",DH,1,0,0,0,0,0,0,0,0,0,0
+4546746,VMI,1544044,"Malbon, Will",CF,1,2,2,0,0,0,0,0,0,0,0
+4546746,VMI,1770879,"Smoot, Ryan",C,1,4,6,2,0,0,1,3,0,0,0
+4546746,VMI,1659191,"Maddox, Peyton",2B,1,0,0,0,0,0,0,0,0,0,0
+4546746,VMI,1986426,"Cook, Noah",PR2B,1,0,0,0,0,0,0,0,0,0,0
+4546746,VMI,1884599,"Diodato, Michael",2B,1,3,5,2,0,0,0,0,0,2,0
+4546746,VMI,1884606,"Tremblay, Derek",P,1,0,0,0,0,0,0,0,0,0,0
+4546746,VMI,1659189,"Eagle, Matt",P,1,0,0,0,0,0,0,1,0,0,0
+4546746,VMI,1659192,"Barbery, Brandon",P,1,0,2,2,0,0,0,2,1,0,0
+4546746,VMI,,Totals,0,1,26,40,13,1,0,1,3,1,2,0
+4546746,James Madison,1643276,"Sisk, Adam",RF,1,3,3,0,0,0,0,0,0,0,0
+4546746,James Madison,1870455,"Semones, Fox",2B3B,1,1,1,0,0,0,0,0,0,0,0
+4546746,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4546746,James Madison,1997556,"Jones, Josh",SS,1,1,3,2,0,0,0,0,0,0,0
+4546746,James Madison,1997572,"Morgan, Michael",1BC,1,9,9,0,0,0,0,0,0,1,0
+4546746,James Madison,1997573,"Piccolino II, Anthony",LF,1,0,1,0,1,0,0,0,0,0,0
+4546746,James Madison,1870413,"Griffin, Davonn",CF,1,1,1,0,0,0,0,0,0,0,0
+4546746,James Madison,1870415,"Dipasupil, Matt",PH2B,1,0,0,0,0,0,0,0,0,0,0
+4546746,James Madison,1643272,"McKay, Bradley",3B,1,0,0,0,0,0,0,0,0,0,0
+4546746,James Madison,1870454,"Brown, Harry",PH,1,0,0,0,0,0,0,0,0,0,0
+4546746,James Madison,1997555,"Jackson, Dallas",PR,1,0,0,0,0,0,0,0,0,0,0
+4546746,James Madison,1772214,"Dofflemyer, Tanner",1B,1,1,1,0,0,0,0,0,0,0,0
+4546746,James Madison,1870450,"Hayes, Kyle",C,1,10,11,1,0,0,0,3,0,0,0
+4546746,James Madison,1772212,"Bourne, Christian",P,1,0,0,0,0,0,0,0,0,0,0
+4546746,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,1,0,0,0
+4546746,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,1,1,0,0
+4546746,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4546746,James Madison,1758478,"Perkins, Shelton",P,1,0,0,0,0,0,0,0,0,0,0
+4546746,James Madison,1870452,"Bechtold, Michael",P,1,1,1,0,0,0,0,1,0,0,0
+4546746,James Madison,,Totals,0,1,27,31,3,1,0,0,3,1,1,0
+4548325,James Madison,1643276,"Sisk, Adam",RF,1,2,2,0,0,0,0,0,0,0,0
+4548325,James Madison,1870455,"Semones, Fox",2B,1,2,4,2,0,0,0,0,0,1,0
+4548325,James Madison,1997556,"Jones, Josh",SS,1,2,5,3,0,0,0,0,0,2,0
+4548325,James Madison,1997554,"Hartigan, Conor",DH,1,0,0,0,0,0,0,0,0,0,0
+4548325,James Madison,1997572,"Morgan, Michael",1BC,1,6,6,0,0,0,0,1,0,1,0
+4548325,James Madison,1997573,"Piccolino II, Anthony",LF,1,3,3,0,0,0,0,0,0,0,0
+4548325,James Madison,1870415,"Dipasupil, Matt",PH,1,0,0,0,0,0,0,0,0,0,0
+4548325,James Madison,1870413,"Griffin, Davonn",CF,1,2,2,0,0,0,0,0,0,0,0
+4548325,James Madison,1643272,"McKay, Bradley",3B,1,0,2,2,0,0,0,0,0,0,0
+4548325,James Madison,1870454,"Brown, Harry",PH,1,0,0,0,0,0,0,0,0,0,0
+4548325,James Madison,1772214,"Dofflemyer, Tanner",1B,1,2,2,0,0,0,0,0,0,1,0
+4548325,James Madison,1870450,"Hayes, Kyle",C,1,5,5,0,0,0,0,2,0,0,0
+4548325,James Madison,1997574,"Richards, Garrett",P,1,0,0,0,0,0,0,2,0,0,0
+4548325,James Madison,1997559,"Showalter, Justin",P,1,0,0,0,0,0,0,1,0,0,0
+4548325,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4548325,James Madison,1643273,"Harlow, Colton",P,1,0,0,0,0,0,0,0,0,0,0
+4548325,James Madison,,Totals,0,1,24,31,7,0,0,0,3,0,2,0
+4548325,Col. of Charleston,1764728,"Hart, Dupree",2B,1,3,6,3,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1879330,"Morgan, Luke",CF,1,0,0,0,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1764745,"Mundy, Joey",LF,1,0,0,0,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1646990,"McRae, Logan",LF,1,0,1,0,1,0,0,0,0,0,0
+4548325,Col. of Charleston,1764731,"Wondrack, Danny",C,1,13,17,4,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1996991,"Garrett, Cameron",DH,1,0,0,0,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1646986,"Dixon, Bradley",RF,1,2,2,0,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1646985,"Richter, Tommy",3B,1,0,1,1,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1764727,"Manzo, Luke",SS,1,2,3,1,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1879321,"Sechopoulos, Ari",1B,1,0,0,0,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1764737,"Hunt, Clay",1B,1,7,7,0,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1764732,"Baker, Justin",P,1,0,0,0,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1646992,"Love, Carter",P,1,0,0,0,0,0,0,0,0,0,0
+4548325,Col. of Charleston,1764734,"Sisk, Evan",P,1,0,0,0,0,0,0,0,0,0,0
+4548325,Col. of Charleston,,Totals,0,1,27,37,9,1,0,0,0,0,0,0
+4551187,James Madison,1643276,"Sisk, Adam",RF,1,2,2,0,0,0,0,0,0,0,0
+4551187,James Madison,1870455,"Semones, Fox",3B,1,2,2,0,0,0,0,0,0,0,0
+4551187,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4551187,James Madison,1997556,"Jones, Josh",SS,1,2,7,4,1,0,0,0,0,0,0
+4551187,James Madison,1997572,"Morgan, Michael",1B,1,7,7,0,0,0,0,0,0,0,0
+4551187,James Madison,1997573,"Piccolino II, Anthony",PRLF,1,0,0,0,0,0,0,0,0,0,0
+4551187,James Madison,1997554,"Hartigan, Conor",LF,1,0,0,0,0,0,0,0,0,0,0
+4551187,James Madison,1772230,"Tondi, Zach",C,1,9,9,0,0,0,1,0,0,0,0
+4551187,James Madison,1870413,"Griffin, Davonn",CF,1,1,1,0,0,0,0,0,0,0,0
+4551187,James Madison,1870415,"Dipasupil, Matt",2B,1,1,4,3,0,0,0,0,0,0,0
+4551187,James Madison,1997553,"Goggin, Dan",P,1,1,1,0,0,0,0,0,0,0,0
+4551187,James Madison,1997560,"Stewart, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4551187,James Madison,,Totals,0,1,25,33,7,1,0,1,0,0,0,0
+4551187,Col. of Charleston,1764728,"Hart, Dupree",2B,1,2,3,1,0,0,0,0,0,0,0
+4551187,Col. of Charleston,1879330,"Morgan, Luke",CF,1,4,4,0,0,0,0,0,0,0,0
+4551187,Col. of Charleston,1646990,"McRae, Logan",LF,1,0,0,0,0,0,0,0,0,0,0
+4551187,Col. of Charleston,1996988,"Ward, Bryson",PH,1,0,0,0,0,0,0,0,0,0,0
+4551187,Col. of Charleston,1764731,"Wondrack, Danny",DH,1,0,0,0,0,0,0,0,0,0,0
+4551187,Col. of Charleston,1646986,"Dixon, Bradley",RF,1,0,0,0,0,0,0,0,0,0,0
+4551187,Col. of Charleston,1646985,"Richter, Tommy",3B,1,4,6,2,0,0,0,0,0,0,0
+4551187,Col. of Charleston,1996991,"Garrett, Cameron",C,1,10,13,3,0,0,0,0,2,0,0
+4551187,Col. of Charleston,1764727,"Manzo, Luke",SS,1,1,3,2,0,0,0,0,0,0,0
+4551187,Col. of Charleston,1879321,"Sechopoulos, Ari",1B,1,6,6,0,0,0,0,0,0,0,0
+4551187,Col. of Charleston,1646992,"Love, Carter",P,1,0,1,1,0,0,0,0,0,0,0
+4551187,Col. of Charleston,1879335,"Frishmuth, Jakob",P,1,0,1,1,0,0,0,0,2,0,0
+4551187,Col. of Charleston,,Totals,0,1,27,37,10,0,0,0,0,2,0,0
+4551220,James Madison,1643276,"Sisk, Adam",RF,1,0,0,0,0,0,0,0,0,0,0
+4551220,James Madison,1870455,"Semones, Fox",3B,1,0,6,6,0,0,0,0,0,0,0
+4551220,James Madison,1997556,"Jones, Josh",SS,1,3,7,3,1,0,0,0,0,0,0
+4551220,James Madison,1997555,"Jackson, Dallas",PR,1,0,0,0,0,0,0,0,0,0,0
+4551220,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4551220,James Madison,1997572,"Morgan, Michael",C,1,6,10,2,2,0,0,4,2,0,0
+4551220,James Madison,1997573,"Piccolino II, Anthony",LF,1,0,0,0,0,0,0,0,0,0,0
+4551220,James Madison,1772214,"Dofflemyer, Tanner",1B,1,7,8,0,1,0,0,0,0,0,0
+4551220,James Madison,1870415,"Dipasupil, Matt",2B,1,3,3,0,0,0,0,0,0,0,0
+4551220,James Madison,1870413,"Griffin, Davonn",CF,1,4,4,0,0,0,0,0,0,0,0
+4551220,James Madison,1870460,"Kelly, Kevin",P,1,0,1,1,0,0,0,4,2,0,0
+4551220,James Madison,,Totals,0,1,23,39,12,4,0,0,4,2,0,0
+4551220,Col. of Charleston,1764728,"Hart, Dupree",2B,1,0,0,0,0,0,0,0,0,0,0
+4551220,Col. of Charleston,1879330,"Morgan, Luke",CF,1,2,2,0,0,0,0,0,0,0,0
+4551220,Col. of Charleston,1646990,"McRae, Logan",DH,1,0,0,0,0,0,0,0,0,0,0
+4551220,Col. of Charleston,1764731,"Wondrack, Danny",C,1,16,17,1,0,0,0,1,1,0,0
+4551220,Col. of Charleston,1879321,"Sechopoulos, Ari",1B,1,0,0,0,0,0,0,0,0,0,0
+4551220,Col. of Charleston,1996991,"Garrett, Cameron",LF,1,0,0,0,0,0,0,0,0,0,0
+4551220,Col. of Charleston,1646986,"Dixon, Bradley",RF,1,3,3,0,0,0,0,0,0,0,0
+4551220,Col. of Charleston,1646985,"Richter, Tommy",3B,1,0,1,0,1,0,0,0,0,0,0
+4551220,Col. of Charleston,1764727,"Manzo, Luke",SS,1,2,2,0,0,0,0,0,0,0,0
+4551220,Col. of Charleston,1764745,"Mundy, Joey",LF,1,0,0,0,0,0,0,0,0,0,0
+4551220,Col. of Charleston,1764737,"Hunt, Clay",1B,1,1,1,0,0,0,0,0,0,0,0
+4551220,Col. of Charleston,1764739,"Ocker, Nathan",P,1,0,0,0,0,0,0,1,1,0,0
+4551220,Col. of Charleston,1879322,"McLarty, Griffin",P,1,0,1,1,0,0,0,0,0,0,0
+4551220,Col. of Charleston,,Totals,0,1,24,27,2,1,0,0,1,1,0,0
+4553064,Maryland,1754948,"Lee, AJ",SS,1,1,2,0,1,0,0,0,0,0,0
+4553064,Maryland,1754953,"Dunn, Nick",2B,1,1,3,2,0,0,0,0,0,0,0
+4553064,Maryland,1754954,"Costes, Marty",LF,1,2,2,0,0,0,0,0,0,0,0
+4553064,Maryland,1646249,"Biondic, Kevin",1BP,1,7,7,0,0,0,0,0,0,1,0
+4553064,Maryland,1982561,"Wright, Taylor",3B1B,1,3,5,2,0,0,0,0,0,0,0
+4553064,Maryland,1646251,"Jancarski, Zach",CF,1,2,2,0,0,0,0,0,0,0,0
+4553064,Maryland,1982401,"Bednar, Randy",RF,1,7,8,1,0,0,0,0,0,1,0
+4553064,Maryland,1982570,"Schiekofer, Richie",PR,1,0,0,0,0,0,0,0,0,0,0
+4553064,Maryland,1982543,"Gardiner, Tommy",3B,1,1,1,0,0,0,0,0,0,0,0
+4553064,Maryland,1982431,"Barnett, Brad",DH,1,0,0,0,0,0,0,0,0,0,0
+4553064,Maryland,1982416,"Alleyne, Chris",PR,1,0,0,0,0,0,0,0,0,0,0
+4553064,Maryland,1646253,"Morris, Justin",C,1,6,6,0,0,0,0,1,0,0,0
+4553064,Maryland,1982559,"Vought, Justin",C,1,6,6,0,0,0,0,1,0,0,0
+4553064,Maryland,1982436,"Burleson, Grant",P,1,0,0,0,0,0,0,1,0,0,0
+4553064,Maryland,1754945,"Murphy, John",P,1,0,0,0,0,0,0,1,0,0,0
+4553064,Maryland,1982552,"DiLuia, Mark",P,1,0,2,2,0,0,0,0,0,0,0
+4553064,Maryland,,Totals,0,1,36,44,7,1,0,0,2,0,1,0
+4553064,James Madison,1643276,"Sisk, Adam",RF,1,6,6,0,0,0,0,0,0,0,0
+4553064,James Madison,1870455,"Semones, Fox",3B,1,1,2,1,0,0,0,0,0,0,0
+4553064,James Madison,1997572,"Morgan, Michael",C1B,1,10,10,0,0,0,0,5,0,0,0
+4553064,James Madison,1997556,"Jones, Josh",SS,1,1,6,4,1,0,0,0,0,1,0
+4553064,James Madison,1997573,"Piccolino II, Anthony",LF,1,3,4,1,0,0,0,0,0,0,0
+4553064,James Madison,1870413,"Griffin, Davonn",CF,1,2,2,0,0,0,0,0,0,0,0
+4553064,James Madison,1870451,"Coale, Ryan",DH,1,0,0,0,0,0,0,0,0,0,0
+4553064,James Madison,1870454,"Brown, Harry",PH,1,0,0,0,0,0,0,0,0,0,0
+4553064,James Madison,1997555,"Jackson, Dallas",PR,1,0,0,0,0,0,0,0,0,0,0
+4553064,James Madison,1870450,"Hayes, Kyle",C,1,3,3,0,0,0,0,0,0,0,0
+4553064,James Madison,1772230,"Tondi, Zach",PHC,1,2,2,0,0,0,0,0,0,0,0
+4553064,James Madison,1772214,"Dofflemyer, Tanner",1B,1,6,6,0,0,0,0,0,0,1,0
+4553064,James Madison,1870415,"Dipasupil, Matt",2B,1,2,7,4,1,0,0,0,0,1,0
+4553064,James Madison,1772229,"Marsili, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4553064,James Madison,1997574,"Richards, Garrett",P,1,0,0,0,0,0,0,0,0,0,0
+4553064,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4553064,James Madison,1758478,"Perkins, Shelton",P,1,0,0,0,0,0,0,0,0,0,0
+4553064,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,0,0,0,0
+4553064,James Madison,1643274,"McCoy, Tucker",P,1,0,0,0,0,0,0,0,1,0,0
+4553064,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,5,0,0,0
+4553064,James Madison,,Totals,0,1,36,48,10,2,0,0,5,1,1,0
+4554000,James Madison,1870455,"Semones, Fox",2B,1,1,6,5,0,0,0,0,0,1,0
+4554000,James Madison,1643276,"Sisk, Adam",RF,1,0,0,0,0,0,0,0,0,0,0
+4554000,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4554000,James Madison,1997556,"Jones, Josh",SS,1,3,5,2,0,0,0,0,0,0,0
+4554000,James Madison,1997572,"Morgan, Michael",C,1,5,5,0,0,0,0,1,0,0,0
+4554000,James Madison,1870451,"Coale, Ryan",LF,1,3,4,1,0,0,0,0,0,0,0
+4554000,James Madison,1643272,"McKay, Bradley",3B,1,0,3,3,0,0,0,0,0,1,0
+4554000,James Madison,1772214,"Dofflemyer, Tanner",PR1B,1,5,5,0,0,0,0,0,0,1,0
+4554000,James Madison,1997570,"Johnson, Hunter",1B,1,4,4,0,0,0,0,0,0,0,0
+4554000,James Madison,1870413,"Griffin, Davonn",CF,1,6,6,0,0,0,0,0,0,0,0
+4554000,James Madison,1772212,"Bourne, Christian",P,1,0,0,0,0,0,0,0,0,0,0
+4554000,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4554000,James Madison,1997568,"Campbell, Evan",P,1,0,0,0,0,0,0,1,0,0,0
+4554000,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,0,0,0,0
+4554000,James Madison,1870452,"Bechtold, Michael",P,1,0,0,0,0,0,0,0,0,0,0
+4554000,James Madison,,Totals,0,1,27,38,11,0,0,0,1,0,1,0
+4554000,George Mason,1756185,"Sturek, Frank",CF,1,5,6,1,0,0,0,0,0,0,0
+4554000,George Mason,1982206,"Brooks, Daniel",3B,1,0,5,4,1,0,0,0,0,0,0
+4554000,George Mason,1871564,"Driscoll, Logan",RF,1,2,2,0,0,0,0,0,0,0,0
+4554000,George Mason,1649988,"Kelly, Trevor",LF,1,0,0,0,0,0,0,0,0,0,0
+4554000,George Mason,1649989,"Nelin, Tyler",C,1,7,7,0,0,0,1,2,0,0,0
+4554000,George Mason,1756116,"Tassone, Ryan",DH,1,0,0,0,0,0,0,0,0,0,0
+4554000,George Mason,1756114,"Quinn, Tim",1B,1,10,11,1,0,0,0,0,0,0,0
+4554000,George Mason,1871562,"Callahan, John",SS,1,1,6,5,0,0,0,0,0,0,0
+4554000,George Mason,1756109,"Aponte, Alejandro",2B,1,1,2,1,0,0,0,0,0,0,0
+4554000,George Mason,1756118,"Yost, Matthew",P,1,0,0,0,0,0,0,0,0,0,0
+4554000,George Mason,1649993,"Turner, Timothy",P,1,0,0,0,0,0,0,1,0,0,0
+4554000,George Mason,1871563,"DiCesare, Jared",P,1,0,0,0,0,0,0,0,0,0,0
+4554000,George Mason,1649991,"Ricci, Ryan",P,1,0,1,1,0,0,0,0,0,0,0
+4554000,George Mason,1982225,"Price, James",P,1,1,1,0,0,0,0,1,0,0,0
+4554000,George Mason,,Totals,0,1,27,41,13,1,0,1,2,0,0,0
+4556096,William & Mary,1649927,"Farina, Luca",RF,1,0,0,0,0,0,0,0,0,0,0
+4556096,William & Mary,1649921,"Hall, Ryan",RF,1,1,1,0,0,0,0,0,0,0,0
+4556096,William & Mary,1976187,"McDermott, Matt",2B,1,3,6,3,0,0,0,0,0,1,0
+4556096,William & Mary,1882330,"Trehub, Matthew",1BPH,1,2,3,0,1,0,0,0,0,1,0
+4556096,William & Mary,1976189,"Lipke, Colin",1B,1,5,5,0,0,0,0,0,0,0,0
+4556096,William & Mary,1882336,"Lacasio, Noah",CPH,1,0,1,0,1,0,0,1,0,0,0
+4556096,William & Mary,1755791,"Smith, Hunter",C,1,8,8,0,0,0,2,0,0,0,0
+4556096,William & Mary,1976209,"Hogarth, David",3BPH,1,0,1,1,0,0,0,0,0,0,0
+4556096,William & Mary,1755789,"Pearson, Zach",SS,1,3,4,1,0,0,0,0,0,0,0
+4556096,William & Mary,1755793,"Waldman, Jason",DH,1,0,0,0,0,0,0,0,0,0,0
+4556096,William & Mary,1882325,"Raquet, Brandon",LFPH,1,0,0,0,0,0,0,0,0,0,0
+4556096,William & Mary,1755786,"Butts, Nick",LF,1,1,1,0,0,0,0,0,0,0,0
+4556096,William & Mary,1649923,"McLane, Craig",CFPH,1,0,0,0,0,0,0,0,0,0,0
+4556096,William & Mary,1755792,"Socher, Owen",CF,1,0,0,0,0,0,0,0,0,0,0
+4556096,William & Mary,1882326,"Ryan, Patrick",3BSS,1,1,6,4,1,0,0,0,0,1,0
+4556096,William & Mary,1976214,"Prosperi, Randall",P,1,0,2,2,0,0,0,0,0,0,0
+4556096,William & Mary,1649925,"Lohr, Christopher",P,1,0,0,0,0,0,0,1,0,0,0
+4556096,William & Mary,1755790,"Sheehan, Bodie",P,1,0,2,2,0,0,0,0,0,0,0
+4556096,William & Mary,,Totals,0,1,24,40,13,3,0,2,1,0,1,0
+4556096,James Madison,1870455,"Semones, Fox",2B,1,5,6,1,0,0,0,0,0,2,0
+4556096,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4556096,James Madison,1997556,"Jones, Josh",SS,1,2,6,4,0,0,0,0,0,2,0
+4556096,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4556096,James Madison,1772214,"Dofflemyer, Tanner",1B,1,1,1,0,0,0,0,0,0,0,0
+4556096,James Madison,1997572,"Morgan, Michael",1B,1,5,5,0,0,0,0,0,0,1,0
+4556096,James Madison,1997570,"Johnson, Hunter",PH,1,0,0,0,0,0,0,0,0,0,0
+4556096,James Madison,1870450,"Hayes, Kyle",C,1,2,2,0,0,0,0,0,0,0,0
+4556096,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4556096,James Madison,1643272,"McKay, Bradley",3B,1,0,3,3,0,0,0,0,0,0,0
+4556096,James Madison,1997573,"Piccolino II, Anthony",PRLF,1,0,0,0,0,0,0,0,0,0,0
+4556096,James Madison,1772230,"Tondi, Zach",C,1,7,7,0,0,0,0,0,0,0,0
+4556096,James Madison,1870413,"Griffin, Davonn",CF,1,4,4,0,0,0,0,0,0,0,0
+4556096,James Madison,1772229,"Marsili, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4556096,James Madison,1643273,"Harlow, Colton",P,1,0,1,1,0,0,0,0,0,0,0
+4556096,James Madison,,Totals,0,1,27,36,9,0,0,0,0,0,2,0
+4562305,William & Mary,1649921,"Hall, Ryan",RF,1,0,0,0,0,0,0,0,0,0,0
+4562305,William & Mary,1976187,"McDermott, Matt",2B,1,1,3,2,0,0,0,0,0,0,0
+4562305,William & Mary,1976189,"Lipke, Colin",1B,1,7,7,0,0,0,0,0,0,0,0
+4562305,William & Mary,1755791,"Smith, Hunter",C,1,7,10,3,0,0,0,1,2,0,0
+4562305,William & Mary,1755789,"Pearson, Zach",SS,1,3,4,1,0,0,0,0,0,0,0
+4562305,William & Mary,1755793,"Waldman, Jason",DH,1,0,0,0,0,0,0,0,0,0,0
+4562305,William & Mary,1882325,"Raquet, Brandon",LF,1,3,3,0,0,0,0,0,0,0,0
+4562305,William & Mary,1755792,"Socher, Owen",CF,1,2,2,0,0,0,0,0,0,0,0
+4562305,William & Mary,1649923,"McLane, Craig",PH,1,0,0,0,0,0,0,0,0,0,0
+4562305,William & Mary,1882326,"Ryan, Patrick",3B,1,0,2,1,1,0,0,0,0,0,0
+4562305,William & Mary,1882332,"Goldak, Michael",P,1,0,0,0,0,0,0,0,1,0,0
+4562305,William & Mary,1649926,"Fletcher, Charlie",P,1,0,0,0,0,0,0,0,0,0,0
+4562305,William & Mary,1649928,"Toner, Michael",P,1,0,0,0,0,0,0,0,0,0,0
+4562305,William & Mary,1882329,"Farrell, Chris",P,1,1,1,0,0,0,0,1,1,0,0
+4562305,William & Mary,,Totals,0,1,24,32,7,1,0,0,1,2,0,0
+4562305,James Madison,1870455,"Semones, Fox",2B,1,3,5,2,0,0,0,0,0,0,0
+4562305,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4562305,James Madison,1997556,"Jones, Josh",SS,1,0,1,1,0,0,0,0,0,0,0
+4562305,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4562305,James Madison,1772214,"Dofflemyer, Tanner",1B,1,0,0,0,0,0,0,0,0,0,0
+4562305,James Madison,1997572,"Morgan, Michael",1B,1,6,6,0,0,0,0,0,0,0,0
+4562305,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4562305,James Madison,1643272,"McKay, Bradley",3B,1,1,2,1,0,0,0,0,0,0,0
+4562305,James Madison,1772230,"Tondi, Zach",C,1,13,14,1,0,0,0,3,0,0,0
+4562305,James Madison,1870413,"Griffin, Davonn",CF,1,3,3,0,0,0,0,0,0,0,0
+4562305,James Madison,1997574,"Richards, Garrett",P,1,0,0,0,0,0,0,0,0,0,0
+4562305,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,2,0,0,0
+4562305,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4562305,James Madison,1870460,"Kelly, Kevin",P,1,0,1,1,0,0,0,1,0,0,0
+4562305,James Madison,,Totals,0,1,27,33,6,0,0,0,3,0,0,0
+4558314,William & Mary,1649921,"Hall, Ryan",RF,1,3,3,0,0,0,0,0,0,0,0
+4558314,William & Mary,1976187,"McDermott, Matt",2B,1,2,8,6,0,0,0,0,0,1,0
+4558314,William & Mary,1976189,"Lipke, Colin",1B,1,8,8,0,0,0,0,0,0,1,0
+4558314,William & Mary,1755791,"Smith, Hunter",C,1,8,8,0,0,0,0,0,0,0,0
+4558314,William & Mary,1755793,"Waldman, Jason",DH,1,0,0,0,0,0,0,0,0,0,0
+4558314,William & Mary,1755789,"Pearson, Zach",SS,1,0,3,3,0,0,0,0,0,1,0
+4558314,William & Mary,1649923,"McLane, Craig",LF,1,4,4,0,0,0,0,0,0,0,0
+4558314,William & Mary,1755792,"Socher, Owen",CF,1,2,2,0,0,0,0,0,0,0,0
+4558314,William & Mary,1882330,"Trehub, Matthew",PH,1,0,0,0,0,0,0,0,0,0,0
+4558314,William & Mary,1882326,"Ryan, Patrick",3B,1,0,0,0,0,0,0,0,0,0,0
+4558314,William & Mary,1976209,"Hogarth, David",3B,1,1,1,0,0,0,0,0,0,0,0
+4558314,William & Mary,1976210,"Pearson, Justin",P,1,0,0,0,0,0,0,0,0,0,0
+4558314,William & Mary,1755786,"Butts, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4558314,William & Mary,1649928,"Toner, Michael",P,1,0,0,0,0,0,0,0,0,0,0
+4558314,William & Mary,1649926,"Fletcher, Charlie",P,1,0,0,0,0,0,0,0,0,0,0
+4558314,William & Mary,1882328,"Strain, Wade",P,1,0,1,1,0,0,0,0,0,0,0
+4558314,William & Mary,,Totals,0,1,28,38,10,0,0,0,0,0,1,0
+4558314,James Madison,1870455,"Semones, Fox",2B,1,2,5,3,0,0,0,0,0,0,0
+4558314,James Madison,1643276,"Sisk, Adam",RF,1,3,4,1,0,0,0,0,0,0,0
+4558314,James Madison,1997556,"Jones, Josh",SS,1,2,2,0,0,0,0,0,0,0,0
+4558314,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4558314,James Madison,1997572,"Morgan, Michael",1B,1,8,8,0,0,0,0,0,0,0,0
+4558314,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4558314,James Madison,1643272,"McKay, Bradley",3B,1,2,3,0,1,0,0,0,0,0,0
+4558314,James Madison,1772230,"Tondi, Zach",C,1,11,12,1,0,0,1,1,1,0,0
+4558314,James Madison,1870413,"Griffin, Davonn",CF,1,2,2,0,0,0,0,0,0,0,0
+4558314,James Madison,1758478,"Perkins, Shelton",P,1,0,1,1,0,0,0,1,0,0,0
+4558314,James Madison,1997553,"Goggin, Dan",P,1,0,1,1,0,0,0,0,1,0,0
+4558314,James Madison,1997560,"Stewart, Nick",P,1,0,1,1,0,0,0,0,0,0,0
+4558314,James Madison,,Totals,0,1,30,39,8,1,0,1,1,1,0,0
+4560067,James Madison,1870415,"Dipasupil, Matt",2B,1,2,3,1,0,0,0,0,0,0,0
+4560067,James Madison,1870455,"Semones, Fox",2B,1,0,3,3,0,0,0,0,0,1,0
+4560067,James Madison,1643276,"Sisk, Adam",RF,1,4,4,0,0,0,0,0,0,0,0
+4560067,James Madison,1997556,"Jones, Josh",SS,1,1,5,4,0,0,0,0,0,1,0
+4560067,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4560067,James Madison,1997572,"Morgan, Michael",C,1,5,5,0,0,0,1,3,0,0,0
+4560067,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4560067,James Madison,1643272,"McKay, Bradley",3B,1,1,4,2,1,0,0,0,0,0,0
+4560067,James Madison,1772214,"Dofflemyer, Tanner",1B,1,4,4,0,0,0,0,0,0,1,0
+4560067,James Madison,1997570,"Johnson, Hunter",1B,1,7,7,0,0,0,0,0,0,0,0
+4560067,James Madison,1870413,"Griffin, Davonn",CF,1,3,3,0,0,0,0,0,0,0,0
+4560067,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,1,0,0,0
+4560067,James Madison,1997559,"Showalter, Justin",P,1,0,0,0,0,0,0,1,0,0,0
+4560067,James Madison,1772229,"Marsili, Matt",P,1,0,1,1,0,0,0,1,0,0,0
+4560067,James Madison,1870452,"Bechtold, Michael",P,1,0,1,1,0,0,0,0,0,0,0
+4560067,James Madison,,Totals,0,1,27,40,12,1,0,1,3,0,1,0
+4560067,Longwood,1640036,"Miller, Sammy",CF,1,1,1,0,0,0,0,0,0,0,0
+4560067,Longwood,1869941,"Tucker, Antwaun",SS,1,1,2,1,0,0,0,0,0,0,0
+4560067,Longwood,1869956,"Mitchell, Justin",1B,1,5,5,0,0,0,0,0,0,0,0
+4560067,Longwood,1869940,"Blakeney, Nate",2B,1,2,7,4,1,0,0,0,0,0,0
+4560067,Longwood,1869943,"Keller, Grant",3B,1,1,2,1,0,0,0,0,0,0,0
+4560067,Longwood,1869936,"Crain, Eric",PHDH,1,0,0,0,0,0,0,0,0,0,0
+4560067,Longwood,1978559,"Schnell, Jack",DH,1,0,0,0,0,0,0,0,0,0,0
+4560067,Longwood,1869955,"Shull, Ryan",RF,1,3,3,0,0,0,0,0,0,0,0
+4560067,Longwood,1978558,"Mahone, Tyler",PH,1,0,0,0,0,0,0,0,0,0,0
+4560067,Longwood,1869938,"McAllister, Jawan",LF,1,0,0,0,0,0,0,0,0,0,0
+4560067,Longwood,1869937,"Carter, Scott",PR,1,0,0,0,0,0,0,0,0,0,0
+4560067,Longwood,1869935,"Mendez, Joey",C,1,6,8,0,2,0,1,0,0,0,0
+4560067,Longwood,1547288,"McCafferty, Mac",C,1,7,9,1,1,0,0,2,1,0,0
+4560067,Longwood,1640032,"Catlin, Michael",P,1,0,0,0,0,0,0,0,1,0,0
+4560067,Longwood,1978522,"Green, Tommy",P,1,1,1,0,0,0,0,0,0,0,0
+4560067,Longwood,1869939,"Gregory, John",P,1,0,1,1,0,0,0,0,1,0,0
+4560067,Longwood,1978561,"Moxey, Todd",P,1,0,0,0,0,0,0,0,0,0,0
+4560067,Longwood,1978554,"Campbell, Maceo",P,1,0,0,0,0,0,0,0,0,0,0
+4560067,Longwood,1978556,"Knapp, Tyler",P,1,0,0,0,0,0,0,0,0,0,0
+4560067,Longwood,1640039,"Potojecki, Zach",P,1,0,0,0,0,0,0,2,0,0,0
+4560067,Longwood,,Totals,0,1,27,39,8,4,0,1,2,2,0,0
+4561399,George Mason,1756185,"Sturek, Frank",CF,1,2,2,0,0,0,0,0,0,0,0
+4561399,George Mason,1649984,"Acker, Brady",LF,1,4,4,0,0,0,0,0,0,0,0
+4561399,George Mason,1871564,"Driscoll, Logan",C,1,9,9,0,0,0,0,1,0,0,0
+4561399,George Mason,1649988,"Kelly, Trevor",1B,1,9,9,0,0,0,0,0,0,1,0
+4561399,George Mason,1649989,"Nelin, Tyler",RF,1,2,2,0,0,0,0,0,0,0,0
+4561399,George Mason,1756116,"Tassone, Ryan",DH,1,0,0,0,0,0,0,0,0,0,0
+4561399,George Mason,1756113,"Popatak, Greg",3B,1,0,2,2,0,0,0,0,0,0,0
+4561399,George Mason,1756109,"Aponte, Alejandro",2B,1,1,3,2,0,0,0,0,0,1,0
+4561399,George Mason,1649992,"Smith, Michael",SS,1,0,3,3,0,0,0,0,0,1,0
+4561399,George Mason,1982226,"Yuille, Michael",P,1,0,0,0,0,0,0,0,0,0,0
+4561399,George Mason,1982207,"Cabone, Austin",P,1,0,1,1,0,0,0,0,0,0,0
+4561399,George Mason,1543898,"Driscoll, Garett",P,1,0,0,0,0,0,0,1,0,0,0
+4561399,George Mason,1649991,"Ricci, Ryan",P,1,0,0,0,0,0,0,0,0,0,0
+4561399,George Mason,1982225,"Price, James",P,1,0,0,0,0,0,0,0,0,0,0
+4561399,George Mason,,Totals,0,1,27,35,8,0,0,0,1,0,1,0
+4561399,James Madison,1870455,"Semones, Fox",2B,1,1,3,2,0,0,0,0,0,0,0
+4561399,James Madison,1643276,"Sisk, Adam",RF,1,2,2,0,0,0,0,0,0,0,0
+4561399,James Madison,1997556,"Jones, Josh",SS,1,1,1,0,0,0,0,0,0,0,0
+4561399,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4561399,James Madison,1997572,"Morgan, Michael",1B,1,3,3,0,0,0,0,0,0,0,0
+4561399,James Madison,1870451,"Coale, Ryan",LF,1,1,1,0,0,0,0,0,0,0,0
+4561399,James Madison,1643272,"McKay, Bradley",3B,1,1,1,0,0,0,0,0,0,0,0
+4561399,James Madison,1997570,"Johnson, Hunter",PH,1,0,0,0,0,0,0,0,0,0,0
+4561399,James Madison,1870450,"Hayes, Kyle",C,1,14,14,0,0,0,1,0,0,0,0
+4561399,James Madison,1870413,"Griffin, Davonn",CF,1,3,3,0,0,0,0,0,0,0,0
+4561399,James Madison,1997557,"Jones, Grayson",P,1,0,0,0,0,0,0,0,0,0,0
+4561399,James Madison,1772212,"Bourne, Christian",P,1,0,0,0,0,0,0,0,0,0,0
+4561399,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4561399,James Madison,1643274,"McCoy, Tucker",P,1,1,1,0,0,0,0,0,0,0,0
+4561399,James Madison,1758478,"Perkins, Shelton",P,1,0,0,0,0,0,0,0,0,0,0
+4561399,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4561399,James Madison,1997574,"Richards, Garrett",P,1,0,2,2,0,0,0,0,0,0,0
+4561399,James Madison,,Totals,0,1,27,31,4,0,0,1,0,0,0,0
+4562762,James Madison,1870455,"Semones, Fox",2B,1,6,7,1,0,0,0,0,0,1,0
+4562762,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4562762,James Madison,1772214,"Dofflemyer, Tanner",SS,1,0,2,2,0,0,0,0,0,1,0
+4562762,James Madison,1870454,"Brown, Harry",PH,1,0,0,0,0,0,0,0,0,0,0
+4562762,James Madison,1870415,"Dipasupil, Matt",SS,1,0,1,1,0,0,0,0,0,0,0
+4562762,James Madison,1997556,"Jones, Josh",SS,1,0,1,1,0,0,0,0,0,0,0
+4562762,James Madison,1772230,"Tondi, Zach",C,1,4,5,1,0,0,0,0,1,0,0
+4562762,James Madison,1997572,"Morgan, Michael",1B,1,8,8,0,0,0,0,0,0,1,0
+4562762,James Madison,1870451,"Coale, Ryan",LF,1,1,1,0,0,0,0,0,0,0,0
+4562762,James Madison,1643272,"McKay, Bradley",3B,1,1,5,4,0,0,0,0,0,0,0
+4562762,James Madison,1997570,"Johnson, Hunter",DH,1,0,0,0,0,0,0,0,0,0,0
+4562762,James Madison,1870413,"Griffin, Davonn",CF,1,3,3,0,0,0,0,0,0,0,0
+4562762,James Madison,1643273,"Harlow, Colton",P,1,0,0,0,0,0,0,0,1,0,0
+4562762,James Madison,,Totals,0,1,24,34,10,0,0,0,0,1,1,0
+4562762,Delaware,1639487,"Mohollen, Kevin",CF,1,1,1,0,0,0,0,0,0,0,0
+4562762,Delaware,1973418,"Bowren, Erik",2B,1,2,5,3,0,0,0,0,0,1,0
+4562762,Delaware,1751507,"Baker, Kyle",RF,1,1,1,0,0,0,0,0,0,0,0
+4562762,Delaware,1751536,"Patten, Nick",1B,1,6,6,0,0,0,0,0,0,1,0
+4562762,Delaware,1527602,"Nardo, Diaz",3B,1,0,2,2,0,0,0,0,0,1,0
+4562762,Delaware,1639488,"Scott, Calvin",LF,1,0,0,0,0,0,0,0,0,0,0
+4562762,Delaware,1865124,"Hutchins, Jordan",SS,1,2,2,0,0,0,0,0,0,0,0
+4562762,Delaware,1973394,"Miller, Zach",C,1,15,15,0,0,0,0,1,0,0,0
+4562762,Delaware,1527603,"Niggebrugge, Austin",DH,1,0,0,0,0,0,0,0,0,0,0
+4562762,Delaware,1667020,"Vila, Colman",P,1,0,0,0,0,0,0,1,0,0,0
+4562762,Delaware,1751532,"Hinton, Kyle",P,1,0,0,0,0,0,0,0,0,0,0
+4562762,Delaware,,Totals,0,1,27,32,5,0,0,0,1,0,1,0
+4565453,James Madison,1870455,"Semones, Fox",3B,1,1,3,2,0,0,0,0,0,0,0
+4565453,James Madison,1643276,"Sisk, Adam",RF,1,2,2,0,0,0,0,0,0,0,0
+4565453,James Madison,1772230,"Tondi, Zach",C,1,12,13,1,0,0,0,3,1,0,0
+4565453,James Madison,1997572,"Morgan, Michael",1B,1,6,6,0,0,0,0,0,0,1,0
+4565453,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4565453,James Madison,1870454,"Brown, Harry",PH,1,0,0,0,0,0,0,0,0,0,0
+4565453,James Madison,1772214,"Dofflemyer, Tanner",SS,1,0,1,1,0,0,0,0,0,0,0
+4565453,James Madison,1643272,"McKay, Bradley",SS,1,0,1,1,0,0,0,0,0,1,0
+4565453,James Madison,1997570,"Johnson, Hunter",DH,1,0,0,0,0,0,0,0,0,0,0
+4565453,James Madison,1870413,"Griffin, Davonn",CF,1,2,2,0,0,0,0,0,0,0,0
+4565453,James Madison,1870415,"Dipasupil, Matt",2B,1,1,3,2,0,0,0,0,0,1,0
+4565453,James Madison,1758478,"Perkins, Shelton",P,1,0,1,1,0,0,0,1,0,0,0
+4565453,James Madison,1870465,"Colon, Matt",P,1,0,1,0,1,0,0,1,0,0,0
+4565453,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,0,0,0,0
+4565453,James Madison,1870460,"Kelly, Kevin",P,1,0,0,0,0,0,0,1,1,0,0
+4565453,James Madison,,Totals,0,1,24,33,8,1,0,0,3,1,1,0
+4565453,Delaware,1639487,"Mohollen, Kevin",CF,1,0,0,0,0,0,0,0,0,0,0
+4565453,Delaware,1973418,"Bowren, Erik",2B,1,3,4,1,0,0,0,0,0,0,0
+4565453,Delaware,1751507,"Baker, Kyle",RF,1,3,3,0,0,0,0,0,0,0,0
+4565453,Delaware,1751536,"Patten, Nick",1B,1,7,9,2,0,0,0,0,0,0,0
+4565453,Delaware,1527602,"Nardo, Diaz",3B,1,0,0,0,0,0,0,0,0,0,0
+4565453,Delaware,1639488,"Scott, Calvin",LF,1,1,1,0,0,0,0,0,0,0,0
+4565453,Delaware,1865124,"Hutchins, Jordan",SS,1,3,7,4,0,0,0,0,0,0,0
+4565453,Delaware,1973394,"Miller, Zach",C,1,8,10,2,0,0,0,2,1,0,0
+4565453,Delaware,1527603,"Niggebrugge, Austin",DH,1,0,0,0,0,0,0,0,0,0,0
+4565453,Delaware,1751535,"Meeker, James",P,1,0,2,2,0,0,0,0,0,0,0
+4565453,Delaware,1667020,"Vila, Colman",P,1,0,1,1,0,0,0,0,0,0,0
+4565453,Delaware,1973420,"Sullivan, Billy",P,1,2,3,1,0,0,0,2,1,0,0
+4565453,Delaware,,Totals,0,1,27,40,13,0,0,0,2,1,0,0
+4566090,James Madison,1870455,"Semones, Fox",2B,1,2,5,2,1,0,0,0,0,1,0
+4566090,James Madison,1643276,"Sisk, Adam",RF,1,4,4,0,0,0,0,0,0,0,0
+4566090,James Madison,1772230,"Tondi, Zach",C,1,12,12,0,0,0,0,2,0,0,0
+4566090,James Madison,1997556,"Jones, Josh",SS,1,0,2,2,0,0,0,0,0,1,0
+4566090,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4566090,James Madison,1772214,"Dofflemyer, Tanner",1B,1,0,0,0,0,0,0,0,0,0,0
+4566090,James Madison,1997572,"Morgan, Michael",1B,1,4,4,0,0,0,0,0,0,1,0
+4566090,James Madison,1870415,"Dipasupil, Matt",PR,1,0,0,0,0,0,0,0,0,0,0
+4566090,James Madison,1997570,"Johnson, Hunter",DH,1,0,0,0,0,0,0,0,0,0,0
+4566090,James Madison,1643272,"McKay, Bradley",3B,1,0,2,1,1,0,0,0,0,0,0
+4566090,James Madison,1870413,"Griffin, Davonn",CF,1,4,4,0,0,0,0,0,0,0,0
+4566090,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,1,0,0,0
+4566090,James Madison,1997560,"Stewart, Nick",P,1,1,1,0,0,0,0,1,0,0,0
+4566090,James Madison,,Totals,0,1,27,34,5,2,0,0,2,0,1,0
+4566090,Delaware,1639487,"Mohollen, Kevin",CF,1,2,2,0,0,0,0,0,0,0,0
+4566090,Delaware,1973418,"Bowren, Erik",2B,1,2,2,0,0,0,0,0,0,0,0
+4566090,Delaware,1751507,"Baker, Kyle",RF,1,2,3,0,1,0,0,0,0,0,0
+4566090,Delaware,1751536,"Patten, Nick",1B,1,10,12,2,0,0,0,0,0,0,0
+4566090,Delaware,1527602,"Nardo, Diaz",3B,1,0,1,1,0,0,0,0,0,0,0
+4566090,Delaware,1639488,"Scott, Calvin",LF,1,1,1,0,0,0,0,0,0,0,0
+4566090,Delaware,1865124,"Hutchins, Jordan",SS,1,1,3,2,0,0,0,0,0,0,0
+4566090,Delaware,1973398,"Werkheiser, Ben",PH,1,0,0,0,0,0,0,0,0,0,0
+4566090,Delaware,1973395,"Rykaczewski, Matt",C,1,4,4,0,0,0,0,0,0,0,0
+4566090,Delaware,1973394,"Miller, Zach",C,1,4,6,2,0,0,0,0,0,0,0
+4566090,Delaware,1865125,"Reich, Andrew",PH,1,0,0,0,0,0,0,0,0,0,0
+4566090,Delaware,1527603,"Niggebrugge, Austin",DH,1,0,0,0,0,0,0,0,0,0,0
+4566090,Delaware,1751510,"Benjamin, Cole",P,1,0,0,0,0,0,0,0,0,0,0
+4566090,Delaware,1751535,"Meeker, James",P,1,1,1,0,0,0,0,0,0,0,0
+4566090,Delaware,1865128,"Conaway, Clay",P,1,0,0,0,0,0,0,0,0,0,0
+4566090,Delaware,1973397,"Ludman, Chris",P,1,0,1,1,0,0,0,0,0,0,0
+4566090,Delaware,,Totals,0,1,27,36,8,1,0,0,0,0,0,0
+4569164,James Madison,1870455,"Semones, Fox",2B,1,3,3,0,0,0,0,0,0,0,0
+4569164,James Madison,1643276,"Sisk, Adam",RF,1,3,3,0,0,0,0,0,0,0,0
+4569164,James Madison,1772230,"Tondi, Zach",C,1,5,6,1,0,0,0,0,1,0,0
+4569164,James Madison,1997556,"Jones, Josh",SS,1,1,2,1,0,0,0,0,0,0,0
+4569164,James Madison,1997572,"Morgan, Michael",1B,1,5,5,0,0,0,0,0,0,0,0
+4569164,James Madison,1997570,"Johnson, Hunter",DH,1,0,0,0,0,0,0,0,0,0,0
+4569164,James Madison,1643272,"McKay, Bradley",3B,1,1,1,0,0,0,0,0,0,0,0
+4569164,James Madison,1870413,"Griffin, Davonn",CF,1,3,4,1,0,0,0,0,0,0,0
+4569164,James Madison,1870451,"Coale, Ryan",PHLF,1,0,0,0,0,0,0,0,0,0,0
+4569164,James Madison,1997573,"Piccolino II, Anthony",LF,1,3,3,0,0,0,0,0,0,0,0
+4569164,James Madison,1870460,"Kelly, Kevin",P,1,0,0,0,0,0,0,0,0,0,0
+4569164,James Madison,1772229,"Marsili, Matt",P,1,0,0,0,0,0,0,0,1,0,0
+4569164,James Madison,1870465,"Colon, Matt",P,1,0,1,1,0,0,0,0,0,0,0
+4569164,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,0,0,0,0
+4569164,James Madison,1870452,"Bechtold, Michael",P,1,0,2,2,0,0,0,0,0,0,0
+4569164,James Madison,,Totals,0,1,24,30,6,0,0,0,0,1,0,0
+4569164,Maryland,1754948,"Lee, AJ",SS,1,0,3,3,0,0,0,0,0,0,0
+4569164,Maryland,1754953,"Dunn, Nick",2B,1,1,4,3,0,0,0,0,0,1,0
+4569164,Maryland,1754954,"Costes, Marty",LF,1,1,1,0,0,0,0,0,0,0,0
+4569164,Maryland,1646249,"Biondic, Kevin",1B,1,12,12,0,0,0,0,0,0,1,0
+4569164,Maryland,1865523,"Watson, Will",DH,1,0,0,0,0,0,0,0,0,0,0
+4569164,Maryland,1646251,"Jancarski, Zach",CF,1,3,3,0,0,0,0,0,0,0,0
+4569164,Maryland,1982561,"Wright, Taylor",3B,1,2,8,6,0,0,0,0,0,1,0
+4569164,Maryland,1982401,"Bednar, Randy",RF,1,1,1,0,0,0,0,0,0,0,0
+4569164,Maryland,1982559,"Vought, Justin",C,1,7,7,0,0,0,1,0,0,0,0
+4569164,Maryland,1865522,"Vasturia, Mike",P,1,0,0,0,0,0,0,0,0,0,0
+4569164,Maryland,1982553,"Fisher, Sean",P,1,0,0,0,0,0,0,0,0,0,0
+4569164,Maryland,1865529,"Hill, Ryan",P,1,0,0,0,0,0,0,0,0,0,0
+4569164,Maryland,1754945,"Murphy, John",P,1,0,0,0,0,0,0,0,0,0,0
+4569164,Maryland,1982567,"Phillips, Billy",P,1,0,1,1,0,0,0,0,0,0,0
+4569164,Maryland,,Totals,0,1,27,40,13,0,0,1,0,0,1,0
+4576527,UNCW,1973822,"Braswell, Brycen",LF,1,0,0,0,0,0,0,0,0,0,0
+4576527,UNCW,1973821,"Liles, Noah",PHLF,1,0,0,0,0,0,0,0,0,0,0
+4576527,UNCW,1638655,"Canada, Zach",LF,1,0,0,0,0,0,0,0,0,0,0
+4576527,UNCW,1973839,"Angeli, Doug",2B,1,1,5,4,0,0,0,0,0,1,0
+4576527,UNCW,1863908,"Meadows, Jackson",2B,1,1,2,1,0,0,0,0,0,0,0
+4576527,UNCW,1761657,"Jeffers, Ryan",C,1,10,14,4,0,0,0,0,1,0,0
+4576527,UNCW,1863919,"Berne, Mason",1B,1,15,15,0,0,0,0,0,0,1,0
+4576527,UNCW,1973840,"Jones, Greg",SS,1,1,2,1,0,0,0,0,0,1,0
+4576527,UNCW,1973846,"Brown, Kep",RF,1,0,0,0,0,0,0,0,0,0,0
+4576527,UNCW,1863909,"Weiss, Cole",3B,1,0,2,1,1,0,0,0,0,0,0
+4576527,UNCW,1973852,"Sheaffer, David",DH,1,0,0,0,0,0,0,0,0,0,0
+4576527,UNCW,1896907,"Gesell, Levi",PHCF,1,0,0,0,0,0,0,0,0,0,0
+4576527,UNCW,1973866,"Bridges, Noah",CF,1,2,2,0,0,0,0,0,0,0,0
+4576527,UNCW,1638651,"Easter, Austin",P,1,0,0,0,0,0,0,0,0,0,0
+4576527,UNCW,1863911,"Warren, Austin",P,1,0,0,0,0,0,0,0,0,0,0
+4576527,UNCW,1761650,"Cota, Clark",P,1,0,0,0,0,0,0,0,0,0,0
+4576527,UNCW,1761651,"Royalty, Alex",P,1,0,3,3,0,0,0,0,1,0,0
+4576527,UNCW,,Totals,0,1,30,45,14,1,0,0,0,1,1,0
+4576527,James Madison,1870455,"Semones, Fox",2B,1,2,2,0,0,0,0,0,0,0,0
+4576527,James Madison,1643276,"Sisk, Adam",RF,1,0,0,0,0,0,0,0,0,0,0
+4576527,James Madison,1997556,"Jones, Josh",SS,1,0,1,1,0,0,0,0,0,0,0
+4576527,James Madison,1772230,"Tondi, Zach",C,1,13,16,2,1,0,0,2,0,0,0
+4576527,James Madison,1997572,"Morgan, Michael",1B,1,9,9,0,0,0,0,0,0,0,0
+4576527,James Madison,1997570,"Johnson, Hunter",DH,1,0,0,0,0,0,0,0,0,0,0
+4576527,James Madison,1870454,"Brown, Harry",PH,1,0,0,0,0,0,0,0,0,0,0
+4576527,James Madison,1870415,"Dipasupil, Matt",PR,1,0,0,0,0,0,0,0,0,0,0
+4576527,James Madison,1643272,"McKay, Bradley",3B,1,0,2,1,1,0,0,0,0,0,0
+4576527,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4576527,James Madison,1997573,"Piccolino II, Anthony",LF,1,1,1,0,0,0,0,0,0,0,0
+4576527,James Madison,1870413,"Griffin, Davonn",CF,1,4,4,0,0,0,0,0,0,0,0
+4576527,James Madison,1758478,"Perkins, Shelton",P,1,0,0,0,0,0,0,1,0,0,0
+4576527,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,0,0,0,0
+4576527,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4576527,James Madison,1643273,"Harlow, Colton",P,1,1,5,4,0,0,0,1,0,0,0
+4576527,James Madison,,Totals,0,1,30,40,8,2,0,0,2,0,0,0
+4577520,UNCW,1638655,"Canada, Zach",2B,1,3,9,5,1,0,0,0,0,0,0
+4577520,UNCW,1761657,"Jeffers, Ryan",C,1,10,12,2,0,0,0,0,1,0,0
+4577520,UNCW,1863919,"Berne, Mason",1B,1,7,7,0,0,0,0,0,0,0,0
+4577520,UNCW,1973840,"Jones, Greg",SS,1,1,4,1,2,0,0,0,0,0,0
+4577520,UNCW,1973846,"Brown, Kep",RF,1,2,2,0,0,0,0,0,0,0,0
+4577520,UNCW,1863909,"Weiss, Cole",3B,1,1,3,2,0,0,0,0,0,0,0
+4577520,UNCW,1973852,"Sheaffer, David",DH,1,0,0,0,0,0,0,0,0,0,0
+4577520,UNCW,1973821,"Liles, Noah",LF,1,2,2,0,0,0,0,0,0,0,0
+4577520,UNCW,1973866,"Bridges, Noah",CF,1,1,1,0,0,0,0,0,0,0,0
+4577520,UNCW,1863910,"Gesell, Luke",P,1,0,0,0,0,0,0,0,0,0,0
+4577520,UNCW,1863915,"Joyner, Chris",P,1,0,0,0,0,0,0,0,0,0,0
+4577520,UNCW,1761659,"Deatherage, Blake",P,1,0,0,0,0,0,0,0,0,0,0
+4577520,UNCW,1973869,"Walke, Justin",P,1,0,0,0,0,0,0,0,0,0,0
+4577520,UNCW,1863913,"Beehler, Logan",P,1,0,0,0,0,0,0,0,0,0,0
+4577520,UNCW,1973848,"Morgan, Blake",P,1,0,0,0,0,0,0,0,1,0,0
+4577520,UNCW,,Totals,0,1,27,40,10,3,0,0,0,1,0,0
+4577520,James Madison,1870455,"Semones, Fox",2B,1,0,1,1,0,0,0,0,0,0,0
+4577520,James Madison,1643276,"Sisk, Adam",RF,1,3,4,0,1,0,0,0,0,0,0
+4577520,James Madison,1997556,"Jones, Josh",SS,1,0,3,3,0,0,0,0,0,0,0
+4577520,James Madison,1772230,"Tondi, Zach",C,1,11,11,0,0,0,0,0,0,1,0
+4577520,James Madison,1997572,"Morgan, Michael",1B,1,8,8,0,0,0,0,0,0,0,0
+4577520,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4577520,James Madison,1643272,"McKay, Bradley",3B,1,2,4,2,0,0,0,0,0,0,0
+4577520,James Madison,1870415,"Dipasupil, Matt",PR,1,0,0,0,0,0,0,0,0,0,0
+4577520,James Madison,1997570,"Johnson, Hunter",DH,1,0,0,0,0,0,0,0,0,0,0
+4577520,James Madison,1870413,"Griffin, Davonn",CF,1,3,3,0,0,0,0,0,0,0,0
+4577520,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,0,0,0,0
+4577520,James Madison,1772229,"Marsili, Matt",P,1,0,1,1,0,0,0,0,0,0,0
+4577520,James Madison,1643274,"McCoy, Tucker",P,1,0,0,0,0,0,0,0,0,0,0
+4577520,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4577520,James Madison,1870460,"Kelly, Kevin",P,1,0,0,0,0,0,0,0,0,0,0
+4577520,James Madison,,Totals,0,1,27,35,7,1,0,0,0,0,1,0
+4582939,UNCW,1638655,"Canada, Zach",2B,1,0,3,3,0,0,0,0,0,0,0
+4582939,UNCW,1761657,"Jeffers, Ryan",C,1,14,15,1,0,0,0,0,0,1,0
+4582939,UNCW,1863919,"Berne, Mason",1B,1,11,12,1,0,0,0,0,0,1,0
+4582939,UNCW,1973840,"Jones, Greg",SS,1,0,1,1,0,0,0,0,0,0,0
+4582939,UNCW,1973846,"Brown, Kep",RF,1,0,0,0,0,0,0,0,0,0,0
+4582939,UNCW,1863909,"Weiss, Cole",3B,1,1,3,2,0,0,0,0,0,0,0
+4582939,UNCW,1973852,"Sheaffer, David",DH,1,0,0,0,0,0,0,0,0,0,0
+4582939,UNCW,1973821,"Liles, Noah",LF,1,1,1,0,0,0,0,0,0,0,0
+4582939,UNCW,1973866,"Bridges, Noah",CF,1,0,0,0,0,0,0,0,0,0,0
+4582939,UNCW,1973867,"Ryan, Henry",P,1,0,0,0,0,0,0,0,0,0,0
+4582939,UNCW,1863915,"Joyner, Chris",P,1,0,1,1,0,0,0,0,0,0,0
+4582939,UNCW,1863911,"Warren, Austin",P,1,0,0,0,0,0,0,0,0,0,0
+4582939,UNCW,1761650,"Cota, Clark",P,1,0,0,0,0,0,0,0,0,0,0
+4582939,UNCW,1973850,"Herring, Gage",P,1,0,2,2,0,0,0,0,0,0,0
+4582939,UNCW,,Totals,0,1,27,38,11,0,0,0,0,0,1,0
+4582939,James Madison,1870455,"Semones, Fox",2B,1,3,6,2,1,0,0,0,0,0,0
+4582939,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4582939,James Madison,1997556,"Jones, Josh",SS,1,2,3,1,0,0,0,0,0,0,0
+4582939,James Madison,1772214,"Dofflemyer, Tanner",PR1B,1,1,1,0,0,0,0,0,0,0,0
+4582939,James Madison,1772230,"Tondi, Zach",C,1,11,14,3,0,0,1,2,3,0,0
+4582939,James Madison,1997572,"Morgan, Michael",1BC,1,6,6,0,0,0,0,0,0,0,0
+4582939,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4582939,James Madison,1643272,"McKay, Bradley",3B,1,1,4,3,0,0,0,0,0,0,0
+4582939,James Madison,1870415,"Dipasupil, Matt",PHDH,1,0,0,0,0,0,0,0,0,0,0
+4582939,James Madison,1997570,"Johnson, Hunter",DH,1,0,0,0,0,0,0,0,0,0,0
+4582939,James Madison,1870413,"Griffin, Davonn",CF,1,2,2,0,0,0,0,0,0,0,0
+4582939,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,0,1,0,0
+4582939,James Madison,1758478,"Perkins, Shelton",P,1,0,0,0,0,0,0,0,0,0,0
+4582939,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,0,0,0,0
+4582939,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4582939,James Madison,1643274,"McCoy, Tucker",P,1,0,0,0,0,0,0,0,0,0,0
+4582939,James Madison,1997560,"Stewart, Nick",P,1,0,1,1,0,0,0,2,2,0,0
+4582939,James Madison,,Totals,0,1,27,38,10,1,0,1,2,3,0,0
+4579394,James Madison,1997572,"Morgan, Michael",1B,1,12,12,0,0,0,0,0,0,0,0
+4579394,James Madison,1870455,"Semones, Fox",2B,1,1,5,4,0,0,0,0,0,0,0
+4579394,James Madison,1997556,"Jones, Josh",SS,1,0,2,2,0,0,0,0,0,0,0
+4579394,James Madison,1643276,"Sisk, Adam",RF,1,0,0,0,0,0,0,0,0,0,0
+4579394,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4579394,James Madison,1643272,"McKay, Bradley",3B,1,1,2,1,0,0,0,0,0,0,0
+4579394,James Madison,1997570,"Johnson, Hunter",DH,1,0,0,0,0,0,0,0,0,0,0
+4579394,James Madison,1870450,"Hayes, Kyle",C,1,5,5,0,0,0,0,0,0,0,0
+4579394,James Madison,1870413,"Griffin, Davonn",CF,1,5,5,0,0,0,0,0,0,0,0
+4579394,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4579394,James Madison,1772229,"Marsili, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4579394,James Madison,1997557,"Jones, Grayson",P,1,0,0,0,0,0,0,0,0,0,0
+4579394,James Madison,1870452,"Bechtold, Michael",P,1,0,0,0,0,0,0,0,0,0,0
+4579394,James Madison,,Totals,0,1,24,31,7,0,0,0,0,0,0,0
+4579394,NC State,1660587,"Pitarra, Stephen",3B,1,1,3,2,0,0,0,0,0,0,0
+4579394,NC State,1660584,"McLain, Josh",CF,1,3,3,0,0,0,0,0,0,0,0
+4579394,NC State,1887211,"Wilson, Will",SS,1,1,4,3,0,0,0,0,0,0,0
+4579394,NC State,1997131,"Bailey, Patrick",C,1,7,8,1,0,0,0,0,0,0,0
+4579394,NC State,1772038,"Kinneman, Brett",LF,1,2,2,0,0,0,0,0,0,0,0
+4579394,NC State,1660578,"Deatherage, Brock",RF,1,3,3,0,0,0,0,0,0,0,0
+4579394,NC State,1997169,"Edwards, Evan",1B,1,6,8,0,2,0,0,0,0,1,0
+4579394,NC State,1997156,"Tatum, Terrell",DH,1,0,0,0,0,0,0,0,0,0,0
+4579394,NC State,1997175,"Jarrett, J.T.",2B,1,4,7,3,0,0,0,0,0,1,0
+4579394,NC State,1997174,"Clenney, Nolan",P,1,0,0,0,0,0,0,0,0,0,0
+4579394,NC State,1887220,"Klyman, Kent",P,1,0,0,0,0,0,0,0,0,0,0
+4579394,NC State,1541742,"O'Donnell, Joe",P,1,0,0,0,0,0,0,0,0,0,0
+4579394,NC State,1997173,"Justice, Evan",P,1,0,0,0,0,0,0,0,0,0,0
+4579394,NC State,,Totals,0,1,27,38,9,2,0,0,0,0,1,0
+4579836,James Madison,1997570,"Johnson, Hunter",PR,1,0,0,0,0,0,0,0,0,0,0
+4579836,James Madison,1997572,"Morgan, Michael",1B,1,7,7,0,0,0,0,0,0,1,0
+4579836,James Madison,1870455,"Semones, Fox",3B,1,2,4,2,0,0,0,0,0,0,0
+4579836,James Madison,1772214,"Dofflemyer, Tanner",SS,1,2,5,3,0,0,0,0,0,1,0
+4579836,James Madison,1997556,"Jones, Josh",SS,1,0,1,0,1,0,0,0,0,0,0
+4579836,James Madison,1643276,"Sisk, Adam",RF,1,3,4,0,1,0,0,0,0,0,0
+4579836,James Madison,1997573,"Piccolino II, Anthony",LF,1,2,2,0,0,0,0,0,0,0,0
+4579836,James Madison,1870451,"Coale, Ryan",LF,1,1,1,0,0,0,0,0,0,0,0
+4579836,James Madison,1870454,"Brown, Harry",PH,1,0,0,0,0,0,0,0,0,0,0
+4579836,James Madison,1772230,"Tondi, Zach",DH,1,0,0,0,0,0,0,0,0,0,0
+4579836,James Madison,1870450,"Hayes, Kyle",C,1,5,5,0,0,0,0,1,0,0,0
+4579836,James Madison,1870415,"Dipasupil, Matt",2B,1,1,1,0,0,0,0,0,0,0,0
+4579836,James Madison,1870413,"Griffin, Davonn",CF,1,1,1,0,0,0,0,0,0,0,0
+4579836,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,0,0,0,0
+4579836,James Madison,1772212,"Bourne, Christian",P,1,0,0,0,0,0,0,1,0,0,0
+4579836,James Madison,1997559,"Showalter, Justin",P,1,0,0,0,0,0,0,0,0,0,0
+4579836,James Madison,1997574,"Richards, Garrett",P,1,0,0,0,0,0,0,0,0,0,0
+4579836,James Madison,,Totals,0,1,24,31,5,2,0,0,1,0,1,0
+4579836,NC State,1997158,"Vazquez, David",2BSS,1,1,4,3,0,0,0,0,0,1,0
+4579836,NC State,1660587,"Pitarra, Stephen",3B,1,0,2,2,0,0,0,0,0,0,0
+4579836,NC State,1887212,"McArthur, Lawson",PHCF,1,0,0,0,0,0,0,0,0,0,0
+4579836,NC State,1660584,"McLain, Josh",CF,1,1,1,0,0,0,0,0,0,0,0
+4579836,NC State,1997160,"Brown, Devonte",3B,1,1,1,0,0,0,0,0,0,0,0
+4579836,NC State,1887211,"Wilson, Will",SS,1,0,0,0,0,0,0,0,0,0,0
+4579836,NC State,1887213,"Debo, Brad",PHDH,1,0,0,0,0,0,0,0,0,0,0
+4579836,NC State,1997131,"Bailey, Patrick",DH,1,0,0,0,0,0,0,0,0,0,0
+4579836,NC State,1997156,"Tatum, Terrell",PHLF,1,1,1,0,0,0,0,0,0,0,0
+4579836,NC State,1772038,"Kinneman, Brett",LF,1,4,4,0,0,0,0,0,0,0,0
+4579836,NC State,1660578,"Deatherage, Brock",RF,1,1,1,0,0,0,0,0,0,0,0
+4579836,NC State,1772035,"Conley, Jack",C,1,6,7,1,0,0,0,0,0,0,0
+4579836,NC State,1772036,"Cooper, Dillon",PR3B,1,0,3,2,1,0,0,0,0,1,0
+4579836,NC State,1997169,"Edwards, Evan",1B,1,7,7,0,0,0,0,0,0,0,0
+4579836,NC State,1660588,"Shepard, Shane",PH1B,1,5,5,0,0,0,0,0,0,1,0
+4579836,NC State,1997175,"Jarrett, J.T.",2B,1,0,2,2,0,0,0,0,0,0,0
+4579836,NC State,1887218,"Gauthier, Mathieu",P,1,0,0,0,0,0,0,0,0,0,0
+4579836,NC State,1660589,"Staley, Austin",P,1,0,0,0,0,0,0,0,0,0,0
+4579836,NC State,1997134,"Swiney, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4579836,NC State,1887216,"Bienlien, Michael",P,1,0,0,0,0,0,0,0,0,0,0
+4579836,NC State,1997168,"Harrison, David",P,1,0,0,0,0,0,0,0,0,0,0
+4579836,NC State,,Totals,0,1,27,38,10,1,0,0,0,0,1,0
+4580702,James Madison,1997572,"Morgan, Michael",1B,1,3,3,0,0,0,0,0,0,1,0
+4580702,James Madison,1870455,"Semones, Fox",3B2B,1,0,0,0,0,0,0,0,0,0,0
+4580702,James Madison,1643276,"Sisk, Adam",RF,1,1,1,0,0,0,0,0,0,0,0
+4580702,James Madison,1772230,"Tondi, Zach",C,1,15,16,1,0,0,0,0,1,0,0
+4580702,James Madison,1772214,"Dofflemyer, Tanner",SS,1,2,3,1,0,0,0,0,0,1,0
+4580702,James Madison,1997556,"Jones, Josh",SS,1,1,1,0,0,0,0,0,0,0,0
+4580702,James Madison,1870451,"Coale, Ryan",LF,1,1,1,0,0,0,0,0,0,0,0
+4580702,James Madison,1643272,"McKay, Bradley",PH3B,1,0,0,0,0,0,0,0,0,0,0
+4580702,James Madison,1870415,"Dipasupil, Matt",2B,1,1,2,1,0,0,0,0,0,0,0
+4580702,James Madison,1870454,"Brown, Harry",PHDH,1,0,0,0,0,0,0,0,0,0,0
+4580702,James Madison,1997570,"Johnson, Hunter",DH,1,0,0,0,0,0,0,0,0,0,0
+4580702,James Madison,1870413,"Griffin, Davonn",CF,1,3,3,0,0,0,0,0,0,0,0
+4580702,James Madison,1758478,"Perkins, Shelton",P,1,0,0,0,0,0,0,0,0,0,0
+4580702,James Madison,1870460,"Kelly, Kevin",P,1,0,0,0,0,0,0,0,1,0,0
+4580702,James Madison,,Totals,0,1,27,30,3,0,0,0,0,1,1,0
+4580702,Hofstra,1652261,"Foster, Steven",CF,1,2,2,0,0,0,0,0,0,0,0
+4580702,Hofstra,1879309,"Costello, Vinnie",LF,1,5,5,0,0,0,0,0,0,0,0
+4580702,Hofstra,1879310,"Riesner, Mikey",2B,1,3,3,0,0,0,0,0,0,1,0
+4580702,Hofstra,1750016,"Friscia, Vito",C,1,6,6,0,0,0,0,0,0,0,0
+4580702,Hofstra,1750012,"Cillis, Teddy",RF,1,1,1,0,0,0,0,0,0,0,0
+4580702,Hofstra,1879315,"Weissheier, Rob",1B,1,7,7,0,0,0,0,0,0,0,0
+4580702,Hofstra,1750013,"Quinn, Parker",DH,1,0,0,0,0,0,0,0,0,0,0
+4580702,Hofstra,1879303,"Smith, Justin",PH,1,0,0,0,0,0,0,0,0,0,0
+4580702,Hofstra,1981050,"Jeffreys, Devon",PR3B,1,1,2,1,0,0,0,0,0,0,0
+4580702,Hofstra,1981051,"Page, Daniel",3B,1,2,6,4,0,0,0,0,0,1,0
+4580702,Hofstra,1981049,"Gauthier, Austin",SS,1,0,1,1,0,0,0,0,0,0,0
+4580702,Hofstra,1879306,"James, Michael",P,1,0,1,1,0,0,0,0,0,0,0
+4580702,Hofstra,1750014,"Mundy, Andrew",P,1,0,0,0,0,0,0,0,0,0,0
+4580702,Hofstra,1531803,"Weissheier, Matt",P,1,0,1,1,0,0,0,0,0,0,0
+4580702,Hofstra,,Totals,0,1,27,35,8,0,0,0,0,0,1,0
+4580598,James Madison,1997572,"Morgan, Michael",1B,1,9,9,0,0,0,0,0,0,1,0
+4580598,James Madison,1870455,"Semones, Fox",2B,1,2,5,3,0,0,0,0,0,1,0
+4580598,James Madison,1643276,"Sisk, Adam",RF,1,3,3,0,0,0,0,0,0,0,0
+4580598,James Madison,1997556,"Jones, Josh",SS,1,0,3,3,0,0,0,0,0,1,0
+4580598,James Madison,1772230,"Tondi, Zach",DH,1,0,0,0,0,0,0,0,0,0,0
+4580598,James Madison,1643272,"McKay, Bradley",3B,1,1,1,0,0,0,0,0,0,0,0
+4580598,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4580598,James Madison,1870450,"Hayes, Kyle",C,1,7,9,2,0,0,0,1,0,0,0
+4580598,James Madison,1870413,"Griffin, Davonn",CF,1,2,2,0,0,0,0,0,0,0,0
+4580598,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,0,0,0,0
+4580598,James Madison,1643273,"Harlow, Colton",P,1,0,2,2,0,0,0,1,0,0,0
+4580598,James Madison,,Totals,0,1,24,34,10,0,0,0,1,0,1,0
+4580598,Hofstra,1652261,"Foster, Steven",CF,1,0,0,0,0,0,0,0,0,0,0
+4580598,Hofstra,1981049,"Gauthier, Austin",SS,1,1,4,3,0,0,0,0,0,0,0
+4580598,Hofstra,1879310,"Riesner, Mikey",2B,1,4,6,2,0,0,0,0,0,0,0
+4580598,Hofstra,1750016,"Friscia, Vito",DH,1,0,0,0,0,0,0,0,0,0,0
+4580598,Hofstra,1750012,"Cillis, Teddy",RF,1,1,1,0,0,0,0,0,0,0,0
+4580598,Hofstra,1879315,"Weissheier, Rob",1B,1,9,9,0,0,0,0,0,0,0,0
+4580598,Hofstra,1981073,"Siedem, Matt",C,1,9,10,1,0,0,0,1,0,0,0
+4580598,Hofstra,1981051,"Page, Daniel",3B,1,0,3,3,0,0,0,0,0,0,0
+4580598,Hofstra,1879304,"White, Tyler",LF,1,2,2,0,0,0,0,0,0,0,0
+4580598,Hofstra,1652260,"Weiss, Chris",P,1,0,0,0,0,0,0,0,0,0,0
+4580598,Hofstra,1750021,"Rooney, John",P,1,1,4,3,0,0,0,1,0,0,0
+4580598,Hofstra,,Totals,0,1,27,39,12,0,0,0,1,0,0,0
+4581378,James Madison,1997572,"Morgan, Michael",1B,1,7,8,1,0,0,0,0,0,1,0
+4581378,James Madison,1643276,"Sisk, Adam",RF,1,0,0,0,0,0,0,0,0,0,0
+4581378,James Madison,1997556,"Jones, Josh",SS,1,2,4,2,0,0,0,0,0,1,0
+4581378,James Madison,1870450,"Hayes, Kyle",C,1,2,2,0,0,0,0,0,0,0,0
+4581378,James Madison,1772230,"Tondi, Zach",C,1,9,9,0,0,0,1,0,0,0,0
+4581378,James Madison,1997573,"Piccolino II, Anthony",LF,1,1,1,0,0,0,0,0,0,0,0
+4581378,James Madison,1870451,"Coale, Ryan",LF,1,0,0,0,0,0,0,0,0,0,0
+4581378,James Madison,1643272,"McKay, Bradley",3B,1,0,3,3,0,0,0,0,0,0,0
+4581378,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4581378,James Madison,1870413,"Griffin, Davonn",CF,1,1,1,0,0,0,0,0,0,0,0
+4581378,James Madison,1870415,"Dipasupil, Matt",2B,1,4,7,2,1,0,0,0,0,1,0
+4581378,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4581378,James Madison,1772229,"Marsili, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4581378,James Madison,1643274,"McCoy, Tucker",P,1,0,0,0,0,0,0,0,0,0,0
+4581378,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,0,0,0,0
+4581378,James Madison,1870459,"Robertson, Nick",P,1,1,1,0,0,0,0,0,0,0,0
+4581378,James Madison,1997560,"Stewart, Nick",P,1,0,2,2,0,0,0,0,0,0,0
+4581378,James Madison,,Totals,0,1,27,38,10,1,0,1,0,0,1,0
+4581378,Hofstra,1652261,"Foster, Steven",CF,1,0,0,0,0,0,0,0,0,0,0
+4581378,Hofstra,1750009,"O'Conner, Kevin",PH,1,0,0,0,0,0,0,0,0,0,0
+4581378,Hofstra,1879309,"Costello, Vinnie",LF,1,3,3,0,0,0,0,0,0,0,0
+4581378,Hofstra,1879310,"Riesner, Mikey",2B,1,2,3,1,0,0,0,0,0,0,0
+4581378,Hofstra,1750016,"Friscia, Vito",C,1,15,15,0,0,0,0,1,0,0,0
+4581378,Hofstra,1750013,"Quinn, Parker",DH,1,0,0,0,0,0,0,0,0,0,0
+4581378,Hofstra,1879315,"Weissheier, Rob",1B,1,4,5,1,0,0,0,0,0,0,0
+4581378,Hofstra,1981049,"Gauthier, Austin",SS,1,0,1,1,0,0,0,0,0,0,0
+4581378,Hofstra,1879303,"Smith, Justin",PH,1,0,0,0,0,0,0,0,0,0,0
+4581378,Hofstra,1981050,"Jeffreys, Devon",3B,1,1,1,0,0,0,0,0,0,0,0
+4581378,Hofstra,1981051,"Page, Daniel",3B,1,0,2,1,1,0,0,0,0,0,0
+4581378,Hofstra,1879304,"White, Tyler",RF,1,1,1,0,0,0,0,0,0,0,0
+4581378,Hofstra,1750012,"Cillis, Teddy",PDH,1,0,2,2,0,0,0,0,0,0,0
+4581378,Hofstra,1652260,"Weiss, Chris",P,1,1,1,0,0,0,0,0,0,0,0
+4581378,Hofstra,1981070,"Joyce, Jimmy",P,1,0,0,0,0,0,0,1,0,0,0
+4581378,Hofstra,,Totals,0,1,27,34,6,1,0,0,1,0,0,0
+4583477,James Madison,1997572,"Morgan, Michael",1B,1,4,4,0,0,0,0,0,0,0,0
+4583477,James Madison,1772214,"Dofflemyer, Tanner",PH3B,1,1,1,0,0,0,0,0,0,0,0
+4583477,James Madison,1870455,"Semones, Fox",2B3B,1,0,1,1,0,0,0,0,0,0,0
+4583477,James Madison,1643276,"Sisk, Adam",RF,1,4,4,0,0,0,0,0,0,0,0
+4583477,James Madison,1870450,"Hayes, Kyle",C,1,3,3,0,0,0,0,0,0,0,0
+4583477,James Madison,1772230,"Tondi, Zach",C,1,10,10,0,0,0,1,1,0,0,0
+4583477,James Madison,1997556,"Jones, Josh",SS,1,0,2,1,1,0,0,0,0,0,0
+4583477,James Madison,1870451,"Coale, Ryan",LF,1,1,1,0,0,0,0,0,0,0,0
+4583477,James Madison,1870415,"Dipasupil, Matt",PR2B,1,0,0,0,0,0,0,0,0,0,0
+4583477,James Madison,1643272,"McKay, Bradley",3B,1,0,1,1,0,0,0,0,0,0,0
+4583477,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4583477,James Madison,1870413,"Griffin, Davonn",CF,1,4,4,0,0,0,0,0,0,0,0
+4583477,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4583477,James Madison,1643274,"McCoy, Tucker",P,1,0,0,0,0,0,0,0,0,0,0
+4583477,James Madison,1643273,"Harlow, Colton",P,1,0,0,0,0,0,0,1,0,0,0
+4583477,James Madison,,Totals,0,1,27,31,3,1,0,1,1,0,0,0
+4583477,Towson,1772931,"Alleyne, Craig",CF,1,2,2,0,0,0,0,0,0,0,0
+4583477,Towson,1658725,"Grunberg, Mark",CF,1,0,0,0,0,0,0,0,0,0,0
+4583477,Towson,1767558,"Palacios, Richie",SS,1,3,5,2,0,0,0,0,0,0,0
+4583477,Towson,1868764,"Cabrera, Noah",3B,1,0,2,2,0,0,0,0,0,0,0
+4583477,Towson,1868757,"Lennox, Billy",LF,1,0,0,0,0,0,0,0,0,0,0
+4583477,Towson,1531159,"Gimblet, Colin",RF,1,0,0,0,0,0,0,0,0,0,0
+4583477,Towson,1868755,"Masters, Dirk",2B,1,2,3,1,0,0,0,0,0,0,0
+4583477,Towson,1868756,"Cassard, Andrew",LF,1,0,0,0,0,0,0,0,0,0,0
+4583477,Towson,1767566,"Miller, Richard",3B,1,0,2,0,2,0,0,0,0,0,0
+4583477,Towson,1979608,"Bossi, Drew",C,1,1,1,0,0,0,0,0,0,0,0
+4583477,Towson,1658735,"Howerton, Tristan",C,1,7,9,2,0,0,1,0,1,0,0
+4583477,Towson,1868760,"Burke, Logan",DH,1,0,0,0,0,0,0,0,0,0,0
+4583477,Towson,1637579,"Watters, Charlie",1B,1,11,13,2,0,0,0,0,0,0,0
+4583477,Towson,1979597,"Weyman, Gavin",P,1,0,3,3,0,0,0,0,1,0,0
+4583477,Towson,1979610,"Enea, Joe",P,1,0,0,0,0,0,0,0,0,0,0
+4583477,Towson,1658731,"Marriggi, David",P,1,1,2,1,0,0,0,0,1,0,0
+4583477,Towson,,Totals,0,1,27,42,13,2,0,1,0,2,0,0
+4583938,James Madison,1997572,"Morgan, Michael",1B,1,6,7,1,0,0,0,0,0,0,0
+4583938,James Madison,1870455,"Semones, Fox",2B,1,1,2,1,0,0,0,0,0,0,0
+4583938,James Madison,1643276,"Sisk, Adam",RF,1,2,2,0,0,0,0,0,0,0,0
+4583938,James Madison,1870450,"Hayes, Kyle",C,1,2,2,0,0,0,0,0,0,0,0
+4583938,James Madison,1772230,"Tondi, Zach",C,1,5,6,1,0,0,0,0,0,0,0
+4583938,James Madison,1997556,"Jones, Josh",SS,1,1,3,2,0,0,0,0,0,0,0
+4583938,James Madison,1870451,"Coale, Ryan",LF,1,1,1,0,0,0,0,0,0,0,0
+4583938,James Madison,1643272,"McKay, Bradley",3B,1,1,2,1,0,0,0,0,0,0,0
+4583938,James Madison,1870454,"Brown, Harry",DH,1,0,0,0,0,0,0,0,0,0,0
+4583938,James Madison,1870413,"Griffin, Davonn",CF,1,1,1,0,0,0,0,0,0,0,0
+4583938,James Madison,1997567,"Ayer, Brett",P,1,0,0,0,0,0,0,0,0,0,0
+4583938,James Madison,1870460,"Kelly, Kevin",P,1,1,2,1,0,0,0,0,0,0,0
+4583938,James Madison,,Totals,0,1,21,28,7,0,0,0,0,0,0,0
+4583938,Towson,1767566,"Miller, Richard",3B,1,0,0,0,0,0,0,0,0,0,0
+4583938,Towson,1868755,"Masters, Dirk",2B,1,0,4,4,0,0,0,0,0,0,0
+4583938,Towson,1767558,"Palacios, Richie",SS,1,3,4,1,0,0,0,0,0,1,0
+4583938,Towson,1868756,"Cassard, Andrew",PRLF,1,0,0,0,0,0,0,0,0,0,0
+4583938,Towson,1868757,"Lennox, Billy",LF,1,0,0,0,0,0,0,0,0,0,0
+4583938,Towson,1772931,"Alleyne, Craig",RF,1,1,1,0,0,0,0,0,0,0,0
+4583938,Towson,1531159,"Gimblet, Colin",RF,1,0,1,0,1,0,0,0,0,0,0
+4583938,Towson,1868764,"Cabrera, Noah",3B2B,1,0,2,2,0,0,0,0,0,1,0
+4583938,Towson,1868760,"Burke, Logan",DH,1,0,0,0,0,0,0,0,0,0,0
+4583938,Towson,1637579,"Watters, Charlie",1B,1,8,8,0,0,0,0,0,0,1,0
+4583938,Towson,1979611,"Brush, Aaron",C,1,2,3,0,1,0,0,2,0,0,0
+4583938,Towson,1658735,"Howerton, Tristan",C,1,6,6,0,0,0,1,8,0,0,0
+4583938,Towson,1658725,"Grunberg, Mark",CF,1,1,1,0,0,0,0,0,0,0,0
+4583938,Towson,1658732,"Anderson, Mason",P,1,0,0,0,0,0,0,4,0,0,0
+4583938,Towson,1979600,"Pecilunas, Jake",P,1,0,0,0,0,0,0,2,0,0,0
+4583938,Towson,1767565,"Cuas, Alex",P,1,0,1,1,0,0,0,4,0,0,0
+4583938,Towson,,Totals,0,1,21,31,8,2,0,1,10,0,1,0
+4583854,James Madison,1870450,"Hayes, Kyle",C,1,5,7,2,0,0,1,0,0,0,0
+4583854,James Madison,1997572,"Morgan, Michael",C,1,7,7,0,0,0,0,1,0,0,0
+4583854,James Madison,1870455,"Semones, Fox",2B3B,1,0,4,4,0,0,0,0,0,0,0
+4583854,James Madison,1643276,"Sisk, Adam",RF,1,0,0,0,0,0,0,0,0,0,0
+4583854,James Madison,1643273,"Harlow, Colton",PR,1,0,0,0,0,0,0,0,0,0,0
+4583854,James Madison,1997570,"Johnson, Hunter",PH,1,0,0,0,0,0,0,0,0,0,0
+4583854,James Madison,1772230,"Tondi, Zach",DH,1,0,0,0,0,0,0,0,0,0,0
+4583854,James Madison,1997556,"Jones, Josh",SS,1,1,3,1,1,0,0,0,0,1,0
+4583854,James Madison,1870451,"Coale, Ryan",LF,1,1,1,0,0,0,0,0,0,0,0
+4583854,James Madison,1870415,"Dipasupil, Matt",PH2B,1,0,1,1,0,0,0,0,0,0,0
+4583854,James Madison,1643272,"McKay, Bradley",3B,1,0,0,0,0,0,0,0,0,0,0
+4583854,James Madison,1772214,"Dofflemyer, Tanner",1B,1,11,11,0,0,0,0,0,0,1,0
+4583854,James Madison,1870413,"Griffin, Davonn",CF,1,2,2,0,0,0,0,0,0,0,0
+4583854,James Madison,1758478,"Perkins, Shelton",P,1,0,1,1,0,0,0,0,0,0,0
+4583854,James Madison,1772229,"Marsili, Matt",P,1,0,1,1,0,0,0,0,0,0,0
+4583854,James Madison,1643274,"McCoy, Tucker",P,1,0,0,0,0,0,0,0,0,0,0
+4583854,James Madison,1997553,"Goggin, Dan",P,1,0,0,0,0,0,0,0,0,0,0
+4583854,James Madison,1870459,"Robertson, Nick",P,1,0,0,0,0,0,0,0,0,0,0
+4583854,James Madison,1870465,"Colon, Matt",P,1,0,0,0,0,0,0,0,0,0,0
+4583854,James Madison,1997560,"Stewart, Nick",P,1,0,2,1,1,0,0,1,0,0,0
+4583854,James Madison,,Totals,0,1,27,40,11,2,0,1,1,0,1,0
+4583854,Towson,1658725,"Grunberg, Mark",CF,1,2,3,1,0,0,0,0,0,0,0
+4583854,Towson,1767558,"Palacios, Richie",SS,1,2,5,2,1,0,0,0,0,1,0
+4583854,Towson,1772931,"Alleyne, Craig",LF,1,0,0,0,0,0,0,0,0,0,0
+4583854,Towson,1979611,"Brush, Aaron",PH,1,0,0,0,0,0,0,0,0,0,0
+4583854,Towson,1868757,"Lennox, Billy",LF,1,0,0,0,0,0,0,0,0,0,0
+4583854,Towson,1868756,"Cassard, Andrew",RF,1,1,1,0,0,0,0,0,0,0,0
+4583854,Towson,1868764,"Cabrera, Noah",PH,1,0,0,0,0,0,0,0,0,0,0
+4583854,Towson,1531159,"Gimblet, Colin",RF,1,1,1,0,0,0,0,0,0,0,0
+4583854,Towson,1767566,"Miller, Richard",3B,1,1,3,2,0,0,0,0,0,0,0
+4583854,Towson,1637579,"Watters, Charlie",DH,1,0,0,0,0,0,0,0,0,0,0
+4583854,Towson,1868760,"Burke, Logan",1B,1,9,10,1,0,0,0,0,0,1,0
+4583854,Towson,1979608,"Bossi, Drew",PRC,1,5,5,0,0,0,1,0,0,0,0
+4583854,Towson,1658735,"Howerton, Tristan",C,1,4,5,1,0,0,0,0,1,0,0
+4583854,Towson,1868755,"Masters, Dirk",2B,1,1,2,1,0,0,0,0,0,0,0
+4583854,Towson,1868761,"Reeser, Kody",P,1,0,0,0,0,0,0,0,0,0,0
+4583854,Towson,1979604,"Seils, Josh",P,1,0,0,0,0,0,0,0,0,0,0
+4583854,Towson,1767564,"Stramara, Dean",P,1,1,5,4,0,0,0,0,1,1,0
+4583854,Towson,,Totals,0,1,27,40,12,1,0,1,0,1,1,0

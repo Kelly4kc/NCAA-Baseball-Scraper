@@ -110,7 +110,7 @@ public class NameFixes {
     names.put(1753068, "Anastasia, Michael");
     names.put(1974761, "Hudson, Brad");
     names.put(1881574, "Naismith, And");
-    names.put(1882336, "LaCascio, Noah");
+    names.put(1882336, "LoCascio, Noah");
     names.put(1996769, "Varela, Jordan");
     names.put(1881571, "Robinson, Cha");
     names.put(1872296, "Ramirez, III");
