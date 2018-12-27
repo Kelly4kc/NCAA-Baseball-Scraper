@@ -8,10 +8,10 @@ import com.opencsv.CSVWriter;
 import box_score_objects.BoxScoreLine;
 import box_score_objects.Team;
 import box_score_objects.TeamBoxScore;
+import utils.Venue;
 import utils.NCAAHeaders;
 import utils.NCAAUtils;
 import utils.Type;
-import utils.Venue;
 
 public class NCAAStatsTotalsFromBoxScores {
   public static void main(String[] args) {
@@ -60,7 +60,6 @@ public class NCAAStatsTotalsFromBoxScores {
           teamsFileName = "ncaa_team_stats_" + v.toString().toLowerCase() + "_"
               + t.toString().toLowerCase() + "_" + year + "_" + "D1";
         }
-
 
         String playersWriterName =
             NCAAUtils.createDirectoryAndCSVFile(playersDirectoryName, playersFileName);

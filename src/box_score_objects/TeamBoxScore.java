@@ -2,19 +2,19 @@ package box_score_objects;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Iterator;
 
-import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 
 import utils.NCAAHeaders;
-import utils.NCAAUtils;
 import utils.Type;
 
+/**
+ * Box score made up of individual lines. Only includes this teams's stats, not the opponents. Can
+ * set the opponent's totals.
+ */
 public class TeamBoxScore implements Comparable<Integer> {
 
-  private Type t;
+  private Type t; // the type of the box score (hitting, pitching, or fielding)
   private String[] header;
   private ArrayList<BoxScoreLine> lines;
   private int year;
@@ -26,6 +26,15 @@ public class TeamBoxScore implements Comparable<Integer> {
   private BoxScoreLine totals;
   private BoxScoreLine opponentTotals;
 
+  /**
+   * Inititalizes a new box score using lines. Should be used when scraping from stats.ncaa.org.
+   *
+   * @param year     the year
+   * @param gameId   the game ID
+   * @param teamName the team's name
+   * @param home     true if it is a home game
+   * @param t        the type of the box score (home, away, neutral)
+   */
   public TeamBoxScore(int year, Integer gameId, String teamName, boolean home, Type t) {
     this.t = t;
     this.year = year;
@@ -39,6 +48,12 @@ public class TeamBoxScore implements Comparable<Integer> {
     lines = new ArrayList<>();
   }
 
+  /**
+   * Inititalizes a new box score using lines. Should be used when reading from CSV.
+   *
+   * @param t     the type
+   * @param lines the lines of the box score
+   */
   public TeamBoxScore(Type t, ArrayList<BoxScoreLine> lines) {
     this.t = t;
     this.lines = lines;
@@ -48,18 +63,38 @@ public class TeamBoxScore implements Comparable<Integer> {
     this.playerId = lines.get(0).getPlayerId();
   }
 
+  /**
+   * Returns the team name of this box score.
+   *
+   * @return the team name
+   */
   public String getTeamName() {
     return teamName;
   }
 
+  /**
+   * Returns the game ID of this box score.
+   *
+   * @return the game ID
+   */
   public Integer getGameId() {
     return gameId;
   }
 
+  /**
+   * Sets the team name of this box score.
+   *
+   * @param teamName the new team name
+   */
   public void setTeamName(String teamName) {
     this.teamName = teamName;
   }
 
+  /**
+   * Adds a line to this box score.
+   *
+   * @param line the line to add
+   */
   public void add(BoxScoreLine line) {
     if (line.getPlayerName().equals("Totals")) {
       totals = line;
@@ -68,6 +103,11 @@ public class TeamBoxScore implements Comparable<Integer> {
     }
   }
 
+  /**
+   * Returns the lines of the box score.
+   *
+   * @return the lines
+   */
   public ArrayList<BoxScoreLine> getLines() {
     return lines;
   }
@@ -77,6 +117,18 @@ public class TeamBoxScore implements Comparable<Integer> {
     return gameId.compareTo(other);
   }
 
+  /**
+   * Writes the box score using the specified writer.
+   * Writes in this format : Header
+   * Line1
+   * Line2
+   * ...
+   * lineN
+   * Team Totals
+   * Opponent Totals
+   *
+   * @param writer the writer to use
+   */
   public void write(CSVWriter writer) {
     writer.writeNext(header);
     for (BoxScoreLine line : lines) {
@@ -92,22 +144,47 @@ public class TeamBoxScore implements Comparable<Integer> {
     }
   }
 
+  /**
+   * Sets the opponent team name.
+   *
+   * @param teamName the team name to set the opponent to
+   */
   public void setOpponentTeamName(String teamName) {
     opponentTeamName = teamName;
   }
 
+  /**
+   * Returns the totals for this game.
+   *
+   * @return the totals
+   */
   public BoxScoreLine getTotals() {
     return totals;
   }
-  
+
+  /**
+   * Returns the opponent's totals for this game.
+   *
+   * @return the opponent's totals
+   */
   public BoxScoreLine getOpponentTotals() {
     return opponentTotals;
   }
 
+  /**
+   * Sets the opponent's totals for this game.
+   *
+   * @param totals the opponent's totals
+   */
   public void setOpponentTotals(BoxScoreLine totals) {
     opponentTotals = totals;
   }
 
+  /**
+   * Returns whether this game is a home game for this team.
+   *
+   * @return true if the game is home, false otherwise
+   */
   public boolean isHome() {
     return home;
   }

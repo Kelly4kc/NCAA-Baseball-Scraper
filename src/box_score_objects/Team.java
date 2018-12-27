@@ -1,21 +1,21 @@
 package box_score_objects;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Set;
 
-import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 
+import utils.Venue;
 import utils.NCAAHeaders;
 import utils.NCAAUtils;
 import utils.Type;
-import utils.Venue;
 
+/**
+ * Team made up of games and players. Tracks home and away stats.
+ */
 public class Team {
-  private Type t;
+  private Type t; // the type of the team (hitting, pitching, or fielding)
   private int year;
   private String teamName;
   private HashMap<Venue, HashMap<Integer, TeamBoxScore>> games;
@@ -129,7 +129,6 @@ public class Team {
         totalsArray[i] = totalsArray[i] + Double.parseDouble(stat);
       }
     }
-
   }
 
   private String[] getTotalsString(Venue v) {

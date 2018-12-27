@@ -1,25 +1,40 @@
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 
+import pbp_grammar.AdvanceType;
+import pbp_grammar.Advanced;
+import pbp_grammar.AssistType;
+import pbp_grammar.Base;
+import pbp_grammar.ContactOutType;
+import pbp_grammar.DoublePlayType;
+import pbp_grammar.EnumWithString;
+import pbp_grammar.FieldLocation;
+import pbp_grammar.HitType;
+import pbp_grammar.KType;
+import pbp_grammar.OnBaseType;
+import pbp_grammar.OutType;
+import pbp_grammar.Position;
+import pbp_grammar.RBI;
+import pbp_grammar.RunType;
+import pbp_grammar.SacType;
+import pbp_grammar.Substitution;
 import play_by_play_objects.PlayByPlayGame;
 import play_by_play_objects.PlayByPlayInning;
 import play_by_play_objects.PlayByPlayLine;
-import utils.Base;
-import utils.FieldLocation;
 import utils.NCAAUtils;
 import utils.NameFixes;
-import utils.Position;
 
 public class NCAAEvents {
   public static void main(String[] args) {
     long startTime = System.currentTimeMillis();
     int year = 2018;
-    boolean isTeam = true;
+    boolean isTeam = false;
     String teamName = "james_madison";
     String boxScoreFileName;
     String pbpFileName;
@@ -37,10 +52,9 @@ public class NCAAEvents {
           + "_play_by_play/" + teamName + "_split_blank_play_by_play_" + year + "_D1.csv";
       writeFileName3 = "ncaa_" + year + "_D1/" + teamName + "_" + year + "_D1/" + teamName
           + "_play_by_play/" + teamName + "_split_no_name_play_by_play_" + year + "_D1.csv";
-
     } else {
       boxScoreFileName =
-          "ncaa_" + year + "_D1/ncaa_box_scores/ncaa_fielding_box_scores_" + year + "_D1.csv";;
+          "ncaa_" + year + "_D1/ncaa_box_scores/ncaa_fielding_box_scores_" + year + "_D1.csv";
       pbpFileName = "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_play_by_play_" + year + "_D1.csv";
       writeFileName =
           "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_blank_play_by_play_" + year + "_D1.csv";
@@ -49,9 +63,31 @@ public class NCAAEvents {
       writeFileName3 = "ncaa_" + year + "_D1/ncaa_play_by_play/ncaa_split_no_name_play_by_play_"
           + year + "_D1.csv";
     }
-    CSVWriter writer = NCAAUtils.CSVWriter(writeFileName, new String[] {"Event", "Frequency"});
-    CSVWriter writer2 = NCAAUtils.CSVWriter(writeFileName2, new String[] {"Event", "Frequency"});
-    CSVWriter writer3 = NCAAUtils.CSVWriter(writeFileName3, new String[] {"Event", "Frequency"});
+
+    CSVReader namesReader = NCAAUtils.CSVReader(writeFileName3);
+
+    Iterator<String[]> namesIterator = namesReader.iterator();
+    namesIterator.next();
+
+    Set<String> namesToFix = new HashSet<>();
+    int numTimes;
+    while (namesIterator.hasNext()) {
+      String[] next = namesIterator.next();
+      numTimes = Integer.parseInt(next[1]);
+      if (numTimes > 5) {
+        namesToFix.add(next[0]);
+      }
+    }
+    try {
+      namesReader.close();
+    } catch (IOException e) {
+      System.out.println("Failed to close reader.");
+      System.exit(0);
+    }
+
+    CSVWriter writer = NCAAUtils.CSVWriter(writeFileName, new String[]{"Event", "Frequency"});
+    CSVWriter writer2 = NCAAUtils.CSVWriter(writeFileName2, new String[]{"Event", "Frequency"});
+    CSVWriter writer3 = NCAAUtils.CSVWriter(writeFileName3, new String[]{"Event", "Frequency"});
 
     HashMap<String, Integer> noNameEvents = new HashMap<>();
 
@@ -117,71 +153,30 @@ public class NCAAEvents {
               event = temp + numString.replace(number, "");
             }
           }
+          event = removeKeyword(event, FieldLocation.values());
+          event = removeKeyword(event, Base.values());
+          event = removeKeyword(event, Position.values());
+          event = removeKeyword(event, KType.values());
+          event = removeKeyword(event, ContactOutType.values());
+          event = removeKeyword(event, OnBaseType.values());
+          event = removeKeyword(event, AdvanceType.values());
+          event = removeKeyword(event, RBI.values());
+          event = removeKeyword(event, DoublePlayType.values());
+          event = removeKeyword(event, Advanced.values());
+          event = removeKeyword(event, Substitution.values());
+          event = removeKeyword(event, HitType.values());
+          event = removeKeyword(event, SacType.values());
+          event = removeKeyword(event, OutType.values());
+          event = removeKeyword(event, AssistType.values());
+          event = removeKeyword(event, RunType.values());
 
-          for (FieldLocation fieldLocation : FieldLocation.values()) {
-            String fieldLocationString = " " + fieldLocation.toString().toLowerCase();
-            if (event.contains(fieldLocationString + " ")) {
-              event = event.replaceAll(fieldLocationString + " ", " [fieldLocation] ");
-            }
-            if (event.contains(fieldLocationString + ",")) {
-              event = event.replaceAll(fieldLocationString + ",", " [fieldLocation],");
-            }
-            if (event.contains(fieldLocationString + ":")) {
-              event = event.replaceAll(fieldLocationString + ":", " [fieldLocation]:");
-            }
-            if (event.contains(fieldLocationString + ";")) {
-              event = event.replaceAll(fieldLocationString + ";", " [fieldLocation];");
-            }
-            if (event.contains(fieldLocationString + "3a")) {
-              event = event.replaceAll(fieldLocationString + "3a", " [fieldLocation]3a");
-            }
-            if (event.endsWith(fieldLocationString)) {
-              event = event.substring(0, event.length() - fieldLocationString.length())
-                  + " [fieldLocation]";
-            }
+          event = event.trim();
+
+          if (namesToFix.contains(event)) {
+            System.out.println("https://stats.ncaa.org/game/index/" + gameId + "\t" + event);
+            namesToFix.remove(event);
           }
-          for (Base base : Base.values()) {
-            String baseString = " " + base.toString().toLowerCase();
-            if (event.contains(baseString + " ")) {
-              event = event.replaceAll(baseString + " ", " [base] ");
-            }
-            if (event.contains(baseString + ",")) {
-              event = event.replaceAll(baseString + ",", " [base],");
-            }
-            if (event.contains(baseString + ":")) {
-              event = event.replaceAll(baseString + ":", " [base]:");
-            }
-            if (event.contains(baseString + ";")) {
-              event = event.replaceAll(baseString + ";", " [base];");
-            }
-            if (event.contains(baseString + "3a")) {
-              event = event.replaceAll(baseString + "3a", " [base]3a");
-            }
-            if (event.endsWith(baseString)) {
-              event = event.substring(0, event.length() - baseString.length()) + " [base]";
-            }
-          }
-          for (Position position : Position.values()) {
-            String positionString = " " + position.toString().toLowerCase();
-            if (event.contains(positionString + " ")) {
-              event = event.replaceAll(positionString + " ", " [position] ");
-            }
-            if (event.contains(positionString + ",")) {
-              event = event.replaceAll(positionString + ",", " [position],");
-            }
-            if (event.contains(positionString + ":")) {
-              event = event.replaceAll(positionString + ":", " [position]:");
-            }
-            if (event.contains(positionString + ";")) {
-              event = event.replaceAll(positionString + ";", " [position];");
-            }
-            if (event.contains(positionString + "3a")) {
-              event = event.replaceAll(positionString + "3a", " [position]3a");
-            }
-            if (event.endsWith(positionString)) {
-              event = event.substring(0, event.length() - positionString.length()) + " [position]";
-            }
-          }
+
           if (noNameEvents.containsKey(event)) {
             noNameEvents.put(event, noNameEvents.get(event) + 1);
           } else {
@@ -196,7 +191,7 @@ public class NCAAEvents {
       }
 
       j++;
-      System.out.println(j + " / " + gameIds.size() + " Processed: " + gameId);
+      //System.out.println(j + "|" + gameIds.size() + " Processed: " + gameId);
     }
     int eventNum = 0;
     int splitEventNum = 0;
@@ -204,7 +199,7 @@ public class NCAAEvents {
     HashMap<String, Integer> splitEvents = new HashMap<>();
     HashMap<String, Integer> splitNoNameEvents = new HashMap<>();
     for (String event : eventSet) {
-      writer.writeNext(new String[] {event, String.valueOf(events.get(event))});
+      writer.writeNext(new String[]{event, String.valueOf(events.get(event))});
       eventNum += events.get(event);
       for (String subEvent : splitEvents(event)) {
         if (subEvent.trim().contains("[name]")) {
@@ -231,7 +226,7 @@ public class NCAAEvents {
 
     Set<String> splitEventSet = splitEvents.keySet();
     for (String event : splitEventSet) {
-      writer2.writeNext(new String[] {event, String.valueOf(splitEvents.get(event))});
+      writer2.writeNext(new String[]{event, String.valueOf(splitEvents.get(event))});
       splitEventNum += splitEvents.get(event);
     }
     try {
@@ -242,7 +237,7 @@ public class NCAAEvents {
 
     Set<String> noNameSplitSet = splitNoNameEvents.keySet();
     for (String event : noNameSplitSet) {
-      writer3.writeNext(new String[] {event, String.valueOf(splitNoNameEvents.get(event))});
+      writer3.writeNext(new String[]{event, String.valueOf(splitNoNameEvents.get(event))});
     }
     try {
       writer3.flush();
@@ -251,13 +246,15 @@ public class NCAAEvents {
     }
 
     System.out.println("Total events: " + eventNum);
+    System.out.println("Total different events: " + events.size());
     System.out.println("Total split events: " + splitEventNum);
+    System.out.println("Total different split events: " + splitEvents.size());
     long endTime = System.currentTimeMillis();
     System.out.println("Total Time: " + (endTime - startTime) / 1000.0);
   }
 
   private static HashMap<Integer, HashMap<Integer, String>> getAllRostersFromBoxScoreFile(int year,
-      String fileName) {
+                                                                                          String fileName) {
     CSVReader reader = NCAAUtils.CSVReader(fileName);
     Iterator<String[]> it = reader.iterator();
     HashMap<Integer, HashMap<Integer, String>> gameRosters = new HashMap<>();
@@ -302,7 +299,7 @@ public class NCAAEvents {
         || event.matches(".*\\d P\\.M.*") || event.matches(".*\\d A\\.M.*")
         || event.contains("Count") || event.contains("delay") || event.contains("Delay")
         || event.contains("First Pitch")) {
-      events = new String[] {event};
+      events = new String[]{event};
     } else {
       if (event.contains(":") || event.contains(";") || event.contains("3a")) {
         if (event.contains(":")) {
@@ -315,7 +312,7 @@ public class NCAAEvents {
           events = event.split("3a");
         }
       } else {
-        events = new String[] {event};
+        events = new String[]{event};
       }
     }
     return events;
@@ -350,7 +347,6 @@ public class NCAAEvents {
     return games;
   }
 
-
   private static HashMap<Integer, String[]> namePermutations(HashMap<Integer, String> roster) {
     HashMap<Integer, String[]> allNames = new HashMap<>();
     Set<Integer> ids = roster.keySet();
@@ -359,8 +355,8 @@ public class NCAAEvents {
       if (name == null) {
         name = roster.get(id);
       }
-      String lastName = null;
-      String firstName = null;
+      String lastName;
+      String firstName;
       try {
         lastName = name.substring(0, name.indexOf(','));
         firstName = name.substring(name.indexOf(',') + 2);
@@ -437,7 +433,6 @@ public class NCAAEvents {
       names[46] = names[22].toUpperCase();
       names[46] = names[23].toUpperCase();
 
-
       names[47] = names[24];
       names[48] = names[25];
       names[49] = names[26];
@@ -489,5 +484,31 @@ public class NCAAEvents {
       allNames.put(id, names);
     }
     return allNames;
+  }
+
+  private static String removeKeyword(String event, EnumWithString[] values) {
+    for (EnumWithString value : values) {
+      String valueString = " " + value.toString();
+      if (event.contains(valueString + " ")) {
+        event = event.replaceAll(valueString + " ", " [" + value.getGenericString() + "] ");
+      }
+      if (event.contains(valueString + ",")) {
+        event = event.replaceAll(valueString + ",", " [" + value.getGenericString() + "],");
+      }
+      if (event.contains(valueString + ":")) {
+        event = event.replaceAll(valueString + ":", " [" + value.getGenericString() + "]:");
+      }
+      if (event.contains(valueString + ";")) {
+        event = event.replaceAll(valueString + ";", " [" + value.getGenericString() + "];");
+      }
+      if (event.contains(valueString + "3a")) {
+        event = event.replaceAll(valueString + "3a", " [" + value.getGenericString() + "]3a");
+      }
+      if (event.endsWith(valueString)) {
+        event = event.substring(0, event.length() - valueString.length()) + " ["
+            + value.getGenericString() + "]";
+      }
+    }
+    return event;
   }
 }

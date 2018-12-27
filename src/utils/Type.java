@@ -5,7 +5,7 @@ public enum Type {
 
   private String typeString;
 
-  private Type(String typeString) {
+  Type(String typeString) {
     this.typeString = typeString;
   }
 

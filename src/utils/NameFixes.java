@@ -5,6 +5,7 @@ import java.util.HashMap;
 public class NameFixes {
 
   private static HashMap<Integer, String> names;
+
   static {
     names = new HashMap<>();
     names.put(1978909, "Giachin, Ant");
@@ -115,6 +116,37 @@ public class NameFixes {
     names.put(1881571, "Robinson, Cha");
     names.put(1872296, "Ramirez, III");
     names.put(1863289, "Thomas, Nate");
+    names.put(1874536, "Blankenberge, Tim");
+    names.put(1998643, "Smith, Cade");
+    names.put(1874814, "DeLaite, Trevor");
+    names.put(1772689, "Cardenas, Ruban");
+    names.put(1997516, "Bourque, Rei");
+    names.put(1755208, "Bryan, Andre");
+    names.put(1752414, "Selman, Shan");
+    names.put(1997522, "Ueckert, Cay");
+    names.put(1752426, "Cochran, Jak");
+    names.put(1870204, "Whelton, Bre");
+    names.put(1870207, "Rogers, Mitc");
+    names.put(1870253, "Cooley, Well");
+    names.put(1559855, "Ciocia, C.");
+    names.put(1997276, "Balderrama, Max");
+    names.put(1997517, "Johnson, Pey");
+    names.put(1870211, "Racca, Hunte");
+    names.put(1643147, "Montes, Bryce");
+    names.put(1774798, "Adams Jr., Phil");
+    names.put(1977571, "Boykins Jr., Kerry");
+    names.put(1991459, "Coss, Jon");
+    names.put(1997273, "Closner, Oliver");
+    names.put(1871102, "Wegmann, TJ");
+    names.put(1871484, "Kauffmann, Karl");
+    names.put(1644107, "Styles, J.H.");
+    names.put(1879871, "Houston, Gar");
+    names.put(1871300, "Nicoll, Thoma");
+    names.put(1756499, "Mitchell, Mal");
+    names.put(1981627, "Shulstad, Dev");
+    names.put(1864407, "Johnson, S.K.");
+    names.put(1755748, "Cole, Daz");
+    names.put(1995758, "Leitha, Larr");
   }
 
   public static String fixNames(Integer id) {
